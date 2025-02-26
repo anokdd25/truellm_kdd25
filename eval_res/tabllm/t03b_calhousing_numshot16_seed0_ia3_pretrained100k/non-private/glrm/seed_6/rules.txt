@@ -1,0 +1,3 @@
+0.322206018640271	(intercept)
+13.80490912075064	location of the house with respect to ocean/sea_INLAND == 0.0
+-13.511994559014942	location of the house with respect to ocean/sea_INLAND == 1.0

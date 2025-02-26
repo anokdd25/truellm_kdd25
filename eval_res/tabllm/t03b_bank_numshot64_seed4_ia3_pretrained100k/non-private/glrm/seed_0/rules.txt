@@ -1,0 +1,29 @@
+0.5199873778976166	(intercept)
+-6.024550445789333	marital status_single == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+-4.2567195624806	type of job_student == 0.0 AND marital status_married == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+-3.2432079817536694	type of job_student == 0.0 AND education level_tertiary == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+3.180477441649912	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_unemployed == 0.0 AND age <= 46.03 AND average yearly balance in euros > -7.87
+3.0663670978248785	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_unemployed == 0.0 AND marketing contact communication type_unknown == 0.0 AND average yearly balance in euros > 22.58
+3.0078443939135866	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND marital status_married == 1.0 AND average yearly balance in euros > -7.87
+2.865649650104509	type of job_blue-collar == 0.0 AND type of job_unknown == 0.0 AND marital status_married == 1.0
+2.488461535403419	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND average yearly balance in euros > 22.58
+2.23191677705562	marital status_single == 1.0 AND average yearly balance in euros > -7.87
+-1.823555054048676	type of job_entrepreneur == 0.0 AND marital status_single == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+1.8123161080340124	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_services == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND average yearly balance in euros > -7.87
+1.4367633693606279	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_services == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND average yearly balance in euros > -7.87
+-1.2876659593060513	type of job_entrepreneur == 0.0 AND type of job_self-employed == 0.0 AND type of job_student == 0.0 AND type of job_technician == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+-1.2285198734662062	type of job_entrepreneur == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND age > 34.03
+1.1954100060999073	type of job_blue-collar == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND has personal loan_yes == 0.0 AND average yearly balance in euros > 22.58
+1.0213644957144885	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND age <= 36.05 AND average yearly balance in euros > -7.87
+0.9218634518154493	outcome of the previous marketing campaign_unknown == 0.0
+0.8901645342476601	education level_tertiary == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+-0.7822624794639518	type of job_entrepreneur == 0.0 AND type of job_self-employed == 0.0 AND type of job_student == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND average yearly balance in euros <= 1849.43
+0.7369223327278549	type of job_blue-collar == 0.0 AND average yearly balance in euros > 144.37
+-0.6871775708701349	type of job_entrepreneur == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND average yearly balance in euros <= 692.42
+0.6201284575805615	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND age <= 51.02 AND average yearly balance in euros > -7.87
+0.5846475026677458	type of job_blue-collar == 0.0 AND type of job_housemaid == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND age <= 42.00 AND average yearly balance in euros > -7.87
+-0.5619705412956779	education level_tertiary == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND number of contacts performed before this campaign and for this client <= 2.01
+-0.4491476540289771	number of contacts performed before this campaign and for this client <= 0.00
+-0.4491476540289771	number of days passed after the client was last contacted from a previous campaign <= -0.85
+-0.4491476540289771	outcome of the previous marketing campaign_unknown == 1.0
+-0.43997401357929034	type of job_entrepreneur == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND average yearly balance in euros <= 1118.69

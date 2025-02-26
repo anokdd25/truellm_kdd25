@@ -1,0 +1,16 @@
+-3.2225417238090595	(intercept)
+-4.601171824639656	workclass_ Federal-gov == 0.0 AND education_ Masters == 0.0 AND marital_status_ Married-spouse-absent == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0
+-3.0759988868319184	marital_status_ Married-civ-spouse == 0.0
+2.6850501236542192	education_ 5th-6th == 0.0 AND education_ 7th-8th == 0.0 AND marital_status_ Never-married == 0.0 AND relationship_ Not-in-family == 0.0 AND relationship_ Unmarried == 0.0 AND native_country_ Mexico == 0.0 AND age > 21.94
+-2.4051248644071013	workclass_ Local-gov == 0.0 AND workclass_ State-gov == 0.0 AND education_ Bachelors == 0.0 AND education_ Doctorate == 0.0 AND occupation_ Prof-specialty == 0.0
+2.0482992369794566	marital_status_ Never-married == 0.0 AND relationship_ Not-in-family == 0.0 AND relationship_ Unmarried == 0.0
+1.9847028977639052	education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0 AND relationship_ Unmarried == 0.0
+1.632579062156844	education_ 7th-8th == 0.0 AND marital_status_ Never-married == 0.0 AND age > 26.03
+1.4939267950632797	education_ 7th-8th == 0.0 AND marital_status_ Never-married == 0.0 AND occupation_ Transport-moving == 0.0 AND relationship_ Own-child == 0.0 AND relationship_ Unmarried == 0.0
+0.8520683511845746	marital_status_ Never-married == 0.0 AND capital_gain > -30.14
+0.8510254257391969	workclass_ Private == 0.0 AND marital_status_ Never-married == 0.0
+0.8083624241340472	education_ 7th-8th == 0.0 AND marital_status_ Never-married == 0.0 AND relationship_ Unmarried == 0.0 AND age > 32.99
+0.6305512332172226	education_ 7th-8th == 0.0 AND marital_status_ Never-married == 0.0 AND sex_ Male == 1.0
+0.43546189382690376	marital_status_ Never-married == 0.0 AND sex_ Male == 1.0
+0.14641600481219	marital_status_ Married-civ-spouse == 1.0
+0.049278142011980004	marital_status_ Never-married == 0.0 AND age > 26.03

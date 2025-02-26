@@ -1,0 +1,51 @@
+|--- class_bad  <= -1.05
+|   |--- 7_<1  <= 0.50
+|   |   |--- 12_no known property  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 12_no known property  >  0.50
+|   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |--- class: 0.0|   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |--- 8  <= -0.19
+|   |   |   |   |   |--- class_bad  <= -1.35
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- class_bad  >  -1.35
+|   |   |   |   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 8  >  -0.19
+|   |   |   |   |   |--- class: 0.0|   |--- 7_<1  >  0.50
+|   |   |--- 4_new car  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 4_new car  >  0.50
+|   |   |   |--- 16  <= -0.51
+|   |   |   |   |--- class: 1.0|   |   |   |--- 16  >  -0.51
+|   |   |   |   |--- class: 0.0|--- class_bad  >  -1.05
+|   |--- 7_unemployed  <= 0.50
+|   |   |--- 13  <= 0.42
+|   |   |   |--- class: 0.0|   |   |--- 13  >  0.42
+|   |   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |   |--- 13  <= 0.42
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 13  >  0.42
+|   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |--- 4_new car  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 4_new car  >  0.50
+|   |   |   |   |   |   |   |--- 12_no known property  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 12_no known property  >  0.50
+|   |   |   |   |   |   |   |   |--- 16  <= 0.01
+|   |   |   |   |   |   |   |   |   |--- 7_>=7  <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |   |--- 7_>=7  >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |--- 16  >  0.01
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |   |--- 13  <= 0.60
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 13  >  0.60
+|   |   |   |   |   |--- class: 0.0|   |--- 7_unemployed  >  0.50
+|   |   |--- 9_male single  <= 0.50
+|   |   |   |--- class_bad  <= -0.79
+|   |   |   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |--- class_bad  >  -0.79
+|   |   |   |   |--- class: 0.0|   |   |--- 9_male single  >  0.50
+|   |   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |   |--- 13  <= -1.05
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 13  >  -1.05
+|   |   |   |   |   |--- class: 1.0

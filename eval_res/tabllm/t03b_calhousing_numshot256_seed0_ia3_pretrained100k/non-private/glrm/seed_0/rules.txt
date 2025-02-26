@@ -1,0 +1,16 @@
+0.024019130429617664	(intercept)
+2.4836726477576048	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) > 2.73
+2.4439601146306367	location of the house with respect to ocean/sea_INLAND == 0.0 AND latitude <= 38.47 AND median income for households within a block (in tens of thousands USD) > 3.15
+-2.152379188020116	location of the house with respect to ocean/sea_INLAND == 1.0 AND median income for households within a block (in tens of thousands USD) <= 5.11
+-1.4189689948794888	median income for households within a block (in tens of thousands USD) <= 3.97
+-0.9367061079586497	longitude <= -118.49 AND median income for households within a block (in tens of thousands USD) <= 5.11
+0.9061291984067572	location of the house with respect to ocean/sea_INLAND == 0.0 AND population within a block > 508.18 AND median income for households within a block (in tens of thousands USD) > 2.73
+0.8419081860149761	total rooms within a block > 2133.99 AND median income for households within a block (in tens of thousands USD) > 2.73
+-0.8116364274622507	median income for households within a block (in tens of thousands USD) <= 4.44
+-0.8081528249739979	median income for households within a block (in tens of thousands USD) <= 3.53
+0.7969484535998117	median age of the house within a block > 19.96 AND median income for households within a block (in tens of thousands USD) > 2.73
+-0.7418726528630584	median age of the house within a block <= 33.04 AND median income for households within a block (in tens of thousands USD) <= 5.11
+-0.6834499543962049	median age of the house within a block <= 29.02 AND median income for households within a block (in tens of thousands USD) <= 5.11
+-0.6772528128659099	total bedrooms within a block <= 508.52 AND median income for households within a block (in tens of thousands USD) <= 5.11
+-0.5027602146319855	total number of households within a block <= 472.78 AND median income for households within a block (in tens of thousands USD) <= 5.11
+0.09093378296421327	latitude > 34.26 AND median income for households within a block (in tens of thousands USD) <= 5.11

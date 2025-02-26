@@ -1,0 +1,11 @@
+|--- class_bad  <= 1.04
+|   |--- 19_yes  <= 0.50
+|   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |--- 16  <= -0.13
+|   |   |   |   |--- class: 0.0|   |   |   |--- 16  >  -0.13
+|   |   |   |   |--- class: 0.0|   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- 19_yes  >  0.50
+|   |   |--- class: 0.0|--- class_bad  >  1.04
+|   |--- class: 0.0

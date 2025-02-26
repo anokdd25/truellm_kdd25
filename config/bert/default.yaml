@@ -1,0 +1,14 @@
+general:
+  dataset: heart
+  finetune_flag: True
+
+eval_params:
+  model: google-bert/bert-base-uncased #gpt-3.5-turbo-0125
+  batch_size: 128
+
+finetune:
+  seed: 0
+  numshot: 64
+  epoch: 30
+  lr: 0.00002
+  patience: 5

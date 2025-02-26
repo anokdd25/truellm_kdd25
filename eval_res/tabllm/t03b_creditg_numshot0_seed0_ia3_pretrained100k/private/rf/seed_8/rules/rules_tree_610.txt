@@ -1,0 +1,5 @@
+|--- 18  <= -2.16
+|   |--- class: 0.0|--- 18  >  -2.16
+|   |--- 12_no known property  <= 0.50
+|   |   |--- class: 0.0|   |--- 12_no known property  >  0.50
+|   |   |--- class: 0.0

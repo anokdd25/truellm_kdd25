@@ -1,0 +1,2 @@
+0:[2<2_housemaid ] yes=2_housemaid ,no=2,missing=2
+	1:leaf=0.00178728346	2:leaf=-0.038266737

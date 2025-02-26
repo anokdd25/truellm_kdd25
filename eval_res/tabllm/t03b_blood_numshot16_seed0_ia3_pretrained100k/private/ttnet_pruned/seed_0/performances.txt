@@ -1,0 +1,84 @@
+
+ DNF number 1 (x_1 & ~x_2 & ~x_3) | (~x_0 & ~x_2 & ~x_3)
+ DNF number 2 (x_1 & x_3) | (x_3 & ~x_0)
+ DNF number 3 x_1 | ~x_3 | (x_2 & ~x_0)
+ DNF number 4 None
+ DNF number 5 None
+ DNF number 6 x_1 | x_3
+ DNF number 7 x_2 | ~x_3 | (x_1 & ~x_0)
+ DNF number 8 (x_3 & ~x_0) | (x_3 & ~x_1) | (x_3 & ~x_2) | (~x_0 & ~x_2) | (~x_1 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | x_2 | (x_3 & ~x_0)
+ Number of gates 27
+Accuracy (%) 60.66666666666667
+ROC (%) 67.70441729323309
+FPR (%): 45.535714285714285
+TPR (%): 78.94736842105263
+F1-score (%): 50.420168067226875
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 27
+Rules: 7
+
+After Dont Care
+
+Conditions: 27
+Rules: 7
+
+
+ DNF number 1 (x_1 & ~x_2 & ~x_3) | (~x_0 & ~x_2 & ~x_3)
+ DNF number 2 (x_1 & x_3) | (x_3 & ~x_0)
+ DNF number 3 x_1 | ~x_3
+ DNF number 4 None
+ DNF number 5 None
+ DNF number 6 x_1 | x_3
+ DNF number 7 x_2 | ~x_3 | (x_1 & ~x_0)
+ DNF number 8 (x_3 & ~x_0) | (x_3 & ~x_1) | (x_3 & ~x_2) | (~x_0 & ~x_1) | (~x_0 & ~x_2) | (~x_1 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | x_2 | (x_3 & ~x_0)
+ Number of gates 27
+Accuracy (%) 58.666666666666664
+ROC (%) 70.5827067669173
+FPR (%): 50.89285714285714
+TPR (%): 86.8421052631579
+F1-score (%): 51.5625
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 27
+Rules: 7
+
+After Dont Care
+
+Conditions: 27
+Rules: 7
+
+
+ DNF number 1 (x_1 & ~x_2 & ~x_3) | (~x_0 & ~x_2 & ~x_3)
+ DNF number 2 (x_1 & x_3) | (x_3 & ~x_0)
+ DNF number 3 x_1 | ~x_3
+ DNF number 4 None
+ DNF number 5 None
+ DNF number 6 x_1 | x_3
+ DNF number 7 x_2 | ~x_3 | (x_1 & ~x_0)
+ DNF number 8 (x_3 & ~x_0) | (x_3 & ~x_1) | (x_3 & ~x_2) | (~x_0 & ~x_1) | (~x_0 & ~x_2) | (~x_1 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | x_2 | (x_3 & ~x_0)
+ Number of gates 27
+Accuracy (%) 58.666666666666664
+ROC (%) 70.5827067669173
+FPR (%): 50.89285714285714
+TPR (%): 86.8421052631579
+F1-score (%): 51.5625
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 27
+Rules: 7
+
+After Dont Care
+
+Conditions: 27
+Rules: 7
+

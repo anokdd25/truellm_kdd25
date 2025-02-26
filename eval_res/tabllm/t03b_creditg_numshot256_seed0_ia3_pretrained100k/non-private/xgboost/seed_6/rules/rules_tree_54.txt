@@ -1,0 +1,6 @@
+0:[0<1] yes=1,no=2,missing=2
+	1:[38<1] yes=3,no=4,missing=4
+		3:[22<1] yes=7,no=8,missing=8
+			7:leaf=0.0201447196			8:leaf=-0.04337034		4:leaf=0.0579161234	2:[5<1] yes=5,no=6,missing=6
+		5:leaf=0.0118894558		6:[10<1] yes=4_new car ,no=10,missing=10
+			9:leaf=-0.0670100451			10:leaf=-0.00187754468

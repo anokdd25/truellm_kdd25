@@ -1,0 +1,4 @@
+-3.7244257077871286	(intercept)
+11.057835275958338	sex_M == 1.0 AND restecg_Normal == 0.0
+-9.738253128967711	restecg_Normal == 1.0
+6.352411576235174	restecg_Normal == 0.0

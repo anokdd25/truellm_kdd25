@@ -1,0 +1,31 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:[42<1.53922606] yes=3,no=4,missing=4
+		3:[28<1] yes=7,no=8,missing=8
+			7:[27<1] yes=13,no=14,missing=14
+				13:[47<-0.488084257] yes=25,no=26,missing=26
+					25:leaf=-0.0163227953					26:[26<1] yes=43,no=44,missing=44
+						43:leaf=-0.0320819765						44:leaf=-0.203623787				14:[46<0.430168271] yes=27,no=28,missing=28
+					27:[26<1] yes=45,no=46,missing=46
+						45:leaf=0.0352615155						46:leaf=-0.0915465802					28:leaf=0.0636261776			8:[1<1] yes=15,no=16,missing=16
+				15:[3<1] yes=3_critical/other existing credit 9,no=30,missing=30
+					29:[42<1.25990713] yes=47,no=48,missing=48
+						47:leaf=-0.0237106141						48:leaf=-0.132426083					30:[43<-0.117462978] yes=49,no=50,missing=50
+						49:leaf=-0.0261867922						50:leaf=0.0462261923				16:[4<1] yes=3_delayed previously 1,no=3_delayed previously 2,missing=3_delayed previously 2
+					31:[41<-0.468711555] yes=51,no=52,missing=52
+						51:leaf=-0.00488538574						52:leaf=0.0921694413					32:leaf=-0.0331868492		4:[46<-0.0957151726] yes=9,no=10,missing=10
+			9:[21<1] yes=17,no=18,missing=18
+				17:[45<-0.669483364] yes=33,no=34,missing=34
+					33:leaf=0.000187675731					34:leaf=0.206028134				18:leaf=-0.0433229692			10:[47<-1.02140868] yes=19,no=20,missing=20
+				19:leaf=0.0856203809				20:[45<-0.431931257] yes=35,no=36,missing=36
+					35:leaf=0.0369424187					36:[46<1.07618225] yes=53,no=54,missing=54
+						53:leaf=-0.1343586						54:leaf=0.00981041789	2:[47<1.99980652] yes=5,no=6,missing=6
+		5:[8<1] yes=11,no=12,missing=12
+			11:[4<1] yes=21,no=22,missing=22
+				21:[23<1] yes=37,no=38,missing=38
+					37:[47<-1.09327877] yes=55,no=56,missing=56
+						55:leaf=-0.0104196267						56:leaf=0.0858074129					38:[41<0.247616217] yes=57,no=58,missing=58
+						57:leaf=-0.0566810146						58:leaf=0.0255829226				22:[42<0.459224313] yes=39,no=40,missing=40
+					39:[39<1] yes=59,no=60,missing=60
+						59:leaf=-0.0818189681						60:leaf=0.0088306386					40:leaf=0.0578109883			12:[38<1] yes=23,no=24,missing=24
+				23:[45<0.534390092] yes=41,no=42,missing=42
+					41:leaf=-0.0985341892					42:leaf=0.0164778382				24:leaf=0.0575346611		6:leaf=-0.0562800951

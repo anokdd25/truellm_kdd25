@@ -1,0 +1,15 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:[17<1] yes=3,no=4,missing=4
+		3:[42<-1.107635 9] yes=7,no=8,missing=8
+			7:[31<1] yes=15,no=16,missing=16
+				15:leaf=-0.29625541				16:leaf=0.0348339565			8:[23<1] yes=17,no=18,missing=18
+				17:leaf=0.149290904				18:leaf=-0.310137391		4:[1<1] yes=9,no=11_>=200 ,missing=11_>=200 
+			4_new car :[10<1] yes=14_new car ,no=20,missing=20
+				19:leaf=-0.181538865				20:leaf=-0.39800182			10:[10<1] yes=21,no=22,missing=22
+				21:leaf=0.183161512				22:leaf=-0.152233541	2:[30<1] yes=5,no=6,missing=6
+		5:[12<1] yes=4_radio/tv ,no=12,missing=12
+			11:[17<1] yes=23,no=24,missing=24
+				23:leaf=0.32813409				24:leaf=0.126675233			12:[29<1] yes=25,no=26,missing=26
+				25:leaf=-0.172259003				26:leaf=0.277617693		6:[23<1] yes=13,no=14,missing=14
+			13:[42<-1.14480877] yes=27,no=28,missing=28
+				27:leaf=0.181145802				28:leaf=0.428627759			14:leaf=-0

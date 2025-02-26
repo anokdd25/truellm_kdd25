@@ -1,0 +1,7 @@
+0:[11<-1.52619135] yes=1,no=2,missing=2
+	1:leaf=-0.2023983	9_NEAR OCEAN :[3<1] yes=3,no=4,missing=4
+		3:[2<9_NEAR BAY ] yes=5,no=6,missing=6
+			5:leaf=-0.149272889			4 :[7<0.0834239051] yes=9,no=10,missing=10
+				9:leaf=0.106301904				10:leaf=-0.0317141227		4:[11<0.821402371] yes=7,no=8,missing=8
+			7:leaf=0.0869798586			8:[5<0.0608563833] yes=11,no=12,missing=12
+				11:leaf=-0.236297593				12:leaf=0.0338863358

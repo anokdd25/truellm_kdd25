@@ -1,0 +1,19 @@
+0:[25<-0.447085947] yes=1,no=2,missing=2
+	1:[24<-1.50075972] yes=3,no=4,missing=4
+		3:leaf=0.0478443578		4:[21<1] yes=7,no=8,missing=8
+			7:[22<1] yes=13,no=14,missing=14
+				13:[28<-0.870442212] yes=25,no=26,missing=26
+					25:leaf=0.0162066929					26:leaf=-0.0894599184				14:leaf=0.0116051547			8:[30<2.634614 73] yes=15,no=16,missing=16
+				15:leaf=0.0318811052				16:leaf=-0.0366830863	2:[12<1] yes=5,no=6,missing=6
+		5:[11<1] yes=9,no=3_married ,missing=3_married 
+			9:[21<1] yes=17,no=18,missing=18
+				17:[22<1] yes=27,no=28,missing=28
+					27:leaf=-0.0783408955					28:leaf=0.0603385083				18:leaf=0.0648541674			10:[10<1] yes=12_unknown ,no=20,missing=20
+				19:[24<0.665217817] yes=29,no=30,missing=30
+					29:leaf=0.0232418068					30:leaf=-0.00648796652				20:leaf=-0.100181237		6:[24<-0.653203309] yes=11,no=12,missing=12
+			11:[0<1] yes=21,no=22,missing=22
+				22_housemaid :[2<2_housemaid ] yes=32_housemaid ,no=32,missing=32
+					31:leaf=0.0576426871					32:leaf=-0.0395676009				22:leaf=-0.0270666089			12:[17<1] yes=23,no=24,missing=24
+				23:[5<1] yes=33,no=32_sel-employed ,missing=32_sel-employed 
+					33:leaf=-0.0285461582					34:leaf=0.0774671286				24:[6<1] yes=32_services ,no=36,missing=36
+					35:leaf=0.0423849635					36:leaf=-0.0169325974

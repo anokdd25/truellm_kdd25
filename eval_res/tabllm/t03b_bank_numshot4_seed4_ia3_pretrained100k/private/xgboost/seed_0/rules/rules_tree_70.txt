@@ -1,0 +1,8 @@
+0:[7<1] yes=1,no=2,missing=2
+	1:[24<-0.760799825] yes=3,no=4,missing=4
+		2_retired :[4<1] yes=5,no=6,missing=6
+			5:[9<1] yes=9,no=10,missing=10
+				9:leaf=0.024083456				10:leaf=-0			6:[28<0.177662954] yes=11,no=12,missing=12
+				11:leaf=-0				12:leaf=-0.043122936		4:[9<1] yes=7,no=2_unemployed ,missing=2_unemployed 
+			7:[11<1] yes=13,no=14,missing=14
+				13:leaf=-0				14:leaf=0.0951708257			8:leaf=-0	2:leaf=-0.0168313067

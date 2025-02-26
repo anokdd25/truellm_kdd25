@@ -1,0 +1,25 @@
+|--- 14_stores  <= 0.50
+|   |--- class_bad  <= 0.95
+|   |   |--- 12_no known property  <= 0.50
+|   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |   |   |--- 1_no checking  <= 0.50
+|   |   |   |   |   |   |--- 16  <= 0.13
+|   |   |   |   |   |   |   |--- 16  <= -1.01
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 16  >  -1.01
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 16  >  0.13
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 1_no checking  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- 12_no known property  >  0.50
+|   |   |   |--- class: 1.0|   |--- class_bad  >  0.95
+|   |   |--- class: 1.0|--- 14_stores  >  0.50
+|   |--- 3_critical/other existing credit  <= 0.50
+|   |   |--- 16  <= 2.06
+|   |   |   |--- 4_radio/tv  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 4_radio/tv  >  0.50
+|   |   |   |   |--- 11  <= 0.02
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 11  >  0.02
+|   |   |   |   |   |--- class: 1.0|   |   |--- 16  >  2.06
+|   |   |   |--- class: 0.0|   |--- 3_critical/other existing credit  >  0.50
+|   |   |--- class: 1.0

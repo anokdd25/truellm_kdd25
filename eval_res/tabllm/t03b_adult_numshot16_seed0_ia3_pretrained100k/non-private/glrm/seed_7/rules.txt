@@ -1,0 +1,16 @@
+-1.8347004569968595	(intercept)
+-6.982252959292785	workclass_ Federal-gov == 0.0 AND workclass_ Local-gov == 0.0 AND workclass_ Self-emp-inc == 0.0 AND workclass_ Self-emp-not-inc == 0.0 AND workclass_ State-gov == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND capital_gain <= -30.14
+-4.39196610197873	marital_status_ Married-civ-spouse == 0.0
+4.213874536143126	marital_status_ Never-married == 0.0 AND education_num > 9.00
+4.207273781235184	education_ 1st-4th == 0.0 AND education_ 7th-8th == 0.0 AND education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0 AND age > 21.94
+-3.8939162856110343	occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0
+2.7240565955501954	marital_status_ Married-civ-spouse == 1.0
+2.3296407678175326	workclass_ Private == 0.0 AND marital_status_ Never-married == 0.0
+2.016056498639322	marital_status_ Never-married == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND sex_ Male == 1.0
+1.501246195564727	marital_status_ Never-married == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND relationship_ Unmarried == 0.0 AND age > 26.03
+-1.44889688253918	marital_status_ Married-civ-spouse == 0.0 AND occupation_ Prof-specialty == 0.0
+1.4312858439738358	marital_status_ Never-married == 0.0 AND education_num > 10.00
+-1.3428426622054987	education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0
+1.2420686993243146	workclass_ Private == 1.0 AND occupation_ Exec-managerial == 0.0
+0.45752522683552305	marital_status_ Married-civ-spouse == 1.0 AND marital_status_ Never-married == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND native_country_ Mexico == 0.0
+-0.11546350363033549	occupation_ Exec-managerial == 0.0 AND occupation_ Protective-serv == 0.0 AND education_num <= 10.00

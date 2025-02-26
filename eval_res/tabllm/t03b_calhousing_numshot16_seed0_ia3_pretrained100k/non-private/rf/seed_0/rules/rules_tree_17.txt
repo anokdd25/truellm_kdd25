@@ -1,0 +1,15 @@
+|--- class_0  <= -0.46
+|   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |--- class: 1.0|   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |--- class: 0.0|--- class_0  >  -0.46
+|   |--- 7  <= 2.7 4
+|   |   |--- 2  <= -1.22
+|   |   |   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |   |   |--- class: 1.0|   |   |   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |   |   |--- class: 0.0|   |   |--- 2  >  -1.22
+|   |   |   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |   |   |--- class: 1.0|   |   |   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |   |   |--- class: 0.0|   |--- 7  >  2.7 4
+|   |   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |   |--- class: 1.0|   |   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |   |--- class: 0.0

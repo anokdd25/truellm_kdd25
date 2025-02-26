@@ -1,0 +1,9 @@
+|--- 4_new car  <= 0.50
+|   |--- class: 0.0|--- 4_new car  >  0.50
+|   |--- 18  <= 0.09
+|   |   |--- class: 0.0|   |--- 18  >  0.09
+|   |   |--- 10_guarantor  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 10_guarantor  >  0.50
+|   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |--- class: 0.0

@@ -1,0 +1,17 @@
+|--- 4_new car  <= 0.50
+|   |--- 2  <= 0.50
+|   |   |--- 18  <= -0.52
+|   |   |   |--- class: 0.0|   |   |--- 18  >  -0.52
+|   |   |   |--- class: 0.0|   |--- 2  >  0.50
+|   |   |--- class: 0.0|--- 4_new car  >  0.50
+|   |--- 3_critical/other existing credit  <= 0.50
+|   |   |--- 7_<1  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 7_<1  >  0.50
+|   |   |   |--- class_bad  <= -0.04
+|   |   |   |   |--- class: 0.0|   |   |   |--- class_bad  >  -0.04
+|   |   |   |   |--- class: 0.0|   |--- 3_critical/other existing credit  >  0.50
+|   |   |--- class_bad  <= -0.44
+|   |   |   |--- class: 0.0|   |   |--- class_bad  >  -0.44
+|   |   |   |--- class_bad  <= -0.12
+|   |   |   |   |--- class: 0.0|   |   |   |--- class_bad  >  -0.12
+|   |   |   |   |--- class: 0.0

@@ -1,0 +1,53 @@
+|--- 7_<1  <= 0.50
+|   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |--- class: 0.0|   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |--- 7_>=7  <= 0.50
+|   |   |   |   |--- 2  <= 0.50
+|   |   |   |   |   |--- 11  <= 1.30
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 11  >  1.30
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 2  >  0.50
+|   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |--- 4_repairs  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 4_repairs  >  0.50
+|   |   |   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |   |   |--- class_bad  <= -0.36
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |--- class_bad  >  -0.36
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |--- 7_>=7  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |--- class_bad  <= -0.78
+|   |   |   |   |--- class_bad  <= -0.84
+|   |   |   |   |   |--- 13  <= 1.38
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 13  >  1.38
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- class_bad  >  -0.84
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- class_bad  >  -0.78
+|   |   |   |   |--- 13  <= -0.83
+|   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |--- 8  <= -0.11
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 8  >  -0.11
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 13  >  -0.83
+|   |   |   |   |   |--- class: 0.0|--- 7_<1  >  0.50
+|   |--- class_bad  <= -0.44
+|   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |--- 12_no known property  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 12_no known property  >  0.50
+|   |   |   |   |   |--- 4_new car  <= 0.50
+|   |   |   |   |   |   |--- 6_<100  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 6_<100  >  0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 4_new car  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |--- 4_new car  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 4_new car  >  0.50
+|   |   |   |   |--- 18  <= 0.01
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 18  >  0.01
+|   |   |   |   |   |--- 11  <= 0.52
+|   |   |   |   |   |   |--- 12_no known property  <= 0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 12_no known property  >  0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 11  >  0.52
+|   |   |   |   |   |   |--- class: 0.0|   |--- class_bad  >  -0.44
+|   |   |--- class: 0.0

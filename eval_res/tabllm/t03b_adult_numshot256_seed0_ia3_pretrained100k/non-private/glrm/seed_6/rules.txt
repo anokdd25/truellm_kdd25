@@ -1,0 +1,19 @@
+0.07996224352157569	(intercept)
+-3.0522849910538294	workclass_ Federal-gov == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Sales == 0.0 AND capital_gain <= -30.14
+2.9186717580824384	workclass_ Self-emp-not-inc == 0.0 AND marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND education_num > 6.99
+-2.2437665835967997	marital_status_ Married-civ-spouse == 0.0 AND marital_status_ Separated == 0.0 AND marital_status_ Widowed == 0.0 AND occupation_ Tech-support == 0.0
+2.216767762987197	occupation_ Craft-repair == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND relationship_ Own-child == 0.0 AND age > 21.94 AND education_num > 6.99 AND hours_per_week > 24.02
+1.853868683002583	occupation_ Farming-fishing == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND occupation_ Other-service == 0.0 AND relationship_ Unmarried == 0.0 AND age > 26.03 AND education_num > 6.99 AND hours_per_week > 35.00
+1.665296487156997	education_ 12th == 0.0 AND education_ 7th-8th == 0.0 AND marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND race_ Other == 0.0 AND native_country_ Mexico == 0.0 AND age > 21.94 AND hours_per_week > 24.02
+-1.3102024751744867	education_ Masters == 0.0 AND marital_status_ Married-civ-spouse == 0.0
+-1.127629858311178	marital_status_ Separated == 0.0 AND marital_status_ Widowed == 0.0 AND education_num <= 12.99 AND capital_gain <= -30.14
+0.9376286544498152	education_ 7th-8th == 0.0 AND age > 32.99 AND hours_per_week > 24.02
+-0.8026151342148772	education_num <= 10.00
+-0.8020295443790569	education_num <= 9.00
+-0.6333486298464372	occupation_ Tech-support == 0.0 AND hours_per_week <= 39.94
+-0.5806393042552732	occupation_ Tech-support == 0.0 AND age <= 41.04
+-0.322787702472183	education_ Masters == 0.0 AND marital_status_ Separated == 0.0 AND occupation_ Tech-support == 0.0 AND hours_per_week <= 47.97
+-0.31666280186521245	age <= 41.04
+-0.2691984986140793	age <= 36.94
+-0.16472943900423637	marital_status_ Married-civ-spouse == 1.0 AND age > 21.94 AND education_num > 6.99
+-0.1055901545257281	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 21.94

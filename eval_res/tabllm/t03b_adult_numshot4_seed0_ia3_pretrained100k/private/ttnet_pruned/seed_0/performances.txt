@@ -1,0 +1,84 @@
+
+ DNF number 1 ~x_2 & ~x_3
+ DNF number 2 (x_1 & x_3) | (x_3 & ~x_0)
+ DNF number 3 x_1 | (~x_2 & ~x_3)
+ DNF number 4 None
+ DNF number 5 x_0 & x_1 & ~x_2 & ~x_3
+ DNF number 6 x_1 | (x_0 & x_3) | (x_3 & ~x_2)
+ DNF number 7 x_2 | ~x_3
+ DNF number 8 x_3 | (~x_0 & ~x_1) | (~x_0 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | (x_2 & x_3) | (x_2 & ~x_0) | (x_3 & ~x_0)
+ Number of gates 24
+Accuracy (%) 32.05895900506679
+ROC (%) 76.4675316177929
+FPR (%): 89.1739042617653
+TPR (%): 99.35979513444302
+F1-score (%): 41.227254615486785
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 10.0
+Before Dont Care
+
+Conditions: 826
+Rules: 271
+
+After Dont Care
+
+Conditions: 329
+Rules: 247
+
+
+ DNF number 1 ~x_2 & ~x_3
+ DNF number 2 (x_1 & x_3) | (x_3 & ~x_0)
+ DNF number 3 x_1 | (~x_2 & ~x_3)
+ DNF number 4 None
+ DNF number 5 x_0 & x_1 & ~x_2 & ~x_3
+ DNF number 6 x_1 | (x_0 & x_3) | (x_3 & ~x_2)
+ DNF number 7 x_2 | ~x_3
+ DNF number 8 x_3 | (~x_0 & ~x_1) | (~x_0 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | (x_2 & x_3) | (x_2 & ~x_0) | (x_3 & ~x_0)
+ Number of gates 24
+Accuracy (%) 27.959465684016582
+ROC (%) 68.64781258380788
+FPR (%): 94.5667541910725
+TPR (%): 99.35979513444302
+F1-score (%): 39.81528989225243
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 20.0
+Before Dont Care
+
+Conditions: 755
+Rules: 241
+
+After Dont Care
+
+Conditions: 287
+Rules: 224
+
+
+ DNF number 1 ~x_2 & ~x_3
+ DNF number 2 (x_1 & x_3) | (x_3 & ~x_0)
+ DNF number 3 x_1 | (~x_2 & ~x_3)
+ DNF number 4 None
+ DNF number 5 x_0 & x_1 & ~x_2 & ~x_3
+ DNF number 6 x_1 | (x_0 & x_3) | (x_3 & ~x_2)
+ DNF number 7 x_2 | ~x_3
+ DNF number 8 x_3 | (~x_0 & ~x_1) | (~x_0 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | (x_2 & x_3) | (x_2 & ~x_0) | (x_3 & ~x_0)
+ Number of gates 24
+Accuracy (%) 27.959465684016582
+ROC (%) 68.64781258380788
+FPR (%): 94.5667541910725
+TPR (%): 99.35979513444302
+F1-score (%): 39.81528989225243
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 20.0
+Before Dont Care
+
+Conditions: 755
+Rules: 241
+
+After Dont Care
+
+Conditions: 287
+Rules: 224
+

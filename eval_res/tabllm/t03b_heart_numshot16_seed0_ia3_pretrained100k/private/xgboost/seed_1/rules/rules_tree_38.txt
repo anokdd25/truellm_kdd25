@@ -1,0 +1,10 @@
+3_ATA :[1<1] yes=1,no=2,missing=2
+	1:[3<1] yes=3,no=4,missing=4
+		3:[5<1] yes=7,no=8,missing=8
+			7:[6<1] yes=11,no=12,missing=12
+				11:leaf=-0.0793558657				12:[4<1] yes=15,no=16,missing=16
+					15:leaf=0.0711276755					16:leaf=-0.00296663167			8:[11<0.976641715] yes=13,no=14,missing=14
+				13:[9<1] yes=17,no=111_Up ,missing=111_Up 
+					17:leaf=0.0129227815					18:leaf=0.0973837003				14:leaf=-0		4:[10<-0.133580521] yes=1 ,no=10,missing=10
+			9:leaf=-0			10:leaf=-0.0633698776	2:[11<-0.481253684] yes=5,no=6,missing=6
+		5:leaf=0.000288367999		6:leaf=-0.0750940293

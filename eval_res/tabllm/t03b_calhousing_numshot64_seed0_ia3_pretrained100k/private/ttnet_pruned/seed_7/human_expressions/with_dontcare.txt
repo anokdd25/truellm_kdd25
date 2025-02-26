@@ -1,0 +1,14 @@
+Class 0:
+
+Position	Weight	Rule
+0	3.6254420280456543	~9_ISLAND
+15	2.0664443969726562	9_ISLAND | 9_NEAR BAY
+16	-1.762766718864441	longitude_ & latitude_ | longitude_ & ~9_NEAR OCEAN | latitude_ & ~9_NEAR OCEAN
+28	-2.1742725372314453	~latitude_46.89 | ~longitude_-109.01 & ~total_rooms_14135.26
+42	2.543816328048706	~9_ISLAND
+51	3.2056355476379395	9_NEAR BAY | 9_NEAR OCEAN
+53	1.9735887050628662	total_bedrooms_ | total_rooms_ & population_ | population_ & ~housing_median_age_
+60	-4.50000524520874	9_INLAND | 9_NEAR BAY | 9_NEAR OCEAN
+intercept	-2.4205379486083984
+
+

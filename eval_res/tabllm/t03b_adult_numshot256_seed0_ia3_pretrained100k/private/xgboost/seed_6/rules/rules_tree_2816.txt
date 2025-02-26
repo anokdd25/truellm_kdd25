@@ -1,0 +1,2 @@
+0:[3<1] yes=1,no=2_ Private ,missing=2_ Private 
+	1:leaf=-0.0103122368	2:leaf=0.00457400503

@@ -1,0 +1,4 @@
+0:[4_new car <1] yes=1,no=2,missing=2
+	1:[4_radio/tv <1] yes=3,no=4,missing=4
+		3:[13 <0.0399104431] yes=5,no=6,missing=6
+			5:leaf=0.0603594221			6:leaf=-0.00398828276		4:leaf=-0.0202821363	2:leaf=-0.0321101993

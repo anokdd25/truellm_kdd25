@@ -1,0 +1,20 @@
+0.8524375289731946	(intercept)
+2.670200893473017	occupation_ Craft-repair == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 21.94 AND education_num > 6.99 AND hours_per_week > 24.02
+-2.501386289408504	marital_status_ Married-civ-spouse == 0.0 AND marital_status_ Separated == 0.0
+-2.2639395493591206	education_ Masters == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Sales == 0.0 AND capital_gain <= -30.14
+1.8957315139162478	workclass_ Self-emp-not-inc == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND occupation_ Other-service == 0.0 AND age > 26.03 AND education_num > 6.99
+1.8887212324071547	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND hours_per_week > 35.00
+-1.633791710444274	workclass_ Federal-gov == 0.0 AND marital_status_ Separated == 0.0 AND marital_status_ Widowed == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Tech-support == 0.0 AND education_num <= 12.99
+1.5362876755248935	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Machine-op-inspct == 0.0 AND education_num > 6.99
+-1.404448815053747	education_num <= 9.00
+1.3801120452828384	education_ 12th == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND relationship_ Unmarried == 0.0 AND native_country_ Mexico == 0.0 AND age > 29.99 AND education_num > 6.99 AND hours_per_week > 24.02
+-1.0756596176290896	occupation_ Exec-managerial == 0.0 AND capital_gain <= -30.14
+-0.845974341675564	marital_status_ Widowed == 0.0 AND occupation_ Tech-support == 0.0 AND hours_per_week <= 39.94
+-0.7212036109637534	age > 21.94 AND education_num > 9.00
+-0.5458084431332738	workclass_ Federal-gov == 0.0 AND education_ Masters == 0.0 AND age <= 44.99
+-0.46470288742486493	age <= 41.04
+-0.4457850305663265	workclass_ Federal-gov == 0.0 AND education_num <= 10.00
+-0.38932204216019595	age <= 32.99
+-0.321320815145196	workclass_ Federal-gov == 0.0 AND education_num <= 11.01
+-0.30544826745722203	education_ Masters == 0.0 AND marital_status_ Married-civ-spouse == 0.0
+-0.2300255868887796	age <= 36.94

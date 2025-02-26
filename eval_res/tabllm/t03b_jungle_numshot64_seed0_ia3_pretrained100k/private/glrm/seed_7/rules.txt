@@ -1,0 +1,24 @@
+-3.4336676724890722	(intercept)
+4.6826908174892035	white piece strength > -0.00 AND white piece file > 1.00 AND white piece rank > 0.99
+4.452002951494744	white piece rank > 0.99 AND black piece rank > 0.99
+-3.4407276798564084	white piece strength > -0.00 AND white piece file > 1.00 AND white piece rank > 0.99 AND black piece rank > 0.99
+2.9448872390650123	white piece rank > 0.99 AND black piece strength <= 6.00 AND black piece rank > 0.99
+-1.475741045438212	white piece rank <= 4.00
+-1.4054586456092846	white piece rank <= 7.01 AND black piece strength > 3.99
+-1.2848430331921543	white piece strength <= 5.01 AND white piece rank <= 7.01 AND black piece strength > -0.00
+-1.2138591762249735	white piece rank <= 5.00
+1.0889394759396738	white piece file > -0.01 AND white piece rank > 0.99 AND black piece strength <= 5.01
+1.0439977573592463	white piece strength > 3.99 AND white piece rank > 0.99
+-0.9335847090018019	white piece strength > -0.00 AND white piece file > -0.01 AND white piece rank > 0.99 AND black piece strength <= 5.01
+-0.9332273363740144	white piece strength <= 6.00 AND white piece rank <= 7.01 AND black piece strength > -0.00
+0.8485382116255855	white piece strength > -0.00 AND white piece rank > 0.99 AND black piece strength <= 5.01
+0.704542807986909	white piece rank > 0.99 AND black piece strength <= 3.99
+0.602287789357324	white piece strength > -0.00 AND white piece rank > 0.99 AND black piece rank > 0.99
+-0.49164827359717805	white piece rank <= 7.01 AND black piece file > 1.00
+0.469053947958426	white piece rank > 0.99 AND black piece rank > 3.00
+-0.45021615870469467	white piece rank <= 7.01 AND black piece file > 1.99
+-0.4083339858401858	white piece strength <= 6.00 AND white piece rank <= 7.01 AND black piece strength > -0.00 AND black piece file > -0.01
+0.31979276272571727	white piece rank > 0.99 AND black piece rank > 1.99
+0.1529930794458908	white piece rank > 0.99 AND black piece strength <= 5.01 AND black piece rank > 0.01
+-0.14414735046284438	white piece strength <= 6.00 AND white piece rank <= 7.01 AND black piece file > -0.01
+0.07301572084799823	white piece file > -0.01 AND white piece rank > 0.99 AND black piece rank > 0.99

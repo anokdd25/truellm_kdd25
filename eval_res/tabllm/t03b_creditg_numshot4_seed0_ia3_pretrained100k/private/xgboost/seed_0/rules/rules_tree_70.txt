@@ -1,0 +1,10 @@
+0:[8<1] yes=1,no=2,missing=2
+	1:[9<1] yes=3,no=4,missing=4
+		3:[41<-0.736449122] yes=7,no=8,missing=8
+			7:[39<1] yes=11,no=12,missing=12
+				11:leaf=0.0916830897				12:leaf=-0.00887993257			8:[5<1] yes=13,no=13_existing paid ,missing=13_existing paid 
+				13:leaf=0.00318197464				14:leaf=-0.0601335913		4:[42<0.120688565] yes=9,no=10,missing=10
+			9:[45<-0.275380671] yes=15,no=16,missing=16
+				15:leaf=0.0597122647				16:leaf=-0.0447558202			10:[46<0.557030261] yes=17,no=18,missing=18
+				17:leaf=0.176900208				18:leaf=-0	2:[45<-0.411383003] yes=5,no=6,missing=6
+		5:leaf=-0		6:leaf=0.124294266

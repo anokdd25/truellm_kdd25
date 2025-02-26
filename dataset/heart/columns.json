@@ -1,0 +1,13 @@
+[
+    "age",
+    "sex",
+    "cp",
+    "restingbp",
+    "chol",
+    "fbs",
+    "restecg",
+    "maxhr",
+    "exang",
+    "oldpeak",
+    "slope"
+]

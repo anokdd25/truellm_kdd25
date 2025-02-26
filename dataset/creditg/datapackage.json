@@ -1,0 +1,479 @@
+{
+  "bytes": 1001383,
+  "datahub": {
+    "created": "2018-08-21T20:21:00.721673",
+    "findability": "published",
+    "flowid": "machine-learning/credit-g/3",
+    "modified": "2018-09-06T11:45:22.867604",
+    "owner": "machine-learning",
+    "ownerid": "machine-learning"
+  },
+  "description": "The resources for this dataset can be found at https://www.openml.org/d/31\n\nAuthor: Dr. Hans Hofmann",
+  "hash": "2a7bb775652c2eeb012b3f0ea7c80f18",
+  "id": "machine-learning/credit-g",
+  "licenses": [
+    {
+      "name": "ODC-PDDL",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License"
+    }
+  ],
+  "name": "credit-g",
+  "resources": [
+    {
+      "bytes": 162291,
+      "datahub": {
+        "type": "original"
+      },
+      "dpp:streamedFrom": "https://s3.amazonaws.com/rawstore.datahub.io/9a475053fed0c26ee95cd4525e50074c.arff",
+      "encoding": "ISO-8859-1",
+      "format": "arff",
+      "name": "credit-g_arff",
+      "path": "archive/credit-g_arff.arff",
+      "pathType": "local",
+      "profile": "data-resource"
+    },
+    {
+      "bytes": 151964,
+      "datahub": {
+        "type": "original"
+      },
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "'"
+      },
+      "dpp:streamedFrom": "https://s3.amazonaws.com/rawstore.datahub.io/929d84f37be19b4e314c2a9bac044806.csv",
+      "encoding": "ISO-8859-1",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "credit-g_original",
+      "path": "archive/credit-g.csv",
+      "pathType": "local",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "checking_status",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "duration",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "credit_history",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "purpose",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "credit_amount",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "savings_status",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "employment",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "installment_commitment",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "personal_status",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "other_parties",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "residence_since",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "property_magnitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "age",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "other_payment_plans",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "housing",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "existing_credits",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "job",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "num_dependents",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "own_telephone",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "foreign_worker",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "class",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "bytes": 893,
+      "datahub": {
+        "type": "derived/report"
+      },
+      "description": "Validation report for tabular data",
+      "dpp:streamedFrom": "/tmp/tmprmv8g1qg/machine-learning/credit-g/validation_report/data/c052a5eebee98829d3d67f6c67478727/validation_report.json",
+      "format": "json",
+      "hash": "c052a5eebee98829d3d67f6c67478727",
+      "name": "validation_report",
+      "path": "data/validation_report.json",
+      "profile": "data-resource"
+    },
+    {
+      "bytes": 140017,
+      "datahub": {
+        "derivedFrom": [
+          "credit-g"
+        ],
+        "type": "derived/csv"
+      },
+      "delimiter": ",",
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "/tmp/tmprmv8g1qg/machine-learning/credit-g/credit-g_csv/data/ac05ce3bfd911258bd37fde1e8a3051f/credit-g_csv.csv",
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "ac05ce3bfd911258bd37fde1e8a3051f",
+      "mediatype": "text/csv",
+      "name": "credit-g_csv",
+      "path": "data/credit-g_csv.csv",
+      "pathType": "local",
+      "profile": "data-resource",
+      "quotechar": "'",
+      "rowcount": 1000,
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "checking_status",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "duration",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "credit_history",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "purpose",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "credit_amount",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "savings_status",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "employment",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "installment_commitment",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "personal_status",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "other_parties",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "residence_since",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "property_magnitude",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "age",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "other_payment_plans",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "housing",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "existing_credits",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "job",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "num_dependents",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "own_telephone",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "foreign_worker",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "class",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 544738,
+      "datahub": {
+        "derivedFrom": [
+          "credit-g"
+        ],
+        "type": "derived/json"
+      },
+      "delimiter": ",",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "'"
+      },
+      "dpp:streamedFrom": "/tmp/tmprmv8g1qg/machine-learning/credit-g/credit-g_json/data/f76e1208e55aeac34382a9b6b04ad863/credit-g_json.json",
+      "encoding": "utf-8",
+      "format": "json",
+      "hash": "f76e1208e55aeac34382a9b6b04ad863",
+      "mediatype": "text/csv",
+      "name": "credit-g_json",
+      "path": "data/credit-g_json.json",
+      "pathType": "local",
+      "profile": "data-resource",
+      "quotechar": "'",
+      "rowcount": 1000,
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "checking_status",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "duration",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "credit_history",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "purpose",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "credit_amount",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "savings_status",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "employment",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "installment_commitment",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "personal_status",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "other_parties",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "residence_since",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "property_magnitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "age",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "other_payment_plans",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "housing",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "existing_credits",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "job",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "num_dependents",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "own_telephone",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "foreign_worker",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "class",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 1480,
+      "dpp:streamedFrom": "/tmp/tmpdoxeo5bw/README.md",
+      "format": "md",
+      "name": "readme",
+      "path": "README.md"
+    }
+  ],
+  "title": "Credit g"
+}

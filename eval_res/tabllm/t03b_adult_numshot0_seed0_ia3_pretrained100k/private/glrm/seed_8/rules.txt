@@ -1,0 +1,4 @@
+1.8998244053044082	(intercept)
+3.631100534731923	relationship_ Unmarried == 0.0 AND age > 21.94
+-2.474923934857688	capital_gain <= -30.14 AND capital_loss > -1.35
+1.266410288623617	native_country_ United-States == 1.0 AND age > 21.94

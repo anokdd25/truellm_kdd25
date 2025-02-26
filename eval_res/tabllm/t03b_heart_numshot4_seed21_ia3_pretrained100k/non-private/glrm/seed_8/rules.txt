@@ -1,0 +1,11 @@
+-6.333683592015484	(intercept)
+6.068496665270212	sex_M == 1.0 AND restecg_Normal == 0.0
+4.731017780249278	restecg_Normal == 0.0 AND slope_Up == 0.0
+4.571314162632253	restecg_Normal == 0.0 AND age > 48.98 AND restingbp > 119.99 AND oldpeak > 0.00
+-4.041239437063181	restecg_Normal == 1.0
+3.6756351143014716	cp_NAP == 0.0 AND restecg_Normal == 0.0 AND maxhr <= 151.07 AND maxhr > 102.95
+3.5525266915376696	restecg_Normal == 0.0 AND restingbp > 119.99
+3.0206354856412636	restecg_Normal == 0.0 AND oldpeak > 0.60
+2.6720621842368444	restecg_Normal == 0.0 AND age <= 65.02 AND restingbp > 135.17
+-1.7166066277915535	restecg_Normal == 0.0
+1.6232642565376738	restecg_Normal == 0.0 AND maxhr <= 151.07

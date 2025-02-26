@@ -1,0 +1,21 @@
+|--- 12_no known property  <= 0.50
+|   |--- 15_rent  <= 0.50
+|   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |--- 16  <= 1.58
+|   |   |   |   |--- 16  <= 0.13
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 16  >  0.13
+|   |   |   |   |   |--- 6_500<=X<1000  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 6_500<=X<1000  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |--- 16  >  1.58
+|   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |--- class: 1.0|   |--- 15_rent  >  0.50
+|   |   |--- 9_male div/sep  <= 0.50
+|   |   |   |--- 14_stores  <= 0.50
+|   |   |   |   |--- class_bad  <= 0.95
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- class_bad  >  0.95
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 14_stores  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 9_male div/sep  >  0.50
+|   |   |   |--- class: 0.0|--- 12_no known property  >  0.50
+|   |--- class: 1.0

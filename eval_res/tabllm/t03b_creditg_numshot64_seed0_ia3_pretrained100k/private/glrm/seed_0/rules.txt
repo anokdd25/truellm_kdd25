@@ -1,0 +1,28 @@
+0.15933238677754352	(intercept)
+2.6435266544872746	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0
+-2.495886742522047	existing checking account status_>=200 == 0.0 AND purpose_other == 0.0 AND property_no known property == 0.0 AND other installment plans_stores == 0.0
+2.0113519355370655	purpose_education == 0.0 AND purpose_radio/tv == 0.0 AND present employment in years_unemployed == 0.0
+1.748143658358457	existing checking account status_no checking == 1.0
+1.6505544422527647	property_real estate == 1.0
+-1.603296034131743	existing checking account status_no checking == 0.0
+-1.5057068185305142	property_real estate == 0.0
+-1.4795960688786851	credit history_no credits/all paid == 0.0 AND purpose_domestic appliance == 0.0 AND purpose_other == 0.0 AND purpose_used car == 0.0 AND property_life insurance == 0.0 AND job_unemp/unskilled non res == 0.0 AND existing_credits <= 3.00 AND Number of people being liable to provide maintenance for  <= 2.00
+1.2830586967051543	present employment in years_unemployed == 0.0 AND credit amount > 1267.11
+1.243132511128446	credit history_delayed previously == 0.0 AND purpose_domestic appliance == 0.0 AND purpose_new car == 0.0 AND purpose_retraining == 0.0 AND present employment in years_unemployed == 0.0 AND job_unemp/unskilled non res == 0.0 AND existing_credits <= 3.00 AND Number of people being liable to provide maintenance for  <= 2.00
+1.1400387534661238	property_life insurance == 1.0
+1.075488676452897	purpose_new car == 0.0
+1.014471028631078	status of savings accounts/bonds_<100 == 0.0
+0.9989151268912679	status of savings accounts/bonds_no known savings == 1.0
+-0.9951911292470308	property_life insurance == 0.0
+-0.9306410521964008	purpose_new car == 1.0
+-0.8696234048013821	status of savings accounts/bonds_<100 == 1.0
+-0.85406750445178	status of savings accounts/bonds_no known savings == 0.0
+0.7833430947851557	property_no known property == 1.0
+0.7365093675145679	credit history_critical/other existing credit == 1.0
+-0.638495472499165	property_no known property == 0.0
+-0.5916617448789842	credit history_critical/other existing credit == 0.0
+0.550375114455045	existing checking account status_<0 == 0.0
+0.5187141467332151	purpose_radio/tv == 0.0
+-0.40552749398836313	existing checking account status_<0 == 1.0
+-0.37386657412162433	purpose_radio/tv == 1.0
+0.025042329962152714	purpose_domestic appliance == 0.0 AND purpose_radio/tv == 0.0 AND purpose_retraining == 0.0 AND present employment in years_unemployed == 0.0

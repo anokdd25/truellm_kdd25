@@ -1,0 +1,5 @@
+|--- 3_critical/other existing credit  <= 0.50
+|   |--- class: 0.0|--- 3_critical/other existing credit  >  0.50
+|   |--- class_bad  <= -1.34
+|   |   |--- class: 0.0|   |--- class_bad  >  -1.34
+|   |   |--- class: 0.0

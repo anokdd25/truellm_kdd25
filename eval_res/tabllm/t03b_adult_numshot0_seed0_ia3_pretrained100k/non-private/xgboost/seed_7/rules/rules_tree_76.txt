@@ -1,0 +1,5 @@
+0:[3 <0.152066663] yes=1,no=2,missing=2
+	1:[3 <-0.23 815945] yes=3,no=4,missing=4
+		3:[10_ Male <1] yes=7,no=8,missing=8
+			7:leaf=-0.0727528259			8:leaf=0.0340008549		4:leaf=0.0560624897	2:[8_ Own-child <1] yes=5,no=6,missing=6
+		5:leaf=0.00668030232		6:leaf=-0.0354708247

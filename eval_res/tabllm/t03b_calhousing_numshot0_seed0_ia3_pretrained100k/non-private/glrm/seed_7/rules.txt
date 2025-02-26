@@ -1,0 +1,14 @@
+-1.4891616725467232	(intercept)
+-4.006942355180394	location of the house with respect to ocean/sea_NEAR BAY == 0.0 AND location of the house with respect to ocean/sea_NEAR OCEAN == 0.0
+-1.3013995848546362	location of the house with respect to ocean/sea_NEAR OCEAN == 0.0
+1.2842487957369244	location of the house with respect to ocean/sea_INLAND == 0.0 AND median age of the house within a block > 19.96 AND total rooms within a block > 934.10
+-1.214019483928768	location of the house with respect to ocean/sea_NEAR OCEAN == 0.0 AND median age of the house within a block <= 33.04
+1.1296289942317124	location of the house with respect to ocean/sea_INLAND == 0.0 AND longitude > -122.29
+1.0767059877092746	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) <= 6.15
+0.9762480800503069	location of the house with respect to ocean/sea_INLAND == 0.0 AND median age of the house within a block > 24.99
+0.9535055864859461	location of the house with respect to ocean/sea_INLAND == 0.0 AND location of the house with respect to ocean/sea_ISLAND == 0.0 AND median age of the house within a block <= 46.01 AND total number of households within a block <= 889.52
+0.951404201839988	location of the house with respect to ocean/sea_INLAND == 0.0 AND total rooms within a block > 2133.99
+-0.6210568961604916	location of the house with respect to ocean/sea_NEAR OCEAN == 0.0 AND median income for households within a block (in tens of thousands USD) <= 3.97
+0.4912665959236689	location of the house with respect to ocean/sea_INLAND == 0.0 AND location of the house with respect to ocean/sea_ISLAND == 0.0 AND total bedrooms within a block <= 957.14 AND total number of households within a block > 182.21
+0.3094667989434279	location of the house with respect to ocean/sea_INLAND == 0.0 AND location of the house with respect to ocean/sea_ISLAND == 0.0 AND total bedrooms within a block <= 957.14 AND median income for households within a block (in tens of thousands USD) <= 6.15
+-0.052375261004603615	location of the house with respect to ocean/sea_NEAR OCEAN == 1.0

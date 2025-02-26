@@ -1,0 +1,86 @@
+Class 0:
+
+Position	Weight	Rule
+0	-0.4759688377380371	~9_NEAR OCEAN
+1	0.11168989539146423	latitude_ | ~housing_median_age_ | 9_NEAR OCEAN & longitude_
+2	0.329196572303772	total_bedrooms_ | ~population_ | housing_median_age_ & total_rooms_
+3	0.5169171690940857	median_income_ | ~longitude_-119.59 | population_ & households_
+4	0.17858761548995972	housing_median_age_28.51 | ~total_rooms_2612.46 | longitude_-119.59 & latitude_35.61
+5	0.4755638539791107	population_1413.38 | ~households_495.46
+6	-0.12791068851947784	longitude_-119.58 | ~latitude_35.62 | households_495.46 & median_income_3.85
+7	0.4143047034740448	~total_bedrooms_535.14 | latitude_35.62 & housing_median_age_28.56
+8	-0.20166948437690735	households_497.05 | ~median_income_3.86 | total_bedrooms_535.14 & population_1418.11
+9	2.2622246742248535	~9_ISLAND
+10	-0.6033704280853271	latitude_ | ~longitude_
+11	-0.2403709590435028	~total_rooms_
+12	-0.3774413466453552	median_income_ | ~households_
+13	0.4639357328414917	housing_median_age_28.51 | ~latitude_35.61
+14	0.025542497634887695	population_1413.38 | ~total_bedrooms_533.39
+15	-1.2762119770050049	longitude_-119.58 | ~median_income_3.85
+16	-0.21759575605392456	total_rooms_2621.56 | ~housing_median_age_28.56
+17	0.9645766019821167	households_497.05 | ~population_1418.11
+18	0.1754610240459442	9_NEAR OCEAN
+19	-0.850125253200531	housing_median_age_ & ~9_NEAR OCEAN & ~longitude_ & ~latitude_
+20	1.1936964988708496	population_ & ~housing_median_age_ & ~total_rooms_ & ~total_bedrooms_
+21	0.23990902304649353	longitude_-119.59 & ~population_ & ~households_ & ~median_income_
+22	-0.22030091285705566	total_rooms_2612.46 & ~longitude_-119.59 & ~latitude_35.61 & ~housing_median_age_28.51
+23	0.275341272354126	households_495.46 & ~total_rooms_2612.46 & ~total_bedrooms_533.39 & ~population_1413.38
+24	-0.5430599451065063	latitude_35.62 & ~households_495.46 & ~median_income_3.85 & ~longitude_-119.58
+25	0.08736161887645721	total_bedrooms_535.14 & ~latitude_35.62 & ~housing_median_age_28.56
+26	0.9000040292739868	median_income_3.86 & ~total_bedrooms_535.14 & ~population_1418.11 & ~households_497.05
+27	0.11946724355220795	~9_ISLAND & ~9_NEAR OCEAN
+28	0.28560203313827515	9_NEAR OCEAN & ~longitude_ | 9_NEAR OCEAN & ~housing_median_age_ | ~longitude_ & ~housing_median_age_
+29	0.10003496706485748	housing_median_age_ & ~total_rooms_ | housing_median_age_ & ~population_ | ~total_rooms_ & ~population_
+30	0.3340012729167938	population_ & ~households_ | population_ & ~longitude_-119.59 | ~households_ & ~longitude_-119.59
+31	-0.4104096591472626	longitude_-119.59 & ~latitude_35.61 | longitude_-119.59 & ~total_rooms_2612.46 | ~latitude_35.61 & ~total_rooms_2612.46
+32	-0.4119916558265686	total_rooms_2612.46 | ~total_bedrooms_533.39 & ~households_495.46
+33	-1.151400089263916	households_495.46 & ~median_income_3.85 | households_495.46 & ~latitude_35.62 | ~median_income_3.85 & ~latitude_35.62
+34	0.1524849534034729	latitude_35.62 & ~housing_median_age_28.56 | latitude_35.62 & ~total_bedrooms_535.14 | ~housing_median_age_28.56 & ~total_bedrooms_535.14
+35	-0.8099764585494995	total_bedrooms_535.14 & ~population_1418.11 | total_bedrooms_535.14 & ~median_income_3.86 | ~population_1418.11 & ~median_income_3.86
+36	0.06395263224840164	~latitude_ | housing_median_age_ & ~9_NEAR OCEAN | ~9_NEAR OCEAN & ~longitude_
+37	0.738948404788971	~housing_median_age_ | ~total_bedrooms_
+38	-1.3097597360610962	~median_income_ | longitude_-119.59 & ~population_ | ~population_ & ~households_
+39	-0.5879926681518555	~housing_median_age_28.51 | total_rooms_2612.46 & ~longitude_-119.59 | ~longitude_-119.59 & ~latitude_35.61
+40	-0.49466174840927124	~population_1413.38 | households_495.46 & ~total_rooms_2612.46 | ~total_rooms_2612.46 & ~total_bedrooms_533.39
+41	-0.1957731544971466	~longitude_-119.58 | latitude_35.62 & ~households_495.46 | ~households_495.46 & ~median_income_3.85
+42	-0.5786367058753967	~total_rooms_2621.56 | ~latitude_35.62 & ~housing_median_age_28.56
+43	-0.25598442554473877	~households_497.05 | median_income_3.86 & ~total_bedrooms_535.14 | ~total_bedrooms_535.14 & ~population_1418.11
+44	-6.805216312408447	9_INLAND
+45	-0.3893425464630127	9_NEAR OCEAN & ~longitude_ | 9_NEAR OCEAN & ~latitude_
+46	-0.5298170447349548	housing_median_age_
+47	0.28352275490760803	population_ & ~households_ | population_ & ~median_income_
+48	0.6139387488365173	longitude_-119.59 & ~latitude_35.61 | longitude_-119.59 & ~housing_median_age_28.51
+49	0.5270561575889587	total_rooms_2612.46
+50	-0.6713139414787292	households_495.46 & ~median_income_3.85 | households_495.46 & ~longitude_-119.58
+51	0.2204633504152298	latitude_35.62 & ~housing_median_age_28.56 | latitude_35.62 & ~total_rooms_2621.56
+52	1.0929630994796753	total_bedrooms_535.14 & ~population_1418.11 | total_bedrooms_535.14 & ~households_497.05
+53	-1.0665650367736816	~9_NEAR BAY
+54	-0.22628569602966309	~latitude_ | 9_NEAR OCEAN & ~housing_median_age_
+55	-0.24462296068668365	~total_bedrooms_ | housing_median_age_ & ~population_
+56	-0.7771192193031311	~median_income_ | population_ & ~longitude_-119.59
+57	-0.17023125290870667	~housing_median_age_28.51 | longitude_-119.59 & ~total_rooms_2612.46
+58	0.300082802772522	~population_1413.38 | total_rooms_2612.46 & ~households_495.46
+59	-0.7215766906738281	~longitude_-119.58 | households_495.46 & ~latitude_35.62
+60	0.03745408356189728	latitude_35.62 | ~total_rooms_2621.56
+61	-1.3365916013717651	~households_497.05 | total_bedrooms_535.14 & ~median_income_3.86
+62	0.261345237493515	9_NEAR OCEAN
+63	0.16741132736206055	housing_median_age_ & ~9_NEAR OCEAN & ~longitude_ & ~latitude_
+64	0.31664741039276123	population_ & ~housing_median_age_ & ~total_rooms_ & ~total_bedrooms_
+65	0.22269262373447418	longitude_-119.59 & ~population_ & ~households_ & ~median_income_
+66	0.7167126536369324	total_rooms_2612.46 & ~longitude_-119.59 & ~latitude_35.61 & ~housing_median_age_28.51
+67	0.2813793420791626	households_495.46 & ~total_rooms_2612.46 & ~total_bedrooms_533.39 & ~population_1413.38
+68	-0.5335158109664917	latitude_35.62 & ~households_495.46 & ~median_income_3.85 & ~longitude_-119.58
+69	-0.28919392824172974	total_bedrooms_535.14 & ~latitude_35.62 & ~housing_median_age_28.56
+70	0.8087614178657532	median_income_3.86 & ~total_bedrooms_535.14 & ~population_1418.11 & ~households_497.05
+71	0.7320894002914429	~9_NEAR BAY
+72	-0.08044973760843277	~latitude_ | longitude_ & ~housing_median_age_
+73	-0.1474570333957672	~total_bedrooms_
+74	-0.9080681800842285	~median_income_ | households_ & ~longitude_-119.59
+75	-0.3939278721809387	~housing_median_age_28.51 | latitude_35.61 & ~total_rooms_2612.46
+76	0.17180970311164856	~population_1413.38 | total_bedrooms_533.39 & ~households_495.46
+77	0.7802482843399048	~longitude_-119.58 | median_income_3.85 & ~latitude_35.62
+78	-0.1129305362701416	housing_median_age_28.56 | ~total_rooms_2621.56
+79	-0.548831582069397	~households_497.05 | population_1418.11 & ~median_income_3.86
+intercept	4.196459770202637
+
+

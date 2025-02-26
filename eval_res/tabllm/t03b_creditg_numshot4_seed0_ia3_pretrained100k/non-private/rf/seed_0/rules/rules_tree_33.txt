@@ -1,0 +1,23 @@
+|--- 14_stores  <= 0.50
+|   |--- 3_delayed previously  <= 0.50
+|   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |--- 9_male single  <= 0.50
+|   |   |   |   |--- 8  <= 1.52
+|   |   |   |   |   |--- 1_no checking  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 1_no checking  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 8  >  1.52
+|   |   |   |   |   |--- 9_male div/sep  <= 0.50
+|   |   |   |   |   |   |--- 15_rent  <= 0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 15_rent  >  0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 9_male div/sep  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |--- 9_male single  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |--- class: 0.0|   |--- 3_delayed previously  >  0.50
+|   |   |--- class: 1.0|--- 14_stores  >  0.50
+|   |--- 12_real estate  <= 0.50
+|   |   |--- class: 1.0|   |--- 12_real estate  >  0.50
+|   |   |--- 9_male div/sep  <= 0.50
+|   |   |   |--- class: 1.0|   |   |--- 9_male div/sep  >  0.50
+|   |   |   |--- 8  <= 0.52
+|   |   |   |   |--- class: 1.0|   |   |   |--- 8  >  0.52
+|   |   |   |   |--- class: 0.0

@@ -1,0 +1,84 @@
+
+ DNF number 1 None
+ DNF number 2 x_2 | ~x_3
+ DNF number 3 x_2 | ~x_1
+ DNF number 4 None
+ DNF number 5 (x_0 & ~x_1) | (x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 x_0 & ~x_1
+ DNF number 8 ~x_2
+ DNF number 9 x_3 & ~x_0 & ~x_2
+ DNF number 10 ~x_2
+ Number of gates 11
+Accuracy (%) 12.573261085922812
+ROC (%) 53.55555524195853
+FPR (%): 99.02218879277925
+TPR (%): 99.34333958724203
+F1-score (%): 21.129289704708697
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 40.0
+Before Dont Care
+
+Conditions: 88
+Rules: 73
+
+After Dont Care
+
+Conditions: 54
+Rules: 69
+
+
+ DNF number 1 None
+ DNF number 2 x_2 | ~x_3
+ DNF number 3 x_2 | ~x_1 | (x_0 & x_3)
+ DNF number 4 x_3 & ~x_0 & ~x_1 & ~x_2
+ DNF number 5 (x_0 & ~x_1) | (x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 x_0 & ~x_1
+ DNF number 8 ~x_2
+ DNF number 9 x_3 & ~x_0 & ~x_2
+ DNF number 10 ~x_2 | (x_1 & ~x_0 & ~x_3)
+ Number of gates 19
+Accuracy (%) 12.661727302886211
+ROC (%) 51.59763964926367
+FPR (%): 98.94697254606996
+TPR (%): 99.53095684803002
+F1-score (%): 21.17764471057884
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 10.0
+Before Dont Care
+
+Conditions: 248
+Rules: 121
+
+After Dont Care
+
+Conditions: 165
+Rules: 117
+
+
+ DNF number 1 None
+ DNF number 2 x_2 | ~x_3
+ DNF number 3 x_2 | ~x_1 | (x_0 & x_3)
+ DNF number 4 x_3 & ~x_0 & ~x_1 & ~x_2
+ DNF number 5 (x_0 & ~x_1) | (x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 x_0 & ~x_1
+ DNF number 8 ~x_2
+ DNF number 9 x_3 & ~x_0 & ~x_2
+ DNF number 10 ~x_2 | (x_1 & ~x_0 & ~x_3)
+ Number of gates 19
+Accuracy (%) 12.661727302886211
+ROC (%) 51.59763964926367
+FPR (%): 98.94697254606996
+TPR (%): 99.53095684803002
+F1-score (%): 21.17764471057884
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 10.0
+Before Dont Care
+
+Conditions: 248
+Rules: 121
+
+After Dont Care
+
+Conditions: 165
+Rules: 117
+

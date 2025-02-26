@@ -1,0 +1,7 @@
+0:[16<1] yes=1,no=2,missing=2
+	2_housemaid :[2<2_housemaid ] yes=3,no=4,missing=4
+		3:[25<-0.401348829] yes=5,no=6,missing=6
+			5:[30<-0.385614 714] yes=9,no=10,missing=10
+				9:leaf=-0.0493966304				10:leaf=0.00707316259			6:[18<1] yes=11,no=12,missing=12
+				11:leaf=0.0232360195				12:leaf=-0.0472317375		4:[31<-0.245735735] yes=7,no=8,missing=8
+			7:leaf=0.00631412352			8:leaf=-0.079536438	2:leaf=-0.0530503653

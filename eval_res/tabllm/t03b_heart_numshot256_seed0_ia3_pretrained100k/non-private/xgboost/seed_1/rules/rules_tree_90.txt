@@ -1,0 +1,4 @@
+3_ATA :[1<1] yes=1,no=2,missing=2
+	1:[10<-0.4782221 07] yes=3,no=4,missing=4
+		3:leaf=-0.0152907921		7_Normal :[5<1] yes=5,no=6,missing=6
+			5:leaf=-0.00459144823			6:leaf=0.0392361134	2:leaf=-0.0289034881

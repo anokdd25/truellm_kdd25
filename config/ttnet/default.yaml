@@ -1,0 +1,63 @@
+general:
+  dataset: adult
+  seed: 0
+  device: "cuda"
+  train_flag: True
+  infer_flag: True
+  private: False
+  shot_flag: False
+
+data:
+  dir: ./trueGPT_plots/ttnet_optim/dataset/
+  num_shot: "all" #0 4 16 64 256 all
+  test_size: 0.2
+  features_size: 100 #adult: 100; heart: 15; diabetes: 8; bank: 32; blood: 4; calhousing: 12; creditg: 48; jungle: 6
+  index_c_start: 94 #adult: 94; heart: 10; diabetes: 0; bank: 24; blood: 0; calhousing: 4; creditg: 41; jungle: 0
+
+train:
+  epochs_max: 100
+  cv: 3
+  epoch_scoring:
+    scoring: "roc_auc"
+    lower_is_better: False
+  lr_scheduler:
+    monitor: "valid_loss"
+    mode: "min"
+    patience: 15
+    factor: 0.1
+    verbose: True
+  early_stopping:
+    monitor: "valid_loss"
+    patience: 50
+    threshold: 0.001
+    threshold_mode: "rel"
+    lower_is_better: True
+
+
+ttnet_grid_param:
+  lrs: [0.005]  #0.005
+  weight_decay: [0.0001]  #0.0001
+  optimizers: "[optim.Adam]"  #optim.Adam
+  kernel_size: [4]  #6
+  stride: [3] #3
+  padding: [0]  #0
+  repeat: [3] #3
+  filter_size: [10] #16
+  embed_size: [50]  #50
+  batch_size: [128] #128
+  dropout_value_class: [ 0.0 ]  #0.0
+  dropout_value_cnn: [ 0.0 ]    #0.0
+  family_LTT: [ "LR" ]  #"LR"
+  poly_flag: [False]  #False
+  nclass: 2
+  classifier: "linear" # linear or binary
+
+
+eval:
+  coef_multi: 5 # multiply LR by this term
+  nbits1: 4
+  nbits2: 0
+  val_all_possible_coef: No # Parameter to find the best quantification on train
+  coef_multi_list: [5,10,50,100]
+  nbits1_list: [0, 2, 4, 6, 8]
+  nbits2_list: [0, 2, 4, 6, 8]

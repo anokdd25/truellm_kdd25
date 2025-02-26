@@ -1,0 +1,15 @@
+2.766791926133801	(intercept)
+5.50897144344791	credit history_delayed previously == 0.0 AND purpose_domestic appliance == 0.0 AND purpose_education == 0.0 AND purpose_furniture/equipment == 0.0 AND purpose_other == 0.0 AND present employment in years_unemployed == 0.0 AND property_life insurance == 0.0 AND other installment plans_none == 1.0
+-5.1321271853166355	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND duration of the credit in months > 8.96 AND credit amount > 928.39 AND existing_credits <= 2.00
+-4.660612686463196	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND purpose_used car == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND credit amount > 928.39 AND existing_credits <= 2.00
+-4.356292127665664	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_delayed previously == 0.0 AND present employment in years_4<=X<7 == 0.0 AND Number of people being liable to provide maintenance for  == 1.00
+-4.272112129889194	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND present employment in years_4<=X<7 == 0.0 AND existing_credits <= 2.00
+-4.116348156057466	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND purpose_used car == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND credit amount > 928.39
+-4.08503746946775	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_used car == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+4.035648456075313	property_real estate == 1.0
+3.2195814745181397	existing checking account status_<0 == 0.0
+3.0697365264424556	purpose_education == 0.0 AND purpose_furniture/equipment == 0.0 AND purpose_other == 0.0 AND credit amount > 1267.11 AND age > 23.03
+3.0091171162361587	purpose_other == 0.0 AND present employment in years_unemployed == 0.0 AND duration of the credit in months <= 35.98 AND credit amount > 1267.11 AND age > 23.03
+-2.652469546121111	existing checking account status_no checking == 0.0 AND property_real estate == 0.0
+-2.6196456985784287	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND property_real estate == 0.0
+2.245167413507183	existing checking account status_no checking == 1.0

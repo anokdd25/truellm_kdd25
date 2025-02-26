@@ -1,0 +1,31 @@
+0:[25<-0.440181881] yes=1,no=2,missing=2
+	1:[8<1] yes=3,no=4,missing=4
+		3:[29<1.33665621] yes=7,no=8,missing=8
+			7:[27<0.962739408] yes=15,no=16,missing=16
+				15:[24<0.685748816] yes=21,no=22,missing=22
+					21:[24<-1.09585011] yes=31,no=32,missing=32
+						31:[12<1] yes=41,no=42,missing=42
+							41:[28<0.436104923] yes=47,no=48,missing=48
+								47:leaf=-0.0757345408								48:leaf=-0							42:leaf=-0						32:[13<1] yes=43,no=44,missing=44
+							43:[29<-0.393226087] yes=49,no=50,missing=50
+								49:[30<-0.207104191] yes=53,no=54,missing=54
+									53:leaf=-0.0733861253									54:leaf=-0								50:[26<-0.0718230233] yes=55,no=56,missing=56
+									55:[27<-0.239989728] yes=59,no=60,missing=60
+										59:leaf=-0.00499417912										60:leaf=-0									56:leaf=0.0296623856							44:[31<-0.245735735] yes=51,no=52,missing=52
+								51:leaf=-0								52:[28<0.0566299632] yes=57,no=58,missing=58
+									57:leaf=0.0769132376									58:leaf=-0					22:[26<-0.877410 492] yes=33,no=34,missing=34
+						33:leaf=-0						34:leaf=-0.103185333				16:[24<0.849751294] yes=1 ,no=24,missing=24
+					1 :[24<-0.768044591] yes=35,no=36,missing=36
+						35:leaf=-0						36:leaf=-0.0309920385					24:leaf=0.0544931851			8:leaf=0.00689691305		4:[18<1] yes=9,no=10,missing=10
+			9:leaf=0.0274236612			10:leaf=-0	2:[7<1] yes=5,no=2_student ,missing=2_student 
+		5:[25<0.777637541] yes=11,no=12,missing=12
+			11:[9<1] yes=17,no=12_unemployed ,missing=12_unemployed 
+				17:[24<-0.744942605] yes=25,no=26,missing=26
+					25:[17<1] yes=37,no=38,missing=38
+						37:[18<1] yes=45,no=46,missing=46
+							45:leaf=-0							46:leaf=-0.027666973						38:leaf=0.0338260867					26:leaf=0.0885986537				18:leaf=-0			12:[27<0.315048754] yes=19,no=20,missing=20
+				19:[26<-1.05089319] yes=27,no=28,missing=28
+					27:leaf=-0					28:[30<0.115691774] yes=39,no=40,missing=40
+						39:leaf=0.051213704						40:leaf=-0				20:[24<-0.50929898] yes=29,no=30,missing=30
+					29:leaf=-0					30:leaf=-0.0445486717		6:[24<0.838341773] yes=13,no=14,missing=14
+			13:leaf=-0			14:leaf=-0.0431424342

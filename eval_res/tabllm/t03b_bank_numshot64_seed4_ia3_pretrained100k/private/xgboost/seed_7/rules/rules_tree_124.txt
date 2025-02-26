@@ -1,0 +1,6 @@
+2_entrepreneur :[1<1] yes=1,no=2,missing=2
+	1:[21<1] yes=3,no=4,missing=4
+		3:[2<2_housemaid ] yes=5,no=6,missing=6
+			5:[25<-0.4376 6054] yes=9,no=10,missing=10
+				9:leaf=-0.041705884				10:leaf=0.00675269263			6:leaf=-0.123723812		4:[17<1] yes=7,no=8,missing=8
+			7:leaf=0.0102069434			8:leaf=0.117548563	2:leaf=0.100354254

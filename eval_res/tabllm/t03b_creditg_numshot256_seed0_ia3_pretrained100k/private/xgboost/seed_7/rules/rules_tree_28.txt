@@ -1,0 +1,14 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:[1<1] yes=3,no=4,missing=4
+		3:[41<0.697627723] yes=7,no=8,missing=8
+			7:[41<-0.0474947765] yes=15,no=16,missing=16
+				15:leaf=-0.0455691814				16:leaf=0.0812914371			8:[17<1] yes=17,no=18,missing=18
+				17:leaf=-0.0115079824				18:leaf=-0.195764139		4:[42<-0.640609801] yes=9,no=10,missing=10
+			9:[43<-0.0579861216] yes=19,no=20,missing=20
+				19:leaf=0.121199913				20:leaf=-0.0788599402			10:[20<1] yes=21,no=22,missing=22
+				21:leaf=0.234074965				22:leaf=-0	2:[43<1.0607301] yes=5,no=6,missing=6
+		5:[45<-1.86693239] yes=11,no=12,missing=12
+			11:leaf=-0			12:[28<1] yes=23,no=24,missing=24
+				23:leaf=-0				24:leaf=0.20393087		6:[47<0.517104208] yes=13,no=14,missing=14
+			13:leaf=0.0750726834			14:[43<1.27362812] yes=25,no=26,missing=26
+				25:leaf=-0.151617184				26:leaf=-0

@@ -1,0 +1,25 @@
+|--- 3_critical/other existing credit  <= 0.50
+|   |--- 18  <= 0.64
+|   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- 18  >  0.64
+|   |   |--- 7_<1  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 7_<1  >  0.50
+|   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |--- class: 0.0|--- 3_critical/other existing credit  >  0.50
+|   |--- class_bad  <= -0.88
+|   |   |--- 10_guarantor  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 10_guarantor  >  0.50
+|   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- class_bad  >  -0.88
+|   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |--- 11  <= 0.03
+|   |   |   |   |--- class: 0.0|   |   |   |--- 11  >  0.03
+|   |   |   |   |--- class: 0.0|   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |--- 18  <= -0.09
+|   |   |   |   |--- class: 0.0|   |   |   |--- 18  >  -0.09
+|   |   |   |   |--- class: 0.0

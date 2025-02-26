@@ -1,0 +1,7 @@
+|--- class_bad  <= -0.40
+|   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |--- class: 0.0|   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |--- class: 0.0|--- class_bad  >  -0.40
+|   |--- 4_radio/tv  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_radio/tv  >  0.50
+|   |   |--- class: 0.0

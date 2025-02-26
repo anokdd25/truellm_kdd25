@@ -1,0 +1,84 @@
+
+ DNF number 1 x_0 | x_2 | x_3 | ~x_1
+ DNF number 2 None
+ DNF number 3 x_1 | x_2
+ DNF number 4 (~x_0 & ~x_1) | (~x_1 & ~x_3)
+ DNF number 5 x_2 | ~x_1 | ~x_3
+ DNF number 6 x_0 | x_2 | ~x_1
+ DNF number 7 x_1 | x_2 | x_3
+ DNF number 8 (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1) | (x_0 & x_2 & x_3)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 21
+Accuracy (%) 81.00721633655765
+ROC (%) 84.68963188802117
+FPR (%): 7.170268632599475
+TPR (%): 43.53393085787452
+F1-score (%): 52.368117058144016
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 788
+Rules: 259
+
+After Dont Care
+
+Conditions: 335
+Rules: 233
+
+
+ DNF number 1 x_2 | x_3 | ~x_1
+ DNF number 2 None
+ DNF number 3 x_1 | x_2
+ DNF number 4 ~x_1
+ DNF number 5 x_2 | ~x_1 | ~x_3
+ DNF number 6 x_0 | x_2 | ~x_1
+ DNF number 7 x_1 | x_2 | x_3
+ DNF number 8 (x_0 & x_2) | (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 16
+Accuracy (%) 81.40641793336404
+ROC (%) 84.54725710167064
+FPR (%): 6.826903655827106
+TPR (%): 44.1101152368758
+F1-score (%): 53.22518346852066
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 35.13513513513514
+Before Dont Care
+
+Conditions: 426
+Rules: 181
+
+After Dont Care
+
+Conditions: 214
+Rules: 169
+
+
+ DNF number 1 x_2 | x_3 | ~x_1
+ DNF number 2 None
+ DNF number 3 x_1 | x_2
+ DNF number 4 ~x_1
+ DNF number 5 x_2 | ~x_1 | ~x_3
+ DNF number 6 x_0 | x_2 | ~x_1
+ DNF number 7 x_1 | x_2 | x_3
+ DNF number 8 (x_0 & x_2) | (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 16
+Accuracy (%) 81.40641793336404
+ROC (%) 84.54725710167064
+FPR (%): 6.826903655827106
+TPR (%): 44.1101152368758
+F1-score (%): 53.22518346852066
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 35.13513513513514
+Before Dont Care
+
+Conditions: 426
+Rules: 181
+
+After Dont Care
+
+Conditions: 214
+Rules: 169
+

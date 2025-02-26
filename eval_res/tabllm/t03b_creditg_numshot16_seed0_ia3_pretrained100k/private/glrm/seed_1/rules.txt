@@ -1,0 +1,17 @@
+7.587455485664624	(intercept)
+-6.693590117964065	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+5.416271629504975	present employment in years_unemployed == 0.0 AND housing_own == 1.0
+3.7355574450095044	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND job_unskilled resident == 0.0
+-3.0823155860062803	existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0
+-2.934953467759471	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+-2.8698548372372703	existing checking account status_no checking == 0.0 AND personal status_male single == 0.0
+-2.5326017151826354	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0
+-2.2480579581169673	existing checking account status_no checking == 0.0 AND job_skilled == 0.0
+-1.9202114556305325	existing checking account status_no checking == 0.0 AND present employment in years_>=7 == 0.0
+1.7312534693662425	existing checking account status_no checking == 0.0 AND housing_own == 0.0
+1.5937122347708377	purpose_other == 0.0 AND purpose_retraining == 0.0 AND present employment in years_unemployed == 0.0 AND housing_own == 1.0 AND job_unemp/unskilled non res == 0.0 AND job_unskilled resident == 0.0
+-1.3668661446769925	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0
+-1.3267741576076248	existing checking account status_no checking == 0.0 AND property_real estate == 0.0
+-1.1896978826152311	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_<100 == 1.0
+-0.9274332328473588	existing checking account status_no checking == 0.0 AND purpose_furniture/equipment == 0.0
+-0.2817754454959442	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND present employment in years_>=7 == 0.0

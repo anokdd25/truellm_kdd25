@@ -1,0 +1,8 @@
+-6.999243281839427	(intercept)
+-7.036374211534737	marketing contact communication type_unknown == 1.0
+5.253416278496589	type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND marketing contact communication type_unknown == 0.0
+3.551815861828702	type of job_unemployed == 0.0 AND marketing contact communication type_unknown == 0.0
+3.134101940578765	type of job_unknown == 0.0 AND has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0
+2.3004098534635067	marketing contact communication type_unknown == 0.0 AND average yearly balance in euros > 22.58
+1.9039934436445212	marketing contact communication type_unknown == 0.0 AND age <= 56.01
+1.2558919959111845	has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0

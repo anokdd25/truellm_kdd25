@@ -1,0 +1,7 @@
+|--- 4_new car  <= 0.50
+|   |--- 4_used car  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_used car  >  0.50
+|   |   |--- class: 0.0|--- 4_new car  >  0.50
+|   |--- 12_no known property  <= 0.50
+|   |   |--- class: 0.0|   |--- 12_no known property  >  0.50
+|   |   |--- class: 0.0

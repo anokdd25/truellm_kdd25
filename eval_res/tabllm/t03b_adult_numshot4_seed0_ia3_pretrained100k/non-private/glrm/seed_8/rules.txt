@@ -1,0 +1,10 @@
+5.309991690545011	(intercept)
+2.4436353355102165	education_ 12th == 0.0 AND occupation_ Other-service == 0.0 AND relationship_ Unmarried == 0.0 AND native_country_ Mexico == 0.0 AND capital_loss <= -1.35
+1.9234436331466933	occupation_ Other-service == 0.0 AND native_country_ Mexico == 0.0 AND education_num > 6.99 AND capital_loss <= -1.35
+-1.8239278052246	education_ HS-grad == 0.0 AND marital_status_ Married-civ-spouse == 0.0 AND occupation_ Prof-specialty == 0.0 AND age <= 57.95
+-1.4871704062856093	education_ HS-grad == 0.0 AND marital_status_ Married-civ-spouse == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0
+-1.4308688273507009	education_ HS-grad == 0.0 AND marital_status_ Married-civ-spouse == 0.0 AND education_num <= 9.00
+-1.4176070586516651	education_ HS-grad == 0.0 AND marital_status_ Married-civ-spouse == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND age <= 57.95
+-1.2028992936866951	education_ HS-grad == 0.0 AND marital_status_ Married-civ-spouse == 0.0 AND relationship_ Not-in-family == 0.0
+-1.1888193679453818	education_ HS-grad == 0.0 AND marital_status_ Married-civ-spouse == 0.0 AND education_num <= 10.00
+-0.5475363064558133	workclass_ Private == 1.0 AND education_ HS-grad == 0.0 AND marital_status_ Married-civ-spouse == 0.0

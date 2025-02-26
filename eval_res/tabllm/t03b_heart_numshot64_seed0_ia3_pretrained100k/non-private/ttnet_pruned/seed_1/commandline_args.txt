@@ -1,0 +1,60 @@
+{
+  "dataset": "adult",
+  "seed": 0,
+  "device": "cuda",
+  "train_flag": true,
+  "infer_flag": true,
+  "private": false,
+  "shot_flag": false,
+  "dir": "./trueGPT_plots/ttnet_optim/dataset/",
+  "num_shot": "all",
+  "test_size": 0.2,
+  "features_size": 15,
+  "index_c_start": 10,
+  "epochs_max": 100,
+  "ttnet_cv": 3,
+  "epoch_scoring_scoring": "roc_auc",
+  "epoch_scoring_lower_is_better": false,
+  "lr_scheduler_monitor": "valid_loss",
+  "lr_scheduler_mode": "min",
+  "lr_scheduler_patience": 15,
+  "lr_scheduler_factor": 0.1,
+  "lr_scheduler_verbose": true,
+  "early_stopping_monitor": "valid_loss",
+  "early_stopping_patience": 50,
+  "early_stopping_threshold": 0.001,
+  "early_stopping_threshold_mode": "rel",
+  "early_stopping_lower_is_better": true,
+  "lrs": [
+    0.005
+  ],
+  "optimizers": "[optim.Adam]",
+  "kernel_size": [
+    4
+  ],
+  "stride": [
+    3
+  ],
+  "padding": [
+    0
+  ],
+  "repeat": [
+    3
+  ],
+  "filter_size": [
+    10
+  ],
+  "embed_size": [
+    50
+  ],
+  "batch_size": [
+    128
+  ],
+  "nclass": 2,
+  "block_LTT": [
+    "LR"
+  ],
+  "classifier": "linear",
+  "path_save_model": "eval_res/tabllm/t03b_heart_numshot64_seed0_ia3_pretrained100k/non-private/ttnet_pruned/seed_1",
+  "completeness": "complete"
+}

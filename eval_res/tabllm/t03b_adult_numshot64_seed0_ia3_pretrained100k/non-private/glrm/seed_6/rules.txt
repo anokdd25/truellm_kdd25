@@ -1,0 +1,21 @@
+-2.801928760780009	(intercept)
+-3.9833946713226287	workclass_ Federal-gov == 0.0 AND occupation_ Craft-repair == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND capital_gain <= -30.14
+2.848887152745336	workclass_ Self-emp-not-inc == 0.0 AND occupation_ Adm-clerical == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Other-service == 0.0 AND relationship_ Not-in-family == 0.0 AND age > 26.03 AND education_num > 6.99
+2.7832738792031053	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Other-service == 0.0 AND age > 32.99
+2.457383071603036	marital_status_ Married-civ-spouse == 1.0 AND education_num > 9.00
+-2.202905978528187	marital_status_ Married-civ-spouse == 0.0 AND capital_gain <= -30.14
+-2.028960351527335	occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0
+1.912787441492511	workclass_ Private == 1.0 AND occupation_ Other-service == 0.0 AND relationship_ Unmarried == 0.0 AND age > 29.99 AND education_num > 6.99
+-1.4758301313272815	occupation_ Prof-specialty == 0.0 AND age <= 41.04
+1.4596801084291553	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND age > 26.03 AND hours_per_week > 24.02
+1.4480002465825599	workclass_ Private == 1.0 AND marital_status_ Never-married == 0.0 AND education_num > 6.99
+1.3820173760348196	relationship_ Not-in-family == 0.0 AND age > 36.94
+-1.2488036187947105	age <= 36.94 AND capital_gain <= -30.14
+-1.2049044987349504	education_num <= 10.00 AND capital_gain <= -30.14
+1.2023677091377662	workclass_ Self-emp-not-inc == 0.0 AND sex_ Male == 1.0 AND age > 26.03
+-1.1731165281899785	occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0 AND capital_gain <= -30.14
+0.5371120869901403	education_num <= 11.01 AND capital_gain <= -30.14
+0.5233098429312936	workclass_ Self-emp-not-inc == 0.0 AND marital_status_ Never-married == 0.0 AND relationship_ Unmarried == 0.0 AND education_num > 6.99
+-0.4753091617151626	age <= 41.04 AND capital_gain <= -30.14
+0.42897913405632265	marital_status_ Married-civ-spouse == 1.0 AND age > 29.99 AND education_num > 6.99
+0.3488901982954148	marital_status_ Never-married == 0.0 AND sex_ Male == 1.0 AND education_num > 6.99

@@ -1,0 +1,35 @@
+|--- 9_male div/sep  <= 0.50
+|   |--- 14_none  <= 0.50
+|   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |--- class: 1.0|   |   |--- 3_delayed previously  >  0.50
+|   |   |   |--- 18  <= 0.16
+|   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 18  >  0.16
+|   |   |   |   |--- class: 1.0|   |--- 14_none  >  0.50
+|   |   |--- 10_none  <= 0.50
+|   |   |   |--- 16  <= -0.80
+|   |   |   |   |--- 16  <= -0.88
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 16  >  -0.88
+|   |   |   |   |   |--- 8  <= -0.79
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 8  >  -0.79
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |--- 16  >  -0.80
+|   |   |   |   |--- class: 1.0|   |   |--- 10_none  >  0.50
+|   |   |   |--- class: 1.0|--- 9_male div/sep  >  0.50
+|   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |--- 4_new car  <= 0.50
+|   |   |   |--- 12_life insurance  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 12_life insurance  >  0.50
+|   |   |   |   |--- 3_existing paid  <= 0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 3_existing paid  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |--- 4_new car  >  0.50
+|   |   |   |--- class: 1.0|   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |--- 9_male mar/wid  <= 0.50
+|   |   |   |--- 11  <= -0.87
+|   |   |   |   |--- class: 1.0|   |   |   |--- 11  >  -0.87
+|   |   |   |   |--- 15_rent  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 15_rent  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |--- 9_male mar/wid  >  0.50
+|   |   |   |--- class: 0.0

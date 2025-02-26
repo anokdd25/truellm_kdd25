@@ -1,0 +1,32 @@
+0.273550178715649	(intercept)
+-5.89430259654619	outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_unknown == 0.0
+3.58080200991104	type of job_unemployed == 0.0 AND has housing loan_yes == 1.0
+-2.8599658181495826	average yearly balance in euros <= 448.84
+-2.7563848473973036	type of job_unemployed == 0.0 AND average yearly balance in euros > 448.84
+2.340570286839049	type of job_unemployed == 0.0 AND marketing contact communication type_unknown == 0.0
+2.16664441558061	type of job_retired == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND outcome of the previous marketing campaign_unknown == 1.0 AND age <= 56.01
+-1.824049420758648	outcome of the previous marketing campaign_success == 0.0 AND outcome of the previous marketing campaign_unknown == 0.0
+1.5553479333996654	type of job_unemployed == 0.0 AND average yearly balance in euros > 22.58
+1.5133838792097596	type of job_retired == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND marketing contact communication type_unknown == 0.0
+1.4672694441272902	type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND average yearly balance in euros > 144.37
+1.457770013295741	type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND average yearly balance in euros > -7.87
+1.4572449454701415	education level_tertiary == 1.0
+-1.4076102102557888	type of job_technician == 0.0 AND marketing contact communication type_telephone == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+1.235110938558487	type of job_retired == 0.0 AND type of job_unemployed == 0.0 AND marital status_married == 1.0
+-1.2085629649611926	education level_tertiary == 0.0
+1.197571761240618	type of job_housemaid == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND marketing contact communication type_unknown == 0.0 AND last contact month > 2.99 AND number of days passed after the client was last contacted from a previous campaign <= 185.38
+-1.1942703114246742	last contact day <= 19.97
+-1.1778657723491346	number of contacts performed during this campaign and for this client <= 1.99
+-1.1492468410729477	outcome of the previous marketing campaign_success == 0.0 AND number of contacts performed during this campaign and for this client <= 1.99
+1.1019966767157219	type of job_unemployed == 0.0 AND age <= 46.03
+0.9773837725562401	type of job_housemaid == 0.0 AND type of job_retired == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND education level_unknown == 0.0 AND has credit in default_yes == 0.0 AND average yearly balance in euros > -7.87 AND number of days passed after the client was last contacted from a previous campaign <= 185.38
+-0.9583969591828972	type of job_unemployed == 0.0 AND average yearly balance in euros > 144.37
+-0.9068013022327427	type of job_entrepreneur == 0.0 AND type of job_self-employed == 0.0 AND type of job_technician == 0.0 AND marketing contact communication type_telephone == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+0.6939648252338301	type of job_unemployed == 0.0 AND last contact day > 6.98
+-0.6725397108663381	average yearly balance in euros <= 692.42
+-0.5432540718763623	last contact month <= 6.00
+-0.2846668000309795	education level_tertiary == 0.0 AND marketing contact communication type_telephone == 0.0
+-0.20339836061155384	type of job_unemployed == 0.0 AND last contact day > 12.98
+-0.1702078112403951	type of job_retired == 0.0 AND type of job_unemployed == 0.0 AND average yearly balance in euros > 22.58
+0.14863371612639426	type of job_housemaid == 0.0 AND type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND outcome of the previous marketing campaign_unknown == 1.0 AND average yearly balance in euros > 22.58 AND number of days passed after the client was last contacted from a previous campaign <= 185.38 AND number of contacts performed before this campaign and for this client <= 2.01
+0.08865720300950776	has housing loan_yes == 0.0

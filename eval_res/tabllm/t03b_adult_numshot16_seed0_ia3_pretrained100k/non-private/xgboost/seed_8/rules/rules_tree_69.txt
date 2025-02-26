@@ -1,0 +1,14 @@
+0:[94<-0.995690346] yes=1,no=2,missing=2
+	1:[52<1] yes=3,no=4,missing=4
+		3:leaf=-0.0800699741		4:[95<1.06462014] yes=7,no=8,missing=8
+			7:[95<-0.237767622] yes=13,no=14,missing=14
+				13:leaf=-0.066223219				14:leaf=0.0359192379			8:leaf=-0.059022624	2:[98<4.10386944] yes=5,no=6,missing=6
+		5:[94<1.35027635] yes=9,no=10,missing=10
+			9:[18<1] yes=15,no=16,missing=16
+				15:[99<1.74631858] yes=21,no=22,missing=22
+					21:leaf=0.0271020811					22:leaf=-0.0828556865				16:[3<1] yes=2_ Private 3,no=2_ Private 4,missing=2_ Private 4
+					23:leaf=0.0336854011					24:leaf=-0.042891115			12_ Local-gov :[1<1] yes=17,no=18,missing=18
+				4_ HS-grad :[18<1] yes=25,no=26,missing=26
+					25:leaf=-0.0507842898					26:leaf=0.00158687297				18:leaf=0.0504281595		6:[95<0.830977261] yes=11,no=12,missing=12
+			11:[18<1] yes=19,no=20,missing=20
+				19:leaf=0.102844313				20:leaf=0.0263114367			12:leaf=-0.00735850492

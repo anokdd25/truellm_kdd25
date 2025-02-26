@@ -1,0 +1,12 @@
+3_ATA :[1<1] yes=1,no=2,missing=2
+	1:[5<1] yes=3,no=7_Normal ,missing=7_Normal 
+		3:[6<1] yes=7,no=8,missing=8
+			7:[11<-0.524620235] yes=13,no=14,missing=14
+				13:leaf=-0				14:leaf=-0.0529479496			8:[13<-0.734383643] yes=15,no=16,missing=16
+				15:leaf=-0				16:leaf=0.0482096821		4:[2<3_NAP ] yes=9,no=3_NAP 0,missing=3_NAP 0
+			9:[14<-0.720315099] yes=17,no=18,missing=18
+				17:leaf=-0				18:leaf=0.0649473146			10:[14<-0.618330598] yes=19,no=20,missing=20
+				19:leaf=0.0327225737				20:leaf=-0.0263051577	2:[14<0.802485347] yes=5,no=6,missing=6
+		5:[10<-0.1161 0063] yes=11,no=12,missing=12
+			11:leaf=-0			8 :[13<0.443496883] yes=21,no=22,missing=22
+				21:leaf=-0.0903493091				22:leaf=-0		6:leaf=-0

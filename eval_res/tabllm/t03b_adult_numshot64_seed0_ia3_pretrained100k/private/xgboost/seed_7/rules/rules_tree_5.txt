@@ -1,0 +1,13 @@
+0:[36<1] yes=1,no=2,missing=2
+	1:[29<1] yes=3,no=4,missing=4
+		3:[94<-0.606337309] yes=7,no=8,missing=8
+			7:[98<-0.209952682] yes=13,no=14,missing=14
+				13:leaf=-0.0299728066				14:leaf=-0.217840001			8:[5<1] yes=15,no=16,missing=16
+				15:leaf=0.118962608				16:leaf=-0.246227875		4:[97<0.951471269] yes=9,no=10,missing=10
+			9:[19<1] yes=17,no=4_ Masters ,missing=4_ Masters 
+				17:leaf=-0.285090357				18:leaf=0.0426300094			10:[99<-1.02852547] yes=19,no=20,missing=20
+				19:leaf=-0.303635865				20:leaf=0.0409795381	2:[98<1.92596853] yes=5,no=6,missing=6
+		5:[97<1.51453817] yes=11,no=12,missing=12
+			11:[94<0.795892715] yes=21,no=22,missing=22
+				21:leaf=-0.34835884				22:leaf=-0.177051127			12:[24<1] yes=6_ Married-civ-spouse ,no=24,missing=24
+				23:leaf=-0.286942452				24:leaf=0.181118459		6:leaf=0.183631673

@@ -1,0 +1,84 @@
+
+ DNF number 1 ~x_2 & ~x_3
+ DNF number 2 (x_3 & ~x_0) | (x_1 & x_3 & ~x_2)
+ DNF number 3 x_1 | (~x_2 & ~x_3)
+ DNF number 4 None
+ DNF number 5 x_0 & x_1 & ~x_2 & ~x_3
+ DNF number 6 x_1 | x_3
+ DNF number 7 x_2 | ~x_3
+ DNF number 8 x_3 | (~x_0 & ~x_1) | (~x_0 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | (x_2 & x_3) | (x_2 & ~x_0) | (x_3 & ~x_0)
+ Number of gates 22
+Accuracy (%) 25.333333333333336
+ROC (%) 49.34210526315789
+FPR (%): 100.0
+TPR (%): 100.0
+F1-score (%): 40.42553191489362
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 22
+Rules: 8
+
+After Dont Care
+
+Conditions: 22
+Rules: 8
+
+
+ DNF number 1 ~x_2 & ~x_3
+ DNF number 2 (x_3 & ~x_0) | (x_1 & x_3 & ~x_2)
+ DNF number 3 (x_1 & ~x_2) | (x_1 & ~x_3) | (~x_2 & ~x_3)
+ DNF number 4 None
+ DNF number 5 x_0 & x_1 & ~x_2 & ~x_3
+ DNF number 6 x_1 | x_3
+ DNF number 7 x_2 | ~x_3
+ DNF number 8 x_3 | (~x_0 & ~x_1) | (~x_0 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | (x_2 & x_3) | (x_2 & ~x_0) | (x_3 & ~x_0)
+ Number of gates 25
+Accuracy (%) 25.333333333333336
+ROC (%) 46.381578947368425
+FPR (%): 100.0
+TPR (%): 100.0
+F1-score (%): 40.42553191489362
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 25
+Rules: 8
+
+After Dont Care
+
+Conditions: 25
+Rules: 8
+
+
+ DNF number 1 ~x_2 & ~x_3
+ DNF number 2 (x_3 & ~x_0) | (x_1 & x_3 & ~x_2)
+ DNF number 3 (x_1 & ~x_2) | (x_1 & ~x_3) | (~x_2 & ~x_3)
+ DNF number 4 None
+ DNF number 5 x_0 & x_1 & ~x_2 & ~x_3
+ DNF number 6 x_1 | x_3
+ DNF number 7 x_2 | ~x_3
+ DNF number 8 x_3 | (~x_0 & ~x_1) | (~x_0 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | (x_2 & x_3) | (x_2 & ~x_0) | (x_3 & ~x_0)
+ Number of gates 25
+Accuracy (%) 25.333333333333336
+ROC (%) 46.381578947368425
+FPR (%): 100.0
+TPR (%): 100.0
+F1-score (%): 40.42553191489362
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 25
+Rules: 8
+
+After Dont Care
+
+Conditions: 25
+Rules: 8
+

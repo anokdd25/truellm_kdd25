@@ -1,0 +1,9 @@
+-5.379946544199982	(intercept)
+25.12431936463944	sex_M == 1.0 AND cp_NAP == 0.0
+-11.56190113160838	restecg_Normal == 0.0 AND restecg_ST == 0.0
+-6.63354501316081	cp_NAP == 1.0
+5.771690055369151	cp_ATA == 0.0 AND cp_NAP == 0.0 AND cp_TA == 0.0
+2.85416487502593	cp_ATA == 0.0 AND cp_NAP == 0.0
+2.314022116406556	cp_ATA == 0.0 AND cp_NAP == 0.0 AND cp_TA == 0.0 AND restecg_Normal == 1.0
+1.7426845181498252	cp_NAP == 0.0
+-0.6275690660440202	cp_NAP == 0.0 AND restecg_Normal == 1.0

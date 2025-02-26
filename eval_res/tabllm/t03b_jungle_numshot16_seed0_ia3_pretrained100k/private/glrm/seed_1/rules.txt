@@ -1,0 +1,18 @@
+-1.1111804553654585	(intercept)
+2.018267647803612	white piece rank > 1.99 AND black piece rank > 0.01
+-0.9387239294767927	white piece strength <= 3.99 AND white piece file > -0.01 AND black piece strength > -0.00
+0.8686713501675353	white piece strength > -0.00 AND white piece file <= 1.99 AND black piece strength > -0.00 AND black piece rank > 0.01
+0.8588493775933193	white piece strength > -0.00 AND black piece rank <= 6.01
+-0.7973017805108142	white piece strength > -0.00 AND white piece rank > 1.99
+0.7013883241906479	black piece strength <= 5.01
+-0.696734539428539	white piece file > -0.01 AND white piece rank <= 7.01 AND black piece file <= 3.00 AND black piece file > -0.01 AND black piece rank > 0.01
+0.6905163586745199	white piece strength > -0.00 AND white piece rank > 0.99
+0.6820625428292342	white piece strength > -0.00 AND black piece strength <= 6.00 AND black piece strength > -0.00
+-0.5530030778545596	white piece strength <= 3.99 AND black piece strength > -0.00 AND black piece file > -0.01
+0.550428306578741	white piece strength > -0.00 AND white piece rank > 3.00
+0.40949617761886203	white piece strength > -0.00 AND white piece file <= 5.00
+0.274286976916639	white piece strength > -0.00 AND white piece file <= 4.01 AND black piece strength > -0.00 AND black piece rank > 0.01
+-0.22226048564117226	white piece strength > -0.00 AND black piece strength <= 6.00
+0.1327227470206476	white piece strength <= 3.99
+0.09292909273217924	white piece file <= 1.99
+-0.02118336879451086	white piece strength > -0.00 AND white piece file <= 5.00 AND white piece rank > 0.01 AND black piece rank > 0.01

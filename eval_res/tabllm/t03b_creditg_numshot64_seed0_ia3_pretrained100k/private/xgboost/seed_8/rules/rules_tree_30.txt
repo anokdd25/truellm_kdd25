@@ -1,0 +1,9 @@
+0:[7<1] yes=1,no=2,missing=2
+	1:[23<1] yes=3,no=4,missing=4
+		3_delayed previously :[4<1] yes=7,no=8,missing=8
+			7:[5<1] yes=11,no=12,missing=12
+				11:leaf=0.0639175475				12:leaf=-0.00451845536			4_urniture/equipment :[9<1] yes=13,no=14,missing=14
+				13:leaf=-0.0422163159				14:leaf=-0.254386038		4:[46<-1.56138694] yes=9,no=10,missing=10
+			9:leaf=0.0993415043			10:[45<1.61743486] yes=15,no=16,missing=16
+				15:leaf=-0.173754305				16:leaf=0.083217226	2:[45<-0.567817271] yes=5,no=6,missing=6
+		5:leaf=0.0171044078		6:leaf=-0.33237949

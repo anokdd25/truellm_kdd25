@@ -1,0 +1,7 @@
+0:[24<-2.16341901] yes=1,no=2,missing=2
+	1:[25<-0.0734707043] yes=3,no=4,missing=4
+		3:leaf=-0.112815782		4:leaf=-0.0103707742	2:[21<1] yes=5,no=6,missing=6
+		5:[8<1] yes=2_technician ,no=8,missing=8
+			7:[11<1] yes=9,no=3_married ,missing=3_married 
+				9:leaf=-0.0311997887				10:leaf=0.0136979641			8:[24<0.15887998] yes=11,no=12,missing=12
+				11:leaf=0.104568638				12:leaf=0.00156112888		6:leaf=0.104531154

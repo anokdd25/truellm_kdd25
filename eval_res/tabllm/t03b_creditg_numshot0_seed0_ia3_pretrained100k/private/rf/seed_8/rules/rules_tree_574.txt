@@ -1,0 +1,7 @@
+|--- 4_domestic appliance  <= 0.50
+|   |--- class_bad  <= -1.34
+|   |   |--- class: 0.0|   |--- class_bad  >  -1.34
+|   |   |--- class: 0.0|--- 4_domestic appliance  >  0.50
+|   |--- 18  <= -0.61
+|   |   |--- class: 0.0|   |--- 18  >  -0.61
+|   |   |--- class: 0.0

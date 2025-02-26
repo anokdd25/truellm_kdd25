@@ -1,0 +1,135 @@
+Class 0:
+
+Position	Weight	Rule
+2	0.3534736931324005	2_housemaid | ~2_management | 2_blue-collar & 2_entrepreneur
+3	-0.25462016463279724	2_self-employed | ~2_services | 2_management & 2_retired
+4	1.591472864151001	2_technician | ~2_unemployed | 2_services & 2_student
+5	-0.9783470630645752	3_married | ~3_single | 2_unemployed & 2_unknown
+6	1.0554602146148682	4_tertiary | ~4_unknown | 3_single & 4_secondary
+7	-1.136309027671814	7_yes | ~8_yes | 4_unknown & 5_yes
+8	-2.1711485385894775	9_unknown | ~16_other | 8_yes & 9_telephone
+9	0.6167722344398499	16_unknown | ~Age_ | 16_other & 16_success
+10	0.34737294912338257	Last Contact Day_ | ~Last Contact Month_ | Age_ & Balance (euros)_
+11	0.9228646755218506	Campaign_ | ~Pdays_ | Last Contact Month_ & Last Contact Duration_
+12	-0.21583355963230133	Age_40.66 | ~Balance (euros)_1284.03 | Pdays_ & Previous_
+14	3.08663272857666	Pdays_37.62 | ~Previous_0.52 | Last Contact Duration_251.54 & Campaign_2.68
+15	0.21284610033035278	Balance (euros)_1297.24 | ~Last Contact Day_15.63 | Previous_0.52 & Age_40.71
+16	0.05738469958305359	Last Contact Duration_252.66 | ~Campaign_2.7 | Last Contact Day_15.63 & Last Contact Month_6.09
+17	-0.15315769612789154	~2_entrepreneur | 2_housemaid & 2_management
+18	1.6100966930389404	~2_retired | 2_self-employed & 2_services
+19	-0.6869792342185974	~2_student | 2_technician & 2_unemployed
+20	2.434385061264038	~2_unknown | 3_married & 3_single
+21	-0.3132144808769226	~4_secondary | 4_tertiary & 4_unknown
+22	2.150053024291992	~5_yes | 7_yes & 8_yes
+23	-1.2640043497085571	~9_telephone | 9_unknown & 16_other
+24	-2.9127328395843506	~16_success | 16_unknown & Age_
+25	-0.27970054745674133	~Balance (euros)_ | Last Contact Day_ & Last Contact Month_
+26	0.27044492959976196	~Last Contact Duration_ | Campaign_ & Pdays_
+27	0.7135193347930908	~Previous_ | Age_40.66 & Balance (euros)_1284.03
+28	0.05364314839243889	~Last Contact Day_15.59 | Last Contact Month_6.08 & Last Contact Duration_251.54
+29	-0.6907258033752441	~Campaign_2.68 | Pdays_37.62 & Previous_0.52
+30	0.09475840628147125	~Age_40.71 | Balance (euros)_1297.24 & Last Contact Day_15.63
+31	-0.05265872925519943	~Last Contact Month_6.09 | Last Contact Duration_252.66 & Campaign_2.7
+32	-0.10858834534883499	2_management & ~2_blue-collar & ~2_entrepreneur & ~2_housemaid
+33	0.3098802864551544	2_services & ~2_management & ~2_retired & ~2_self-employed
+34	-1.6926062107086182	2_unemployed & ~2_services & ~2_student & ~2_technician
+35	0.6883469223976135	3_single & ~2_unemployed & ~2_unknown & ~3_married
+36	0.26773953437805176	4_unknown & ~3_single & ~4_secondary & ~4_tertiary
+37	0.35374030470848083	8_yes & ~4_unknown & ~5_yes & ~7_yes
+38	-0.07636924833059311	16_other & ~8_yes & ~9_telephone & ~9_unknown
+39	-1.065588116645813	Age_ & ~16_other & ~16_success & ~16_unknown
+40	-0.15668609738349915	Last Contact Month_ & ~Age_ & ~Balance (euros)_ & ~Last Contact Day_
+42	0.1129193902015686	Balance (euros)_1284.03 & ~Pdays_ & ~Previous_ & ~Age_40.66
+43	-0.08837315440177917	Last Contact Duration_251.54 & ~Balance (euros)_1284.03 & ~Last Contact Day_15.59 & ~Last Contact Month_6.08
+44	-0.38761287927627563	Previous_0.52 & ~Last Contact Duration_251.54 & ~Campaign_2.68 & ~Pdays_37.62
+45	-0.09331263601779938	Last Contact Day_15.63 & ~Previous_0.52 & ~Age_40.71 & ~Balance (euros)_1297.24
+46	-0.21441037952899933	Campaign_2.7 & ~Last Contact Day_15.63 & ~Last Contact Month_6.09 & ~Last Contact Duration_252.66
+47	-0.2536807954311371	2_blue-collar & ~2_entrepreneur | 2_blue-collar & ~2_management | ~2_entrepreneur & ~2_management
+48	1.641314148902893	2_management & ~2_retired | 2_management & ~2_services | ~2_retired & ~2_services
+49	1.02931809425354	2_services & ~2_student | 2_services & ~2_unemployed | ~2_student & ~2_unemployed
+50	0.9173483848571777	2_unemployed & ~2_unknown | 2_unemployed & ~3_single | ~2_unknown & ~3_single
+51	0.16230162978172302	3_single & ~4_secondary | 3_single & ~4_unknown | ~4_secondary & ~4_unknown
+52	0.829836905002594	4_unknown & ~5_yes | 4_unknown & ~8_yes | ~5_yes & ~8_yes
+53	-0.15955166518688202	8_yes & ~9_telephone | 8_yes & ~16_other | ~9_telephone & ~16_other
+54	-0.8244180679321289	16_other & ~16_success | 16_other & ~Age_ | ~16_success & ~Age_
+55	0.10290355980396271	Age_ & ~Balance (euros)_ | Age_ & ~Last Contact Month_ | ~Balance (euros)_ & ~Last Contact Month_
+56	0.13490545749664307	Last Contact Month_ & ~Last Contact Duration_ | Last Contact Month_ & ~Pdays_ | ~Last Contact Duration_ & ~Pdays_
+57	-0.3493388295173645	Pdays_ & ~Previous_ | Pdays_ & ~Balance (euros)_1284.03 | ~Previous_ & ~Balance (euros)_1284.03
+58	-0.5682469606399536	Balance (euros)_1284.03 & ~Last Contact Day_15.59 | Balance (euros)_1284.03 & ~Last Contact Duration_251.54 | ~Last Contact Day_15.59 & ~Last Contact Duration_251.54
+59	0.3782101571559906	Last Contact Duration_251.54 & ~Campaign_2.68 | Last Contact Duration_251.54 & ~Previous_0.52 | ~Campaign_2.68 & ~Previous_0.52
+60	-0.3655172288417816	Previous_0.52 & ~Age_40.71 | Previous_0.52 & ~Last Contact Day_15.63 | ~Age_40.71 & ~Last Contact Day_15.63
+61	-0.6597376465797424	Last Contact Day_15.63 & ~Last Contact Month_6.09 | Last Contact Day_15.63 & ~Campaign_2.7 | ~Last Contact Month_6.09 & ~Campaign_2.7
+62	0.22996890544891357	~2_housemaid | 2_entrepreneur & ~2_blue-collar | 2_management & ~2_blue-collar
+63	-0.3524286150932312	~2_self-employed | 2_retired & ~2_management | 2_services & ~2_management
+64	-0.18950454890727997	~2_technician | 2_student & ~2_services | 2_unemployed & ~2_services
+65	0.23072516918182373	~3_married | 2_unknown & ~2_unemployed | 3_single & ~2_unemployed
+66	-0.795182466506958	~4_tertiary | 4_secondary & ~3_single | 4_unknown & ~3_single
+67	-0.5412840247154236	~7_yes | 5_yes & ~4_unknown | 8_yes & ~4_unknown
+68	0.8745989203453064	~9_unknown | 9_telephone & ~8_yes | 16_other & ~8_yes
+69	-0.32004672288894653	~16_unknown | 16_success & ~16_other | Age_ & ~16_other
+70	0.10195615142583847	~Last Contact Day_ | Balance (euros)_ & ~Age_ | Last Contact Month_ & ~Age_
+71	-0.2695672810077667	~Campaign_ | Last Contact Duration_ & ~Last Contact Month_ | Pdays_ & ~Last Contact Month_
+72	-0.09210435301065445	~Age_40.66 | Previous_ & ~Pdays_ | Balance (euros)_1284.03 & ~Pdays_
+73	0.22523073852062225	~Last Contact Month_6.08 | Last Contact Day_15.59 & ~Balance (euros)_1284.03 | Last Contact Duration_251.54 & ~Balance (euros)_1284.03
+74	0.05615370720624924	~Pdays_37.62 | Campaign_2.68 & ~Last Contact Duration_251.54 | Previous_0.52 & ~Last Contact Duration_251.54
+75	0.03902723267674446	~Balance (euros)_1297.24 | Age_40.71 & ~Previous_0.52 | Last Contact Day_15.63 & ~Previous_0.52
+76	-0.4796079397201538	~Last Contact Duration_252.66 | Last Contact Month_6.09 & ~Last Contact Day_15.63 | Campaign_2.7 & ~Last Contact Day_15.63
+77	-0.4584901034832001	2_blue-collar & ~2_entrepreneur | 2_blue-collar & ~2_housemaid
+78	0.052438877522945404	2_management & ~2_retired | 2_management & ~2_self-employed
+79	0.2677172124385834	2_services & ~2_student | 2_services & ~2_technician
+80	-1.823430061340332	2_unemployed & ~2_unknown | 2_unemployed & ~3_married
+81	0.3304392993450165	3_single & ~4_secondary | 3_single & ~4_tertiary
+82	0.10802941769361496	4_unknown & ~5_yes | 4_unknown & ~7_yes
+83	1.0392324924468994	8_yes & ~9_telephone | 8_yes & ~9_unknown
+84	2.8466086387634277	16_other & ~16_success | 16_other & ~16_unknown
+85	-0.2936095595359802	Age_ & ~Balance (euros)_ | Age_ & ~Last Contact Day_
+86	0.1051434651017189	Last Contact Month_ & ~Last Contact Duration_ | Last Contact Month_ & ~Campaign_
+87	-0.37010282278060913	Pdays_ & ~Previous_ | Pdays_ & ~Age_40.66
+88	-0.07664653658866882	Balance (euros)_1284.03 & ~Last Contact Day_15.59 | Balance (euros)_1284.03 & ~Last Contact Month_6.08
+89	-0.227565735578537	Last Contact Duration_251.54 & ~Campaign_2.68 | Last Contact Duration_251.54 & ~Pdays_37.62
+90	-0.8114110231399536	Previous_0.52 & ~Age_40.71 | Previous_0.52 & ~Balance (euros)_1297.24
+91	-0.28239706158638	Last Contact Day_15.63 & ~Last Contact Month_6.09 | Last Contact Day_15.63 & ~Last Contact Duration_252.66
+92	0.5939897894859314	~2_housemaid | 2_blue-collar & 2_entrepreneur & ~2_management
+93	-0.24466317892074585	~2_self-employed | 2_management & 2_retired & ~2_services
+94	-0.6124580502510071	~2_technician | 2_services & 2_student & ~2_unemployed
+95	-1.23334801197052	~3_married | 2_unemployed & 2_unknown & ~3_single
+96	-0.9401251673698425	~4_tertiary | 3_single & 4_secondary & ~4_unknown
+97	-0.9495804905891418	~7_yes | 4_unknown & 5_yes & ~8_yes
+98	0.8683568239212036	~9_unknown | 8_yes & 9_telephone & ~16_other
+99	-0.9078260064125061	~16_unknown | 16_other & 16_success & ~Age_
+100	-0.4200284481048584	~Last Contact Day_ | Age_ & Balance (euros)_ & ~Last Contact Month_
+101	-0.3861294388771057	~Campaign_ | Last Contact Month_ & Last Contact Duration_ & ~Pdays_
+102	0.08719196915626526	~Age_40.66 | Pdays_ & Previous_ & ~Balance (euros)_1284.03
+103	0.15765142440795898	~Last Contact Month_6.08 | Balance (euros)_1284.03 & Last Contact Day_15.59 & ~Last Contact Duration_251.54
+104	0.7050288915634155	~Pdays_37.62 | Last Contact Duration_251.54 & Campaign_2.68 & ~Previous_0.52
+105	-0.49416136741638184	~Balance (euros)_1297.24 | Previous_0.52 & Age_40.71 & ~Last Contact Day_15.63
+106	0.22639454901218414	~Last Contact Duration_252.66 | Last Contact Day_15.63 & Last Contact Month_6.09 & ~Campaign_2.7
+107	0.09921909123659134	2_management & ~2_blue-collar & ~2_entrepreneur & ~2_housemaid
+108	0.39985692501068115	2_services & ~2_management & ~2_retired & ~2_self-employed
+109	-2.138453483581543	2_unemployed & ~2_services & ~2_student & ~2_technician
+110	0.7249728441238403	3_single & ~2_unemployed & ~2_unknown & ~3_married
+111	0.475515753030777	4_unknown & ~3_single & ~4_secondary & ~4_tertiary
+112	0.11439758539199829	8_yes & ~4_unknown & ~5_yes & ~7_yes
+113	-0.07300018519163132	16_other & ~8_yes & ~9_telephone & ~9_unknown
+116	0.09675668179988861	Pdays_ & ~Last Contact Month_ & ~Last Contact Duration_ & ~Campaign_
+117	0.1534218043088913	Balance (euros)_1284.03 & ~Pdays_ & ~Previous_ & ~Age_40.66
+118	-0.24018394947052002	Last Contact Duration_251.54 & ~Balance (euros)_1284.03 & ~Last Contact Day_15.59 & ~Last Contact Month_6.08
+119	-0.16233950853347778	Previous_0.52 & ~Last Contact Duration_251.54 & ~Campaign_2.68 & ~Pdays_37.62
+121	-0.04637770727276802	Campaign_2.7 & ~Last Contact Day_15.63 & ~Last Contact Month_6.09 & ~Last Contact Duration_252.66
+122	0.6455754637718201	2_entrepreneur & ~2_housemaid | ~2_blue-collar & ~2_housemaid | ~2_housemaid & ~2_management
+123	0.3269064128398895	2_retired & ~2_self-employed | ~2_management & ~2_self-employed | ~2_self-employed & ~2_services
+124	-0.10895518958568573	2_student & ~2_technician | ~2_services & ~2_technician | ~2_technician & ~2_unemployed
+125	-1.0268691778182983	2_unknown & ~3_married | ~2_unemployed & ~3_married | ~3_married & ~3_single
+126	-0.784900963306427	4_secondary & ~4_tertiary | ~3_single & ~4_tertiary | ~4_tertiary & ~4_unknown
+127	-1.4776268005371094	5_yes & ~7_yes | ~4_unknown & ~7_yes | ~7_yes & ~8_yes
+128	0.8894110918045044	9_telephone & ~9_unknown | ~8_yes & ~9_unknown | ~9_unknown & ~16_other
+129	-1.1507632732391357	16_success & ~16_unknown | ~16_other & ~16_unknown | ~16_unknown & ~Age_
+131	-0.6827019453048706	Last Contact Duration_ & ~Campaign_ | ~Last Contact Month_ & ~Campaign_ | ~Campaign_ & ~Pdays_
+132	0.24225354194641113	Previous_ & ~Age_40.66 | ~Pdays_ & ~Age_40.66 | ~Age_40.66 & ~Balance (euros)_1284.03
+133	-0.15375584363937378	Last Contact Day_15.59 & ~Last Contact Month_6.08 | ~Balance (euros)_1284.03 & ~Last Contact Month_6.08 | ~Last Contact Month_6.08 & ~Last Contact Duration_251.54
+134	1.2197903394699097	Campaign_2.68 & ~Pdays_37.62 | ~Last Contact Duration_251.54 & ~Pdays_37.62 | ~Pdays_37.62 & ~Previous_0.52
+135	-0.3023255169391632	Age_40.71 & ~Balance (euros)_1297.24 | ~Previous_0.52 & ~Balance (euros)_1297.24 | ~Balance (euros)_1297.24 & ~Last Contact Day_15.63
+136	0.24531175196170807	Last Contact Month_6.09 & ~Last Contact Duration_252.66 | ~Last Contact Day_15.63 & ~Last Contact Duration_252.66 | ~Last Contact Duration_252.66 & ~Campaign_2.7
+intercept	-5.11276912689209
+
+

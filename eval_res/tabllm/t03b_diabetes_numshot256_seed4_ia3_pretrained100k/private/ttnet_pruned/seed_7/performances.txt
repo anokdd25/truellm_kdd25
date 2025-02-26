@@ -1,0 +1,84 @@
+
+ DNF number 1 ~x_1 | (x_2 & x_3)
+ DNF number 2 None
+ DNF number 3 x_1
+ DNF number 4 ~x_1
+ DNF number 5 x_2 | ~x_1
+ DNF number 6 x_0 | x_2 | x_3 | ~x_1
+ DNF number 7 x_2 | x_3
+ DNF number 8 (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1) | (x_0 & x_2 & x_3)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 15
+Accuracy (%) 70.12987012987013
+ROC (%) 76.11273080660835
+FPR (%): 29.523809523809526
+TPR (%): 69.38775510204081
+F1-score (%): 59.64912280701755
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 5.0
+Before Dont Care
+
+Conditions: 30
+Rules: 14
+
+After Dont Care
+
+Conditions: 30
+Rules: 14
+
+
+ DNF number 1 ~x_1 | (x_2 & x_3)
+ DNF number 2 None
+ DNF number 3 x_1
+ DNF number 4 ~x_1
+ DNF number 5 x_2 | ~x_1
+ DNF number 6 x_0 | x_2 | x_3 | ~x_1
+ DNF number 7 x_2 | x_3
+ DNF number 8 (x_0 & x_2) | (x_2 & x_3) | (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 16
+Accuracy (%) 73.37662337662337
+ROC (%) 77.06511175898932
+FPR (%): 23.809523809523807
+TPR (%): 67.3469387755102
+F1-score (%): 61.68224299065421
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 32
+Rules: 14
+
+After Dont Care
+
+Conditions: 32
+Rules: 14
+
+
+ DNF number 1 ~x_1 | (x_2 & x_3)
+ DNF number 2 None
+ DNF number 3 x_1
+ DNF number 4 ~x_1
+ DNF number 5 x_2 | ~x_1
+ DNF number 6 x_0 | x_2 | x_3 | ~x_1
+ DNF number 7 x_2 | x_3
+ DNF number 8 (x_0 & x_2) | (x_2 & x_3) | (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 16
+Accuracy (%) 73.37662337662337
+ROC (%) 77.06511175898932
+FPR (%): 23.809523809523807
+TPR (%): 67.3469387755102
+F1-score (%): 61.68224299065421
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 32
+Rules: 14
+
+After Dont Care
+
+Conditions: 32
+Rules: 14
+

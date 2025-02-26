@@ -1,0 +1,5 @@
+|--- 7_unemployed  <= 0.50
+|   |--- class: 0.0|--- 7_unemployed  >  0.50
+|   |--- 3_critical/other existing credit  <= 0.50
+|   |   |--- class: 0.0|   |--- 3_critical/other existing credit  >  0.50
+|   |   |--- class: 0.0

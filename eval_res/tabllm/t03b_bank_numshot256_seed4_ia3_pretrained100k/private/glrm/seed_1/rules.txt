@@ -1,0 +1,21 @@
+0.5800152946117333	(intercept)
+4.611712005540738	type of job_unknown == 0.0 AND education level_unknown == 0.0 AND has credit in default_yes == 0.0 AND has housing loan_yes == 0.0 AND has personal loan_yes == 0.0
+-2.6304116257530987	outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 278.77
+2.156056116538271	marketing contact communication type_unknown == 0.0
+-1.665475015792863	type of job_student == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 368.90
+-1.628769485417178	marketing contact communication type_unknown == 1.0
+-1.5294429778836998	last contact duration <= 368.90
+1.3433199169327223	outcome of the previous marketing campaign_unknown == 0.0
+1.3003312723449016	last contact month <= 7.01
+1.0454234592423313	last contact day <= 9.98
+-1.0433076317966237	last contact duration <= 147.43
+-1.0347272351940182	last contact duration <= 222.11
+-0.9859815804528801	has housing loan_yes == 1.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 549.17
+-0.8981602681215978	outcome of the previous marketing campaign_success == 0.0 AND last contact month > 4.99 AND last contact duration <= 549.17 AND number of days passed after the client was last contacted from a previous campaign > -0.85
+0.8229919012903802	number of contacts performed during this campaign and for this client <= 3.01
+-0.8160332859345213	outcome of the previous marketing campaign_unknown == 1.0
+0.8052710692485413	last contact duration <= 278.77
+-0.7359059357562129	outcome of the previous marketing campaign_success == 0.0 AND last contact day > 4.99 AND last contact duration <= 368.90 AND number of days passed after the client was last contacted from a previous campaign > -0.85
+0.44686130926626433	last contact day <= 17.97
+-0.3433822801511096	last contact duration <= 180.90
+-0.3426946335175008	outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 368.90

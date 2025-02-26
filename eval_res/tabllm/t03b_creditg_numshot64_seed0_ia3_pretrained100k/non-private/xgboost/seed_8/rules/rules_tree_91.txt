@@ -1,0 +1,4 @@
+0:[1_no checking <1] yes=1,no=1_no checking ,missing=1_no checking 
+	1:[6_<100 <1] yes=3,no=4,missing=4
+		3:leaf=0.0175437704		4:[12_real estate <1] yes=5,no=6,missing=6
+			5:leaf=-0.0413655937			6:leaf=-0.000507178251	2:leaf=0.0270511303

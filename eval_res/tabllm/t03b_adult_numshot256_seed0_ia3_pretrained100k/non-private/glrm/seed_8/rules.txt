@@ -1,0 +1,20 @@
+-0.06855817035602915	(intercept)
+3.1614207921602477	occupation_ Craft-repair == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND native_country_ Mexico == 0.0 AND age > 21.94 AND education_num > 6.99 AND hours_per_week > 24.02
+-2.3128663121083113	marital_status_ Married-civ-spouse == 0.0 AND marital_status_ Separated == 0.0
+2.118133674580399	workclass_ Self-emp-not-inc == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND occupation_ Other-service == 0.0 AND age > 26.03 AND education_num > 6.99
+-1.9102886795364202	workclass_ Federal-gov == 0.0 AND marital_status_ Widowed == 0.0 AND education_num <= 10.00
+-1.7977745087460606	occupation_ Prof-specialty == 0.0 AND occupation_ Sales == 0.0 AND capital_gain <= -30.14
+1.521751601029726	marital_status_ Married-civ-spouse == 1.0 AND hours_per_week > 35.00
+-1.4123281213804757	occupation_ Exec-managerial == 0.0 AND occupation_ Tech-support == 0.0 AND capital_gain <= -30.14
+1.4027421978813905	education_ 7th-8th == 0.0 AND marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND occupation_ Protective-serv == 0.0 AND hours_per_week > 24.02
+1.3722481873688244	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND relationship_ Own-child == 0.0 AND education_num > 6.99
+-0.835104567361692	education_ Masters == 0.0 AND age <= 41.04
+-0.8015947715058376	age <= 32.99
+-0.7886250649332844	workclass_ Federal-gov == 0.0 AND occupation_ Exec-managerial == 0.0 AND education_num <= 12.99
+-0.7525658104469044	education_num <= 9.00
+-0.683581544058961	workclass_ Federal-gov == 0.0 AND education_ Masters == 0.0 AND marital_status_ Widowed == 0.0 AND hours_per_week <= 39.94
+0.6437823539023773	education_num <= 10.00
+-0.3789040231397177	education_ Masters == 0.0 AND marital_status_ Married-civ-spouse == 0.0
+0.23257214768805667	education_ 7th-8th == 0.0 AND occupation_ Craft-repair == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 26.03
+-0.1632679495895261	age <= 41.04
+-0.16043946078418	age <= 36.94

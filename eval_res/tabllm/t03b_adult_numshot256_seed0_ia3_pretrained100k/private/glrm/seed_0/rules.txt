@@ -1,0 +1,13 @@
+0.23492454185143966	(intercept)
+-2.0335362117627134	education_ Doctorate == 0.0 AND capital_gain <= -30.14
+0.8011772968232356	occupation_ Craft-repair == 0.0 AND occupation_ Farming-fishing == 0.0
+-0.6781083778007104	education_ Doctorate == 0.0 AND education_ Masters == 0.0 AND occupation_ Prof-specialty == 0.0
+0.5003270985396743	marital_status_ Married-civ-spouse == 1.0
+-0.3128627622427966	hours_per_week <= 35.00
+-0.30980291141691896	age <= 32.99
+-0.29328106005517174	age <= 41.04
+-0.28675938763969566	marital_status_ Married-civ-spouse == 0.0
+0.2547841622645375	education_ HS-grad == 0.0
+-0.24812050875902042	capital_gain <= -30.14
+-0.04121703482647013	education_ HS-grad == 1.0
+-0.01605689165249144	age <= 36.94

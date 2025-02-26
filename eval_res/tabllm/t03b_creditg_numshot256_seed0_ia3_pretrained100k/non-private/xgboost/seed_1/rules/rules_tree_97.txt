@@ -1,0 +1,3 @@
+0:[6_<100 <1] yes=1,no=2,missing=2
+	1:leaf=0.0211297795	2:[9_male single <1] yes=3,no=4,missing=4
+		3:leaf=-0.0461024791		4:leaf=0.019635018

@@ -1,0 +1,2 @@
+0:[2<9_NEAR BAY ] yes=9_NEAR BAY ,no=2,missing=2
+	1:leaf=0.00606472231	2:leaf=-0.0530696847

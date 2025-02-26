@@ -1,0 +1,10 @@
+2.294472956961667	(intercept)
+-7.50478337100205	purpose_education == 0.0 AND purpose_furniture/equipment == 0.0 AND purpose_new car == 0.0 AND property_life insurance == 0.0 AND housing_rent == 0.0 AND duration of the credit in months > 11.98 AND Number of people being liable to provide maintenance for  == 1.00
+-6.328173854427488	existing checking account status_no checking == 0.0 AND purpose_furniture/equipment == 0.0 AND property_life insurance == 0.0 AND other installment plans_stores == 0.0 AND housing_rent == 0.0 AND duration of the credit in months > 11.98
+6.236371316401938	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0
+5.487745706856702	other installment plans_none == 1.0
+-4.102574680585512	other installment plans_stores == 0.0 AND housing_rent == 0.0 AND duration of the credit in months > 11.98 AND installment commitment <= 3.00
+3.9002998213393303	present employment in years_unemployed == 0.0
+-2.6057074476886743	purpose_furniture/equipment == 0.0 AND property_life insurance == 0.0 AND housing_rent == 0.0 AND duration of the credit in months > 11.98 AND present residence since in years > 2.00 AND Number of people being liable to provide maintenance for  == 1.00
+1.0491225712731989	credit amount <= 7166.63
+-0.041752699079666555	credit amount <= 4710.85

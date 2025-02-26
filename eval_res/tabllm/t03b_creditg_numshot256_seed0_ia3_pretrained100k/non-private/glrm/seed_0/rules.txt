@@ -1,0 +1,13 @@
+1.382034700626639	(intercept)
+-7.869806914819632	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND property_real estate == 0.0
+5.937607450226949	property_real estate == 1.0
+-5.812632302901228	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND job_unemp/unskilled non res == 0.0 AND credit amount > 928.39 AND existing_credits <= 2.00
+-5.7187221329765	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_delayed previously == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND present employment in years_4<=X<7 == 0.0 AND job_unemp/unskilled non res == 0.0 AND existing_credits <= 2.00
+-5.411608226110627	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+-5.347992631053487	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND job_unemp/unskilled non res == 0.0 AND credit amount > 928.39 AND present residence since in years > 1.00 AND existing_credits <= 2.00
+4.9100202825371175	purpose_domestic appliance == 0.0 AND present employment in years_>=7 == 0.0 AND property_no known property == 0.0 AND credit amount <= 7166.63 AND age > 23.03
+4.283333870332414	existing checking account status_no checking == 1.0
+3.6827944136356017	purpose_furniture/equipment == 0.0 AND purpose_retraining == 0.0 AND personal status_male mar/wid == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND credit amount <= 7166.63 AND age > 23.03
+2.9543819073342767	status of savings accounts/bonds_<100 == 0.0
+1.5924311097677137	purpose_other == 0.0 AND purpose_retraining == 0.0 AND personal status_male mar/wid == 0.0 AND duration of the credit in months <= 24.04 AND age > 29.97
+-0.3198746410723355	existing checking account status_<0 == 0.0

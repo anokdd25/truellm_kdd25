@@ -1,0 +1,84 @@
+
+ DNF number 1 None
+ DNF number 2 ~x_3 | (x_2 & ~x_0)
+ DNF number 3 x_2 | x_3 | ~x_1
+ DNF number 4 None
+ DNF number 5 None
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 (x_0 & ~x_1) | (x_3 & ~x_1 & ~x_2)
+ DNF number 8 (~x_1 & ~x_2) | (~x_2 & ~x_3)
+ DNF number 9 None
+ DNF number 10 x_1 | ~x_2
+ Number of gates 13
+Accuracy (%) 56.493506493506494
+ROC (%) 67.63848396501459
+FPR (%): 52.38095238095239
+TPR (%): 75.51020408163265
+F1-score (%): 52.4822695035461
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 26
+Rules: 12
+
+After Dont Care
+
+Conditions: 26
+Rules: 12
+
+
+ DNF number 1 None
+ DNF number 2 ~x_3 | (x_2 & ~x_0)
+ DNF number 3 x_2 | ~x_1 | (x_0 & x_3)
+ DNF number 4 None
+ DNF number 5 x_0 | ~x_2 | ~x_3
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 x_0 & ~x_1
+ DNF number 8 (~x_1 & ~x_2) | (~x_2 & ~x_3)
+ DNF number 9 None
+ DNF number 10 x_1 | ~x_2
+ Number of gates 13
+Accuracy (%) 59.74025974025974
+ROC (%) 66.07385811467445
+FPR (%): 47.61904761904761
+TPR (%): 75.51020408163265
+F1-score (%): 54.41176470588235
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 15.0
+Before Dont Care
+
+Conditions: 25
+Rules: 13
+
+After Dont Care
+
+Conditions: 25
+Rules: 13
+
+
+ DNF number 1 None
+ DNF number 2 ~x_3 | (x_2 & ~x_0)
+ DNF number 3 x_2 | ~x_1 | (x_0 & x_3)
+ DNF number 4 None
+ DNF number 5 x_0 | ~x_2 | ~x_3
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 x_0 & ~x_1
+ DNF number 8 (~x_1 & ~x_2) | (~x_2 & ~x_3)
+ DNF number 9 None
+ DNF number 10 x_1 | ~x_2
+ Number of gates 13
+Accuracy (%) 59.74025974025974
+ROC (%) 66.07385811467445
+FPR (%): 47.61904761904761
+TPR (%): 75.51020408163265
+F1-score (%): 54.41176470588235
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 15.0
+Before Dont Care
+
+Conditions: 25
+Rules: 13
+
+After Dont Care
+
+Conditions: 25
+Rules: 13
+

@@ -1,0 +1,12 @@
+0:[0<1] yes=1,no=2,missing=2
+	1:[9<-0.990636 077] yes=3,no=4,missing=4
+		3:[3<1] yes=5,no=6,missing=6
+			5:[2<9_NEAR BAY ] yes=9,no=9_NEAR BAY 0,missing=9_NEAR BAY 0
+				9:[11<-0.181623727] yes=15,no=16,missing=16
+					15:[10<0.44762212] yes=17 ,no=20,missing=20
+						19:leaf=-0						20:leaf=-0.206616208					16:[11<0.595739543] yes=21,no=22,missing=22
+						21:leaf=0.0647596717						22:leaf=-0.070573993				10:leaf=0.0326823816			6:leaf=0.0361294039		4:[10<-1.287 73138] yes=7,no=8,missing=8
+			7:[6<-0.610881803 ] yes=11,no=12,missing=12
+				11:leaf=-0.0613491908				12:leaf=-0			8:[6<-1.69604468] yes=13,no=14,missing=14
+				13:leaf=-0				14:[11<-1.57619166] yes=17,no=18,missing=18
+					17:leaf=-0					18:leaf=0.185865358	2:leaf=-0.128013954

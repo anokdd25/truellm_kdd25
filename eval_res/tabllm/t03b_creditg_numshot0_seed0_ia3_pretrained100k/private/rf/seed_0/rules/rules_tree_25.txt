@@ -1,0 +1,7 @@
+|--- 3_critical/other existing credit  <= 0.50
+|   |--- 1_>=200  <= 1_>=200 .51_>=200 
+|   |   |--- class: 0.0|   |--- 1_>=200  >  1_>=200 .51_>=200 
+|   |   |--- class: 0.0|--- 3_critical/other existing credit  >  0.50
+|   |--- 16  <= -0.44
+|   |   |--- class: 0.0|   |--- 16  >  -0.44
+|   |   |--- class: 0.0

@@ -1,0 +1,5 @@
+|--- 4_domestic appliance  <= 0.50
+|   |--- class: 0.0|--- 4_domestic appliance  >  0.50
+|   |--- 11  <= -0.76
+|   |   |--- class: 0.0|   |--- 11  >  -0.76
+|   |   |--- class: 0.0

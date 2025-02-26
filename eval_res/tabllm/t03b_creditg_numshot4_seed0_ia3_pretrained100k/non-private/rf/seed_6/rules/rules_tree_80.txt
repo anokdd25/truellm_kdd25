@@ -1,0 +1,29 @@
+|--- 9_male mar/wid  <= 0.50
+|   |--- 5  <= 1.50
+|   |   |--- 8  <= 1.80
+|   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |--- 4_other  <= 0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 4_other  >  0.50
+|   |   |   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |   |   |--- 10_none  <= 0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 10_none  >  0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |--- 8  >  1.80
+|   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- 5  >  1.50
+|   |   |--- 3_existing paid  <= 0.50
+|   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |--- 6_500<=X<1000  <= 0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 6_500<=X<1000  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |--- class: 1.0|   |   |--- 3_existing paid  >  0.50
+|   |   |   |--- class: 0.0|--- 9_male mar/wid  >  0.50
+|   |--- 13  <= -0.77
+|   |   |--- class: 1.0|   |--- 13  >  -0.77
+|   |   |--- 12_life insurance  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 12_life insurance  >  0.50
+|   |   |   |--- 9_male div/sep  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 9_male div/sep  >  0.50
+|   |   |   |   |--- class: 0.0

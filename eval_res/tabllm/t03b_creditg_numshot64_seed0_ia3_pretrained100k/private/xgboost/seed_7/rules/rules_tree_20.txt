@@ -1,0 +1,14 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:[1<1] yes=3,no=4,missing=4
+		3:[42<-0.274781615] yes=7,no=8,missing=8
+			7:[10<1] yes=15,no=16,missing=16
+				15:leaf=-0.0712934583				16:leaf=-0.24526614			8:[42<-0.132273003] yes=17,no=18,missing=18
+				17:leaf=0.275702119				18:leaf=-0.0448933356		4:[23<1] yes=9,no=10,missing=10
+			9:[45<0.748091817] yes=19,no=20,missing=20
+				19:leaf=0.146566242				20:leaf=-0			10:leaf=-0.169783294	2:[8<1] yes=5,no=6,missing=6
+		5:[12<1] yes=4_radio/tv ,no=12,missing=12
+			11:[10<1] yes=21,no=22,missing=22
+				21:leaf=0.179424569				22:leaf=0.0247223098			12:[30<1] yes=23,no=24,missing=24
+				23:leaf=-0.0364124067				24:leaf=0.223912016		6:[30<1] yes=13,no=14,missing=14
+			13:[29<1] yes=25,no=26,missing=26
+				25:leaf=-0.305279821				26:leaf=0.0613699593			14:leaf=0.125863612

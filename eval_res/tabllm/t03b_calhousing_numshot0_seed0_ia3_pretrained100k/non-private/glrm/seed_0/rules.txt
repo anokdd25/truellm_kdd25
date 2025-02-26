@@ -1,0 +1,18 @@
+-1.8679333776610207	(intercept)
+-4.145552324120972	location of the house with respect to ocean/sea_NEAR BAY == 0.0 AND location of the house with respect to ocean/sea_NEAR OCEAN == 0.0
+-1.462184163651401	location of the house with respect to ocean/sea_NEAR OCEAN == 0.0 AND median age of the house within a block <= 33.04
+-1.4344887404304436	location of the house with respect to ocean/sea_NEAR OCEAN == 0.0
+1.0452677500056096	location of the house with respect to ocean/sea_INLAND == 0.0 AND median age of the house within a block > 19.96 AND total rooms within a block > 934.10
+1.0405249529402008	location of the house with respect to ocean/sea_INLAND == 0.0 AND location of the house with respect to ocean/sea_ISLAND == 0.0 AND total number of households within a block <= 889.52 AND median income for households within a block (in tens of thousands USD) <= 6.15
+1.0033302602679863	location of the house with respect to ocean/sea_INLAND == 0.0 AND longitude > -122.29
+0.9137186126681046	location of the house with respect to ocean/sea_INLAND == 0.0 AND median age of the house within a block > 24.99
+0.856480656208702	location of the house with respect to ocean/sea_INLAND == 0.0 AND median age of the house within a block <= 46.01
+0.8242349493518318	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) > 3.53
+0.6527361832346664	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) <= 6.15
+0.509998356453698	location of the house with respect to ocean/sea_INLAND == 0.0 AND total rooms within a block > 2133.99
+0.4897529882617709	location of the house with respect to ocean/sea_INLAND == 0.0 AND total number of households within a block > 407.78
+-0.3569816681655779	location of the house with respect to ocean/sea_NEAR OCEAN == 0.0 AND median income for households within a block (in tens of thousands USD) <= 3.97
+0.29613945063258784	location of the house with respect to ocean/sea_INLAND == 0.0 AND location of the house with respect to ocean/sea_ISLAND == 0.0 AND total bedrooms within a block <= 957.14 AND population within a block > 508.18
+0.2650214675251504	location of the house with respect to ocean/sea_INLAND == 0.0 AND population within a block > 508.18
+-0.2636185565285361	location of the house with respect to ocean/sea_NEAR OCEAN == 1.0
+0.13852492413084944	location of the house with respect to ocean/sea_INLAND == 0.0 AND location of the house with respect to ocean/sea_ISLAND == 0.0 AND median income for households within a block (in tens of thousands USD) <= 6.15 AND median income for households within a block (in tens of thousands USD) > 3.15

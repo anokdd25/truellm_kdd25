@@ -1,0 +1,18 @@
+0.6725038415904565	(intercept)
+-4.409236692604278	marital_status_ Married-civ-spouse == 0.0 AND capital_gain <= -30.14
+-3.2759297686957822	occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Sales == 0.0 AND occupation_ Tech-support == 0.0
+-2.45418425204762	workclass_ Federal-gov == 0.0 AND education_ Masters == 0.0 AND marital_status_ Separated == 0.0 AND marital_status_ Widowed == 0.0 AND capital_gain <= -30.14
+2.14674424725468	occupation_ Craft-repair == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 26.03 AND education_num > 6.99 AND hours_per_week > 24.02
+1.8107495045833986	workclass_ Self-emp-not-inc == 0.0 AND education_ 7th-8th == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND relationship_ Unmarried == 0.0 AND age > 21.94 AND hours_per_week > 35.00
+1.369786068672401	workclass_ Self-emp-not-inc == 0.0 AND marital_status_ Married-civ-spouse == 1.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 21.94 AND education_num > 6.99
+1.3655476359409888	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND race_ Other == 0.0 AND education_num > 6.99 AND hours_per_week > 24.02
+-1.2787570317791666	education_ Masters == 0.0 AND occupation_ Adm-clerical == 0.0 AND hours_per_week <= 39.94
+0.9437019481975082	occupation_ Machine-op-inspct == 0.0 AND age > 32.99
+-0.9000404728927079	education_ Masters == 0.0 AND marital_status_ Separated == 0.0 AND age <= 44.99
+-0.728606510176077	education_num <= 9.00
+-0.7260996633740399	education_num <= 10.00
+0.6205977596816074	education_ 7th-8th == 0.0 AND marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 21.94 AND hours_per_week > 24.02
+0.6085421470772391	workclass_ Federal-gov == 0.0 AND marital_status_ Widowed == 0.0 AND education_num <= 12.99 AND capital_gain <= -30.14
+0.5535571305454172	age > 36.94 AND education_num > 6.99
+-0.3901388654095609	education_ Masters == 0.0 AND age <= 41.04
+0.05983655018872763	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND occupation_ Other-service == 0.0 AND education_num > 6.99

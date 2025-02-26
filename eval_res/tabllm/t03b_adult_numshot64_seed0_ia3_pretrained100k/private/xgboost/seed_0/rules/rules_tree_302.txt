@@ -1,0 +1,10 @@
+0:[35<1] yes=1,no=2,missing=2
+	1:[4<1] yes=2_ Sel-emp-inc ,no=4,missing=4
+		3:[3<1] yes=7,no=8,missing=8
+			7:[99<-0.423240006] yes=13,no=14,missing=14
+				13:leaf=-0.0760305002				14:leaf=-0			8:[16<1] yes=4_ Bachelors ,no=16,missing=16
+				15:leaf=-0.00330448523				16:leaf=0.0255099144		4:[95<0.033521343] yes=9,no=10,missing=10
+			9:leaf=-0			10:leaf=0.0671814382	2:[16<1] yes=5,no=6,missing=6
+		5:[94<1.02417338] yes=11,no=12,missing=12
+			11:[96<0.690118313] yes=17,no=18,missing=18
+				17:leaf=0.0757014826				18:leaf=-0			12:leaf=-0		6:leaf=-0

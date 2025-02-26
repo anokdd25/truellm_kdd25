@@ -1,0 +1,4 @@
+0:[28<0.4612 57766] yes=1,no=2,missing=2
+	1:[25<0.402947873] yes=3,no=4,missing=4
+		3:leaf=-0.0249530803		4:leaf=0.00362269371	2:[2<2_housemaid ] yes=5,no=6,missing=6
+		5:leaf=0.0251271613		6:leaf=-0

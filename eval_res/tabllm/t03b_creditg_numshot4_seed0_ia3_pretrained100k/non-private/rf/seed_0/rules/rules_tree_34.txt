@@ -1,0 +1,41 @@
+|--- class_bad  <= 0.95
+|   |--- 6_>=1000  <= 0.50
+|   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |--- 11  <= -0.42
+|   |   |   |   |--- 17_skilled  <= 0.50
+|   |   |   |   |   |--- 11  <= -1.32
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 11  >  -1.32
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 17_skilled  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 11  >  -0.42
+|   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |--- 7_unemployed  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 7_unemployed  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |--- 16  <= 0.66
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 16  >  0.66
+|   |   |   |   |   |   |--- 5  <= -0.49
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 5  >  -0.49
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |--- class: 1.0|   |--- 6_>=1000  >  0.50
+|   |   |--- 14_stores  <= 0.50
+|   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |--- 7_unemployed  <= 0.50
+|   |   |   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |   |   |--- 12_real estate  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 12_real estate  >  0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 7_unemployed  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 14_stores  >  0.50
+|   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |--- 11  <= 0.47
+|   |   |   |   |   |--- 5  <= -0.37
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 5  >  -0.37
+|   |   |   |   |   |   |--- 8  <= 2.57
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 8  >  2.57
+|   |   |   |   |   |   |   |--- 7_>=7  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 7_>=7  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 11  >  0.47
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |--- class: 1.0|--- class_bad  >  0.95
+|   |--- class: 1.0

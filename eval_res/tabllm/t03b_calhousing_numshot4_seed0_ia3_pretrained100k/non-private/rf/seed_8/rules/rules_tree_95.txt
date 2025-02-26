@@ -1,0 +1,15 @@
+|--- 9_NEAR OCEAN  <= 0.50
+|   |--- 7  <= -0.70
+|   |   |--- 3  <= 0.86
+|   |   |   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |   |   |--- class: 1.0|   |   |   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |   |   |--- class: 0.0|   |   |--- 3  >  0.86
+|   |   |   |--- 2  <= -1.39
+|   |   |   |   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 2  >  -1.39
+|   |   |   |   |--- class: 0.0|   |--- 7  >  -0.70
+|   |   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |   |--- class: 1.0|   |   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |   |--- class: 0.0|--- 9_NEAR OCEAN  >  0.50
+|   |--- class: 1.0

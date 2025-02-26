@@ -1,0 +1,7 @@
+|--- class_bad  <= -0.45
+|   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |--- class: 0.0|   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |--- class: 0.0|--- class_bad  >  -0.45
+|   |--- 3_critical/other existing credit  <= 0.50
+|   |   |--- class: 0.0|   |--- 3_critical/other existing credit  >  0.50
+|   |   |--- class: 0.0

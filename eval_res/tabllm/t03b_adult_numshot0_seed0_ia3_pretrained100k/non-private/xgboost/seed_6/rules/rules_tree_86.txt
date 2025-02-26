@@ -1,0 +1,4 @@
+0:[14_ United-States <1] yes=1,no=2,missing=2
+	1:[6_ Never-married <1] yes=3,no=4,missing=4
+		3:leaf=-0.0314088389		4:leaf=0.0098105697	2:[3 <0.155723706] yes=5,no=6,missing=6
+		5:leaf=0.0373520926		6:leaf=-0.0133908885

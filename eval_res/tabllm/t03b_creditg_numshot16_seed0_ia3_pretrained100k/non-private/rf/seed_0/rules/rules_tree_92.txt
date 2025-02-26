@@ -1,0 +1,23 @@
+|--- 3_critical/other existing credit  <= 0.50
+|   |--- 4_furniture/equipment  <= 0.50
+|   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |--- 7_4<=X<7  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 7_4<=X<7  >  0.50
+|   |   |   |   |--- class_bad  <= 0.95
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- class_bad  >  0.95
+|   |   |   |   |   |--- class: 1.0|   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |--- 18  <= 0.16
+|   |   |   |   |--- 3_existing paid  <= 0.50
+|   |   |   |   |   |--- 9_male single  <= 0.50
+|   |   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |   |--- 15_rent  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 15_rent  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 9_male single  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_existing paid  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 18  >  0.16
+|   |   |   |   |--- 8  <= -0.83
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 8  >  -0.83
+|   |   |   |   |   |--- class: 0.0|   |--- 4_furniture/equipment  >  0.50
+|   |   |--- class: 0.0|--- 3_critical/other existing credit  >  0.50
+|   |--- class: 1.0

@@ -1,0 +1,13 @@
+1.942394056540069	(intercept)
+-5.79331242839214	existing checking account status_no checking == 0.0 AND housing_rent == 0.0 AND present residence since in years > 2.00 AND age > 23.03 AND Number of people being liable to provide maintenance for  == 1.00
+4.120101167897572	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0
+-3.2648097221955026	existing checking account status_no checking == 0.0 AND property_life insurance == 0.0 AND other installment plans_stores == 0.0 AND housing_rent == 0.0 AND duration of the credit in months > 8.96 AND present residence since in years > 1.00 AND age > 23.03 AND Number of people being liable to provide maintenance for  == 1.00
+3.136624228355112	credit history_no credits/all paid == 0.0 AND personal status_male mar/wid == 0.0 AND credit amount <= 7166.63
+-3.0945240739846875	existing checking account status_no checking == 0.0 AND property_life insurance == 0.0 AND other installment plans_none == 0.0 AND age > 23.03 AND Number of people being liable to provide maintenance for  == 1.00
+-2.935858019828504	existing checking account status_no checking == 0.0 AND property_life insurance == 0.0 AND housing_rent == 0.0 AND installment commitment <= 3.00 AND Number of people being liable to provide maintenance for  == 1.00
+2.799158522621775	other installment plans_none == 1.0 AND credit amount <= 7166.63
+-2.723858493298436	existing checking account status_no checking == 0.0 AND duration of the credit in months > 8.96 AND installment commitment <= 3.00 AND age > 25.99
+2.579804403250137	age <= 38.96
+-2.492177318415776	existing checking account status_no checking == 0.0 AND other installment plans_none == 0.0 AND other installment plans_stores == 0.0
+2.1855809229234393	credit amount <= 7166.63
+1.8453224777255532	other installment plans_none == 1.0

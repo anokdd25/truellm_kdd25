@@ -1,0 +1,84 @@
+
+ DNF number 1 None
+ DNF number 2 x_2 | ~x_3
+ DNF number 3 x_2 | ~x_1
+ DNF number 4 x_3 & ~x_0 & ~x_1 & ~x_2
+ DNF number 5 (x_0 & ~x_1) | (x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 x_0 & ~x_1
+ DNF number 8 ~x_2
+ DNF number 9 x_3 & ~x_0 & ~x_2
+ DNF number 10 ~x_2
+ Number of gates 14
+Accuracy (%) 76.14729625124406
+ROC (%) 84.26053586048633
+FPR (%): 24.044126864736114
+TPR (%): 77.57973733583489
+F1-score (%): 43.400682235633695
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 10.0
+Before Dont Care
+
+Conditions: 190
+Rules: 122
+
+After Dont Care
+
+Conditions: 133
+Rules: 118
+
+
+ DNF number 1 None
+ DNF number 2 x_2 | ~x_3
+ DNF number 3 x_2 | ~x_1
+ DNF number 4 x_3 & ~x_0 & ~x_1 & ~x_2
+ DNF number 5 (x_0 & ~x_1) | (x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 x_0 & ~x_1
+ DNF number 8 ~x_2
+ DNF number 9 x_3 & ~x_0 & ~x_1 & ~x_2
+ DNF number 10 ~x_2
+ Number of gates 15
+Accuracy (%) 73.26108592281322
+ROC (%) 84.15299168034932
+FPR (%): 27.80493920020058
+TPR (%): 81.23827392120076
+F1-score (%): 41.73493975903615
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 5.333333333333334
+Before Dont Care
+
+Conditions: 219
+Rules: 129
+
+After Dont Care
+
+Conditions: 157
+Rules: 125
+
+
+ DNF number 1 None
+ DNF number 2 x_2 | ~x_3
+ DNF number 3 x_2 | ~x_1
+ DNF number 4 x_3 & ~x_0 & ~x_1 & ~x_2
+ DNF number 5 (x_0 & ~x_1) | (x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 6 ~x_0 | ~x_2
+ DNF number 7 x_0 & ~x_1
+ DNF number 8 ~x_2
+ DNF number 9 x_3 & ~x_0 & ~x_1 & ~x_2
+ DNF number 10 ~x_2
+ Number of gates 15
+Accuracy (%) 73.26108592281322
+ROC (%) 84.15299168034932
+FPR (%): 27.80493920020058
+TPR (%): 81.23827392120076
+F1-score (%): 41.73493975903615
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 5.333333333333334
+Before Dont Care
+
+Conditions: 219
+Rules: 129
+
+After Dont Care
+
+Conditions: 157
+Rules: 125
+

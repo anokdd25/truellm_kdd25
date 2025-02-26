@@ -1,0 +1,5 @@
+|--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |--- 4_new car  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_new car  >  0.50
+|   |   |--- class: 0.0|--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |--- class: 0.0

@@ -1,0 +1,19 @@
+|--- 9_male div/sep  <= 0.50
+|   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |--- 8  <= 3.54
+|   |   |   |--- 8  <= 1.64
+|   |   |   |   |--- 13  <= 0.59
+|   |   |   |   |   |--- 12_life insurance  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 12_life insurance  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 13  >  0.59
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 8  >  1.64
+|   |   |   |   |--- 6_500<=X<1000  <= 0.50
+|   |   |   |   |   |--- 12_real estate  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 12_real estate  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 6_500<=X<1000  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |--- 8  >  3.54
+|   |   |   |--- class: 0.0|   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |--- class: 1.0|--- 9_male div/sep  >  0.50
+|   |--- 9_male mar/wid  <= 0.50
+|   |   |--- class: 1.0|   |--- 9_male mar/wid  >  0.50
+|   |   |--- class: 0.0

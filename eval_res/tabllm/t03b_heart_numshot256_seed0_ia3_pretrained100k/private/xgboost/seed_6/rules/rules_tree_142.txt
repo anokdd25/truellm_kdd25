@@ -1,0 +1,6 @@
+3_ATA :[1<1] yes=1,no=2,missing=2
+	3_NAP :[2<3_NAP ] yes=3,no=4,missing=4
+		3:[3<1] yes=7,no=8,missing=8
+			7:leaf=0.0329095088			8:leaf=-0.0134611977		4:leaf=-0.0116187707	2:[14<-0.0386009179] yes=5,no=6,missing=6
+		5:leaf=-0.0362753682		6:[9<1] yes=9,no=10,missing=10
+			9:leaf=0.022752706			10:leaf=-0.0136425719

@@ -1,0 +1,5 @@
+|--- class_1  <= 1.96
+|   |--- class: 1.0|--- class_1  >  1.96
+|   |--- class_1  <= 2.class_1 1
+|   |   |--- class: 0.0|   |--- class_1  >  2.class_1 1
+|   |   |--- class: 1.0

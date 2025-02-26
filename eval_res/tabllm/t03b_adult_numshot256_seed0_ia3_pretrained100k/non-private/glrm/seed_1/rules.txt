@@ -1,0 +1,20 @@
+-1.488394775801033	(intercept)
+-3.289044548465091	occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Sales == 0.0 AND occupation_ Tech-support == 0.0 AND capital_gain <= -30.14
+2.3324831445359946	workclass_ Self-emp-not-inc == 0.0 AND relationship_ Unmarried == 0.0 AND age > 21.94 AND education_num > 6.99 AND hours_per_week > 35.00
+-2.0281832773171264	education_ Masters == 0.0 AND marital_status_ Married-civ-spouse == 0.0 AND marital_status_ Separated == 0.0
+1.8803679025859206	occupation_ Craft-repair == 0.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 26.03 AND education_num > 6.99 AND hours_per_week > 24.02
+1.772056805488458	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND relationship_ Own-child == 0.0 AND native_country_ Mexico == 0.0 AND education_num > 6.99 AND hours_per_week > 24.02
+-1.4168224622116903	education_ Doctorate == 0.0 AND occupation_ Adm-clerical == 0.0 AND education_num <= 10.00
+1.3841773296137023	education_ 7th-8th == 0.0 AND marital_status_ Married-civ-spouse == 1.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 21.94
+1.1275319348982586	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 21.94
+-1.0021266105227735	workclass_ Federal-gov == 0.0 AND marital_status_ Married-civ-spouse == 0.0 AND marital_status_ Widowed == 0.0
+0.7218026033718075	age > 32.99 AND education_num > 6.99
+-0.7072613473335135	workclass_ Federal-gov == 0.0 AND marital_status_ Widowed == 0.0 AND hours_per_week <= 39.94
+0.6933391035526204	marital_status_ Married-civ-spouse == 0.0
+-0.6788264535628219	age <= 41.04
+-0.5640664939568046	workclass_ Federal-gov == 0.0 AND age <= 44.99
+-0.5202280282644602	workclass_ Federal-gov == 0.0 AND education_num <= 12.99 AND capital_gain <= -30.14
+0.47617649070901263	education_ 7th-8th == 0.0 AND marital_status_ Married-civ-spouse == 1.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 26.03
+0.4355484713402347	relationship_ Own-child == 0.0 AND education_num > 9.00
+-0.26444136713926103	age <= 36.94
+0.07487148457923291	workclass_ Federal-gov == 0.0 AND age <= 41.04

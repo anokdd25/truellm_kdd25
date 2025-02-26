@@ -1,0 +1,21 @@
+0:[24<1] yes=1,no=2,missing=2
+	1:[25<1] yes=3,no=4,missing=4
+		3:[15<1] yes=7,no=8,missing=8
+			7:[14<1] yes=4_ Assoc-acdm ,no=14,missing=14
+				13:[19<1] yes=17,no=4_ Masters ,missing=4_ Masters 
+					17:[48<1] yes=21,no=22,missing=22
+						21:[5<1] yes=25,no=26,missing=26
+							25:[94<0.741565883] yes=29,no=30,missing=30
+								29:[99<-1.81137562] yes=33,no=34,missing=34
+									33:leaf=-0									34:[31<1] yes=37,no=38,missing=38
+										37:leaf=-0.104832701										38:leaf=-0								30:leaf=-0							26:leaf=-0						22:leaf=-0					18:leaf=-0				14:leaf=-0			8:leaf=-0		4:leaf=-0	2:[46<1] yes=5,no=6,missing=6
+		5:[94<-1.22109878] yes=9,no=10,missing=10
+			9:leaf=-0			10:[99<0.600455225] yes=15,no=16,missing=16
+				15:[95<-1.06588101] yes=19,no=20,missing=20
+					19:leaf=-0					20:[96<1.25187719] yes=23,no=24,missing=24
+						23:[13<1] yes=27,no=28,missing=28
+							24_ 11th :[8<1] yes=31,no=32,missing=32
+								31:[94<1.29837763] yes=35,no=36,missing=36
+									35:[95<0.345305622] yes=39,no=40,missing=40
+										39:leaf=0.106859647										40:leaf=-0									36:leaf=-0								32:leaf=-0							28:leaf=-0						24:leaf=-0				16:leaf=-0		6:[98<1.25306094] yes=11,no=12,missing=12
+			11:leaf=-0.000154527341			12:leaf=-0

@@ -1,0 +1,11 @@
+0:[8<1] yes=1,no=2,missing=2
+	1:[10<1] yes=3,no=4,missing=4
+		3:[9<1] yes=7,no=4_urniture/equipment ,missing=4_urniture/equipment 
+			7:[40<1] yes=13,no=14,missing=14
+				13:leaf=0.114776835				14:leaf=-0.0523141734			8:[47<-0.316699147] yes=15,no=16,missing=16
+				15:leaf=-0.0120561253				16:leaf=0.117746487		4:[34<1] yes=9,no=10,missing=10
+			9:[41<0.203358993] yes=17,no=18,missing=18
+				17:leaf=0.0267831068				18:leaf=-0.126830295			10:[46<-0.263434976] yes=19,no=20,missing=20
+				19:leaf=-0				20:leaf=0.141785711	2:[45<-0.411383003] yes=5,no=6,missing=6
+		5:leaf=-0		6:[45<0.53529948] yes=11,no=12,missing=12
+			11:leaf=0.2046424			12:leaf=-0

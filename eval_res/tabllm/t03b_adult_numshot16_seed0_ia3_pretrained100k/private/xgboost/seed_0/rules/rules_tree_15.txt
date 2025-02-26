@@ -1,0 +1,38 @@
+0:[18<1] yes=1,no=2,missing=2
+	1:[97<-0.0158453472] yes=3,no=4,missing=4
+		3:[16<1] yes=7,no=8,missing=8
+			7:[19<1] yes=13,no=14,missing=14
+				13:[48<1] yes=23,no=24,missing=24
+					23:[95<1.61372924] yes=35,no=36,missing=36
+						35:[40<1] yes=47,no=48,missing=48
+							47:[38<1] yes=57,no=58,missing=58
+								57:[25<1] yes=63,no=64,missing=64
+									63:[14<1] yes=69,no=70,missing=70
+										69:leaf=-0.121024586										70:leaf=-0									64:leaf=-0								58:leaf=-0							48:leaf=-0						36:leaf=-0					24:leaf=-0				14:leaf=-0			8:[99<-0.401180446] yes=15,no=16,missing=16
+				15:leaf=-0				16:[94<1.06038594] yes=25,no=26,missing=26
+					25:[42<1] yes=37,no=38,missing=38
+						37:[99<1.30802059] yes=49,no=50,missing=50
+							49:leaf=0.0813037828							50:leaf=-0						38:leaf=-0					26:leaf=-0		4:[97<0.633615613] yes=9,no=10,missing=10
+			9:[99<1.67343913 ] yes=17,no=18,missing=18
+				17:[12<1] yes=27,no=28,missing=28
+					27:[35<1] yes=39,no=40,missing=40
+						39:[26<1] yes=51,no=52,missing=52
+							51:[96<1.31978059] yes=59,no=60,missing=60
+								59:[95<1.49333274] yes=65,no=66,missing=66
+									65:[42<1] yes=71,no=72,missing=72
+										71:leaf=0.209734291										72:leaf=-0									66:leaf=-0								60:leaf=-0							52:leaf=-0						40:leaf=-0					28:leaf=-0				18:leaf=-0			10:[97<0.938360274] yes=19,no=20,missing=20
+				19:[95<-0.86421442] yes=29,no=30,missing=30
+					29:leaf=-0					30:[99<-0.964623153] yes=41,no=42,missing=42
+						41:leaf=-0						42:[1<1] yes=53,no=54,missing=54
+							53:leaf=-0.0957696736							54:leaf=-0				20:[94<-0.278929681] yes=31,no=32,missing=32
+					31:leaf=-0					32:[95<1.49333274] yes=43,no=44,missing=44
+						43:[94<0.818185508] yes=55,no=56,missing=56
+							55:[95<-1.02401328] yes=61,no=62,missing=62
+								61:leaf=-0								62:[40<1] yes=67,no=68,missing=68
+									67:[46<1] yes=73,no=74,missing=74
+										73:leaf=0.135042176										74:leaf=-0									68:leaf=-0							56:leaf=-0						44:leaf=-0	2:[97<0.306570768] yes=5,no=6,missing=6
+		5:[1<1] yes=11,no=12,missing=12
+			11:[6<1] yes=21,no=22,missing=22
+				21:[48<1] yes=33,no=34,missing=34
+					33:[38<1] yes=45,no=46,missing=46
+						45:leaf=-0.159632459						46:leaf=-0					34:leaf=-0				22:leaf=-0			12:leaf=-0		6:leaf=-0

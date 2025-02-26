@@ -1,0 +1,15 @@
+|--- 4_new car  <= 0.50
+|   |--- 20_yes  <= 0.50
+|   |   |--- 16  <= 0.43
+|   |   |   |--- class: 0.0|   |   |--- 16  >  0.43
+|   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- 20_yes  >  0.50
+|   |   |--- class: 0.0|--- 4_new car  >  0.50
+|   |--- 16  <= 0.50
+|   |   |--- class_bad  <= -1.34
+|   |   |   |--- class: 0.0|   |   |--- class_bad  >  -1.34
+|   |   |   |--- 15_rent  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 15_rent  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- 16  >  0.50
+|   |   |--- class: 0.0

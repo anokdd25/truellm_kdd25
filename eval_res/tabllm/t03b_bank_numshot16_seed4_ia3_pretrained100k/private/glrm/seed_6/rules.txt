@@ -1,0 +1,13 @@
+-8.493069212625585	(intercept)
+3.074011378210262	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0
+2.852065237612081	type of job_student == 0.0 AND education level_unknown == 0.0 AND marketing contact communication type_unknown == 0.0
+2.4962542915492647	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND marketing contact communication type_unknown == 0.0
+2.4032736290002306	type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND marketing contact communication type_unknown == 0.0
+2.2819192088726115	marketing contact communication type_unknown == 0.0 AND age > 29.04
+2.090349073951968	marketing contact communication type_unknown == 0.0 AND average yearly balance in euros > -7.87
+1.6169140068689845	type of job_unemployed == 0.0 AND marketing contact communication type_unknown == 0.0 AND average yearly balance in euros > -7.87
+1.3521725942638523	marketing contact communication type_unknown == 0.0 AND age <= 56.01
+1.255735194084164	marketing contact communication type_unknown == 0.0 AND number of contacts performed during this campaign and for this client > 1.00
+1.182530002497966	type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0
+-0.43723002775646347	type of job_student == 0.0 AND marketing contact communication type_unknown == 0.0
+0.005043605797675938	type of job_unemployed == 0.0 AND marketing contact communication type_unknown == 0.0

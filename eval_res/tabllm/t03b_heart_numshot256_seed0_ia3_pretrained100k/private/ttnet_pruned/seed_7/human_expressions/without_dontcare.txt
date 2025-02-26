@@ -1,0 +1,54 @@
+Class 0:
+
+Position	Weight	Rule
+0	1.1373658180236816	2_M | 3_NAP | 3_TA | ~3_ATA
+1	0.9664217233657837	3_TA | 7_Normal | 7_ST | ~6_1
+2	0.9855426549911499	7_ST | 11_Flat | 11_Up | ~9_Y
+3	-0.19104242324829102	11_Up | trestbps_ | chol_ | ~age_
+4	1.5099897384643555	chol_ | oldpeak_ | age_53.79 | ~thalach_
+5	-0.07433424890041351	age_53.79 | chol_202.06 | thalach_137.57 | ~trestbps_132.95
+6	-0.0848480761051178	thalach_137.57 | age_53.72 | trestbps_132.81 | ~oldpeak_0.92
+7	0.5755107998847961	trestbps_132.81 | thalach_137.37 | oldpeak_0.91 | ~chol_201.23
+8	-2.310105085372925	3_ATA & 3_NAP | 3_ATA & ~2_M | 3_NAP & ~2_M
+9	0.20613521337509155	6_1 & 7_Normal | 6_1 & ~3_TA | 7_Normal & ~3_TA
+10	0.6167400479316711	9_Y & 11_Flat | 9_Y & ~7_ST | 11_Flat & ~7_ST
+11	0.10055914521217346	age_ & trestbps_ | age_ & ~11_Up | trestbps_ & ~11_Up
+12	0.9921233654022217	thalach_ & oldpeak_ | thalach_ & ~chol_ | oldpeak_ & ~chol_
+13	-0.1874481737613678	trestbps_132.95 & chol_202.06 | trestbps_132.95 & ~age_53.79 | chol_202.06 & ~age_53.79
+14	0.9694045782089233	oldpeak_0.92 & age_53.72 | oldpeak_0.92 & ~thalach_137.57 | age_53.72 & ~thalach_137.57
+15	0.30996960401535034	chol_201.23 & thalach_137.37 | chol_201.23 & ~trestbps_132.81 | thalach_137.37 & ~trestbps_132.81
+16	0.391630619764328	~2_M & ~3_ATA | ~2_M & ~3_TA | ~3_ATA & ~3_TA
+17	-0.651525616645813	~3_TA & ~6_1 | ~3_TA & ~7_ST | ~6_1 & ~7_ST
+18	0.5863987803459167	~7_ST & ~9_Y | ~7_ST & ~11_Up | ~9_Y & ~11_Up
+19	0.7311730980873108	~11_Up & ~age_ | ~11_Up & ~chol_ | ~age_ & ~chol_
+20	0.03875753656029701	~chol_ & ~thalach_ | ~chol_ & ~age_53.79 | ~thalach_ & ~age_53.79
+21	-0.030675215646624565	~age_53.79 & ~trestbps_132.95 | ~age_53.79 & ~thalach_137.57 | ~trestbps_132.95 & ~thalach_137.57
+22	-0.7245151996612549	~thalach_137.57 & ~oldpeak_0.92 | ~thalach_137.57 & ~trestbps_132.81 | ~oldpeak_0.92 & ~trestbps_132.81
+23	-0.4203818142414093	~trestbps_132.81 & ~chol_201.23 | ~trestbps_132.81 & ~oldpeak_0.91 | ~chol_201.23 & ~oldpeak_0.91
+24	0.9647344946861267	2_M | 3_NAP | ~3_TA
+25	-0.9755009412765503	3_TA | 7_Normal | ~7_ST
+26	2.080530881881714	7_ST | 11_Flat | ~11_Up
+27	-0.9237256050109863	11_Up | trestbps_ | ~chol_
+28	2.189554214477539	chol_ | oldpeak_ | ~age_53.79
+29	-0.4790613651275635	age_53.79 | chol_202.06 | ~thalach_137.57
+30	-0.2867143452167511	thalach_137.57 | age_53.72 | ~trestbps_132.81
+31	-0.4950020909309387	trestbps_132.81 | thalach_137.37 | ~oldpeak_0.91
+32	-2.3196651935577393	3_ATA | 3_NAP | 3_TA & ~2_M
+33	0.79704749584198	6_1 | 7_Normal | 7_ST & ~3_TA
+34	2.217545986175537	9_Y | 11_Flat | 11_Up & ~7_ST
+35	-0.20908018946647644	age_ | trestbps_ | chol_ & ~11_Up
+36	1.0092657804489136	thalach_ | oldpeak_ | age_53.79 & ~chol_
+37	-0.0022805891931056976	trestbps_132.95 | chol_202.06 | thalach_137.57 & ~age_53.79
+38	0.818237841129303	oldpeak_0.92 | age_53.72 | trestbps_132.81 & ~thalach_137.57
+39	0.1740015149116516	chol_201.23 | thalach_137.37 | oldpeak_0.91 & ~trestbps_132.81
+40	0.49052348732948303	2_M & 3_NAP | 2_M & 3_TA | 2_M & ~3_ATA | 3_NAP & ~3_ATA | 3_TA & ~3_ATA
+41	-0.1531015932559967	3_TA & 7_Normal | 3_TA & 7_ST | 3_TA & ~6_1 | 7_Normal & ~6_1 | 7_ST & ~6_1
+42	-1.0974185466766357	7_ST & 11_Flat | 7_ST & 11_Up | 7_ST & ~9_Y | 11_Flat & ~9_Y | 11_Up & ~9_Y
+43	-0.8368946313858032	11_Up & trestbps_ | 11_Up & chol_ | 11_Up & ~age_ | trestbps_ & ~age_ | chol_ & ~age_
+44	0.2301214188337326	chol_ & oldpeak_ | chol_ & age_53.79 | chol_ & ~thalach_ | oldpeak_ & ~thalach_ | age_53.79 & ~thalach_
+45	-0.022637002170085907	age_53.79 & chol_202.06 | age_53.79 & thalach_137.57 | age_53.79 & ~trestbps_132.95 | chol_202.06 & ~trestbps_132.95 | thalach_137.57 & ~trestbps_132.95
+46	-0.7995814681053162	thalach_137.57 & age_53.72 | thalach_137.57 & trestbps_132.81 | thalach_137.57 & ~oldpeak_0.92 | age_53.72 & ~oldpeak_0.92 | trestbps_132.81 & ~oldpeak_0.92
+47	-0.011592292226850986	trestbps_132.81 & thalach_137.37 | trestbps_132.81 & oldpeak_0.91 | trestbps_132.81 & ~chol_201.23 | thalach_137.37 & ~chol_201.23 | oldpeak_0.91 & ~chol_201.23
+intercept	-13.131770133972168
+
+

@@ -1,0 +1,5 @@
+-3.193827619006942	(intercept)
+-2.1847270132460856	number of months since last donation <= 21.00 AND number of months since first donation > 16.00
+1.7774935823651437	number of months since first donation <= 23.07
+0.9498272013333953	number of months since first donation <= 4.05
+-0.1312855702390723	number of months since first donation <= 16.00

@@ -1,0 +1,70 @@
+Class 0:
+
+Position	Weight	Rule
+0	-0.2624706029891968	3_ATA & ~2_M | 3_TA & ~2_M & ~3_NAP
+1	0.017953742295503616	6_1 & ~3_TA | 7_ST & ~3_TA & ~7_Normal
+2	-0.11870209872722626	9_Y & ~7_ST | 11_Up & ~7_ST & ~11_Flat
+3	-0.042587317526340485	age_ & ~11_Up | chol_ & ~11_Up & ~trestbps_
+4	-0.2746743857860565	thalach_ & ~chol_ | age_53.58 & ~chol_ & ~oldpeak_
+5	-0.035212352871894836	trestbps_132.52 & ~age_53.58 | thalach_136.98 & ~age_53.58 & ~chol_199.55
+6	0.16824734210968018	oldpeak_0.89 & ~thalach_136.98 | trestbps_132.53 & ~thalach_136.98 & ~age_53.58
+7	0.06280574202537537	chol_199.6 & ~trestbps_132.53 | oldpeak_0.9 & ~trestbps_132.53 & ~thalach_137.0
+8	-0.015650540590286255	2_M & ~3_ATA | ~3_ATA & ~3_NAP & ~3_TA
+9	-0.10837167501449585	3_TA & ~6_1 | ~6_1 & ~7_Normal & ~7_ST
+10	-0.3697854280471802	7_ST & ~9_Y | ~9_Y & ~11_Flat & ~11_Up
+11	0.0016293339431285858	11_Up & ~age_ | ~age_ & ~trestbps_ & ~chol_
+12	-0.031185973435640335	chol_ & ~thalach_ | ~thalach_ & ~oldpeak_ & ~age_53.58
+13	0.0344657376408577	age_53.58 & ~trestbps_132.52 | ~trestbps_132.52 & ~chol_199.55 & ~thalach_136.98
+14	-0.09747688472270966	thalach_136.98 & ~oldpeak_0.89 | ~oldpeak_0.89 & ~age_53.58 & ~trestbps_132.53
+15	-0.2321845442056656	trestbps_132.53 & ~chol_199.6 | ~chol_199.6 & ~thalach_137.0 & ~oldpeak_0.9
+16	-0.3129306137561798	3_NAP
+17	-0.08981847763061523	7_Normal
+18	0.19299834966659546	11_Flat
+19	0.0699075311422348	trestbps_
+20	0.0578581877052784	oldpeak_
+21	-0.26594895124435425	chol_199.55
+22	0.14235374331474304	age_53.58
+23	-0.18552976846694946	thalach_137.0
+24	0.5451045036315918	~2_M & ~3_ATA & ~3_NAP | ~2_M & ~3_ATA & ~3_TA | ~3_ATA & ~3_NAP & ~3_TA
+25	-0.03543427586555481	~3_TA & ~6_1 & ~7_Normal | ~3_TA & ~6_1 & ~7_ST | ~6_1 & ~7_Normal & ~7_ST
+26	0.06350503861904144	~7_ST & ~9_Y & ~11_Flat | ~7_ST & ~9_Y & ~11_Up | ~9_Y & ~11_Flat & ~11_Up
+27	0.06038522720336914	~11_Up & ~age_ & ~trestbps_ | ~11_Up & ~age_ & ~chol_ | ~age_ & ~trestbps_ & ~chol_
+28	-0.1408800184726715	~chol_ & ~thalach_ & ~oldpeak_ | ~chol_ & ~thalach_ & ~age_53.58 | ~thalach_ & ~oldpeak_ & ~age_53.58
+29	0.0440819151699543	~age_53.58 & ~trestbps_132.52 & ~chol_199.55 | ~age_53.58 & ~trestbps_132.52 & ~thalach_136.98 | ~trestbps_132.52 & ~chol_199.55 & ~thalach_136.98
+30	-0.1016608402132988	~thalach_136.98 & ~oldpeak_0.89 & ~age_53.58 | ~thalach_136.98 & ~oldpeak_0.89 & ~trestbps_132.53 | ~oldpeak_0.89 & ~age_53.58 & ~trestbps_132.53
+31	0.14511065185070038	~trestbps_132.53 & ~chol_199.6 & ~thalach_137.0 | ~trestbps_132.53 & ~chol_199.6 & ~oldpeak_0.9 | ~chol_199.6 & ~thalach_137.0 & ~oldpeak_0.9
+32	-0.274259090423584	3_NAP & 3_TA | 3_NAP & ~2_M | 3_TA & ~2_M
+33	-0.08068697154521942	7_Normal & 7_ST | 7_Normal & ~3_TA | 7_ST & ~3_TA
+34	-0.24693137407302856	11_Flat & 11_Up | 11_Flat & ~7_ST | 11_Up & ~7_ST
+35	0.040484361350536346	trestbps_ & chol_ | trestbps_ & ~11_Up | chol_ & ~11_Up
+36	0.025814348831772804	oldpeak_ & age_53.58 | oldpeak_ & ~chol_ | age_53.58 & ~chol_
+37	-0.07741119712591171	chol_199.55 & thalach_136.98 | chol_199.55 & ~age_53.58 | thalach_136.98 & ~age_53.58
+38	0.08779245615005493	age_53.58 & trestbps_132.53 | age_53.58 & ~thalach_136.98 | trestbps_132.53 & ~thalach_136.98
+39	0.28908365964889526	thalach_137.0 & oldpeak_0.9 | thalach_137.0 & ~trestbps_132.53 | oldpeak_0.9 & ~trestbps_132.53
+40	-0.3997482359409332	3_TA | ~2_M | 3_ATA & 3_NAP
+41	-0.21281345188617706	7_ST | ~3_TA | 6_1 & 7_Normal
+42	-0.0544532835483551	11_Up | ~7_ST | 9_Y & 11_Flat
+43	0.1372728943824768	chol_ | ~11_Up | age_ & trestbps_
+44	0.12877972424030304	age_53.58 | ~chol_ | thalach_ & oldpeak_
+45	-0.3791749179363251	thalach_136.98 | ~age_53.58 | trestbps_132.52 & chol_199.55
+46	0.06199124827980995	trestbps_132.53 | ~thalach_136.98 | oldpeak_0.89 & age_53.58
+47	0.2577895224094391	oldpeak_0.9 | ~trestbps_132.53 | chol_199.6 & thalach_137.0
+48	0.19442881643772125	2_M & ~3_ATA & ~3_NAP & ~3_TA
+49	0.17107176780700684	3_TA & ~6_1 & ~7_Normal & ~7_ST
+50	-0.10363616049289703	7_ST & ~9_Y & ~11_Flat & ~11_Up
+51	0.022130653262138367	11_Up & ~age_ & ~trestbps_ & ~chol_
+52	0.14017313718795776	chol_ & ~thalach_ & ~oldpeak_ & ~age_53.58
+53	-0.06576111912727356	age_53.58 & ~trestbps_132.52 & ~chol_199.55 & ~thalach_136.98
+54	-0.20334793627262115	thalach_136.98 & ~oldpeak_0.89 & ~age_53.58 & ~trestbps_132.53
+55	-0.11938148736953735	trestbps_132.53 & ~chol_199.6 & ~thalach_137.0 & ~oldpeak_0.9
+56	0.41187819838523865	2_M | 3_NAP & ~3_TA
+57	0.05662724748253822	3_TA | 7_Normal & ~7_ST
+58	0.2183542102575302	7_ST | 11_Flat & ~11_Up
+59	-0.15458060801029205	11_Up | trestbps_ & ~chol_
+60	-0.13187208771705627	chol_ | oldpeak_ & ~age_53.58
+61	0.10101448744535446	age_53.58 | chol_199.55 & ~thalach_136.98
+62	-0.0734972283244133	thalach_136.98 | age_53.58 & ~trestbps_132.53
+63	-0.007639702409505844	trestbps_132.53 | thalach_137.0 & ~oldpeak_0.9
+intercept	-0.07121878117322922
+
+

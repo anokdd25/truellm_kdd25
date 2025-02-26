@@ -1,0 +1,20 @@
+0:[0<1] yes=1,no=2,missing=2
+	1:[25<-0.446429104] yes=3,no=4,missing=4
+		3:[21<1] yes=7,no=8,missing=8
+			7:[22<1] yes=15,no=16,missing=16
+				15:[7<1] yes=25,no=22_student ,missing=22_student 
+					25:leaf=-0.109366499					26:leaf=0.0479991548				16:leaf=0.0904815197			8:[13<1] yes=17,no=18,missing=18
+				17:leaf=0.107404314				18:[25<-0.44774282] yes=27,no=28,missing=28
+					27:leaf=-0.0831937864					28:leaf=0.0673861131		4:[14<1] yes=9,no=10,missing=10
+			9:[13<1] yes=19,no=20,missing=20
+				19:[15<1] yes=29,no=30,missing=30
+					29:leaf=-0.130761847					30:leaf=0.0457832329				20:[20<1] yes=31,no=32,missing=32
+					31:leaf=0.0487416424					32:leaf=-0.0367776193			2_housemaid 0:[2<2_housemaid ] yes=22_housemaid ,no=22,missing=22
+				21:[11<1] yes=33,no=34,missing=34
+					33:leaf=0.0482509993					34:leaf=0.103586771				22:[26<-0.937992334] yes=35,no=36,missing=36
+					35:leaf=-0.0406867191					36:leaf=-0.143376172	2:[22<1] yes=5,no=6,missing=6
+		5:[21<1] yes=11,no=12,missing=12
+			11:leaf=-0.113567926			12:[25<-0.416541755] yes=23,no=6 ,missing=6 
+				23:leaf=-0.0896572471				24:[13<1] yes=37,no=38,missing=38
+					37:leaf=-0.0362560749					38:leaf=0.102133371		6:[25<-0.393223047] yes=13,no=14,missing=14
+			13:leaf=0.0109236492			14:leaf=0.0931415856

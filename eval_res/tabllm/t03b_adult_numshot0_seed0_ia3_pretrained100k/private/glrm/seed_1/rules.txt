@@ -1,0 +1,5 @@
+2.141832262617712	(intercept)
+3.5323857319207446	relationship_ Unmarried == 0.0 AND age > 21.94
+-1.4482661502215377	occupation_ Prof-specialty == 0.0 AND capital_gain <= -30.14
+1.067361105096965	native_country_ United-States == 1.0 AND age > 21.94
+-0.5681125047247116	capital_gain <= -30.14

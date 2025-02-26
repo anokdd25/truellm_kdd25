@@ -1,0 +1,25 @@
+|--- 6_<100  <= 0.50
+|   |--- 16  <= 1.05
+|   |   |--- 8  <= 3.39
+|   |   |   |--- 14_stores  <= 0.50
+|   |   |   |   |--- 12_life insurance  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 12_life insurance  >  0.50
+|   |   |   |   |   |--- 8  <= 0.03
+|   |   |   |   |   |   |--- 14_none  <= 0.50
+|   |   |   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 14_none  >  0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 8  >  0.03
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |--- 14_stores  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 8  >  3.39
+|   |   |   |--- class: 0.0|   |--- 16  >  1.05
+|   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |--- 6_>=1000  <= 0.50
+|   |   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 6_>=1000  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |--- class: 1.0|--- 6_<100  >  0.50
+|   |--- 3_delayed previously  <= 0.50
+|   |   |--- class: 1.0|   |--- 3_delayed previously  >  0.50
+|   |   |--- class: 0.0

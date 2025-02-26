@@ -1,0 +1,4 @@
+0:[12 <3.73906922] yes=1,no=2,missing=2
+	1:[9_ White <1] yes=3,no=4,missing=4
+		3:leaf=-0.0161996111		4:[2_ Private <1] yes=5,no=6,missing=6
+			5:leaf=0.000626273395			6:leaf=0.04908235	2:leaf=-0.0254203044

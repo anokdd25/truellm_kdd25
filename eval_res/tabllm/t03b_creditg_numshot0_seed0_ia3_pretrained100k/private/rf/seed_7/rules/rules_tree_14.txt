@@ -1,0 +1,19 @@
+|--- class_bad  <= -0.45
+|   |--- 7_4<=X<7  <= 0.50
+|   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |--- 8  <= 1.90
+|   |   |   |   |--- class: 0.0|   |   |   |--- 8  >  1.90
+|   |   |   |   |--- class: 0.0|   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |--- class_bad  <= -1.04
+|   |   |   |   |--- class: 0.0|   |   |   |--- class_bad  >  -1.04
+|   |   |   |   |--- class: 0.0|   |--- 7_4<=X<7  >  0.50
+|   |   |--- class: 0.0|--- class_bad  >  -0.45
+|   |--- 2  <= 0.50
+|   |   |--- 11  <= 0.99
+|   |   |   |--- class: 0.0|   |   |--- 11  >  0.99
+|   |   |   |--- class: 0.0|   |--- 2  >  0.50
+|   |   |--- 5  <= 0.43
+|   |   |   |--- class: 0.0|   |   |--- 5  >  0.43
+|   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |--- class: 0.0|   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |--- class: 0.0

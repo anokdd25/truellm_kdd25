@@ -1,0 +1,17 @@
+2.7063186166323243	(intercept)
+-6.573224632642196	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND other installment plans_stores == 0.0 AND duration of the credit in months > 8.96 AND credit amount > 928.39 AND Number of people being liable to provide maintenance for  == 1.00
+-5.86067120126064	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND other debtors/guarantors_guarantor == 0.0
+-4.820110283492707	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+4.09289385818769	personal status_male single == 1.0 AND duration of the credit in months <= 35.98 AND present residence since in years > 1.00
+-4.01665337221962	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_<100 == 1.0 AND age > 23.03
+3.603445893152411	job_skilled == 1.0
+3.372921263192575	existing checking account status_no checking == 1.0
+3.1971446510878696	credit history_critical/other existing credit == 0.0 AND property_no known property == 0.0 AND credit amount <= 4710.85 AND present residence since in years > 1.00
+-2.8414787566232307	existing checking account status_no checking == 0.0 AND job_skilled == 0.0
+-2.705144410672452	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_retraining == 0.0 AND property_life insurance == 0.0 AND other installment plans_stores == 0.0 AND credit amount > 928.39 AND existing_credits <= 3.00
+2.5748434437841414	present employment in years_unemployed == 0.0 AND personal status_male mar/wid == 0.0 AND property_no known property == 0.0 AND credit amount <= 3581.76 AND present residence since in years > 1.00
+-2.435699591441045	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND present employment in years_>=7 == 0.0 AND other installment plans_stores == 0.0 AND foreign worker_yes == 1.0
+-2.2589448362162696	existing checking account status_no checking == 0.0 AND purpose_new car == 0.0 AND other installment plans_stores == 0.0
+1.289344057519088	status of savings accounts/bonds_<100 == 0.0 AND credit amount <= 4710.85
+-0.912631616569862	existing checking account status_no checking == 0.0
+-0.5867038178403161	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_<100 == 1.0

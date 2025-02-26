@@ -1,0 +1,25 @@
+|--- 11  <= -0.42
+|   |--- 4_new car  <= 0.50
+|   |   |--- 8  <= 1.41
+|   |   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |   |--- 14_stores  <= 0.50
+|   |   |   |   |   |--- 4_repairs  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 4_repairs  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 14_stores  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |--- 8  >  1.41
+|   |   |   |--- class: 0.0|   |--- 4_new car  >  0.50
+|   |   |--- class: 1.0|--- 11  >  -0.42
+|   |--- 8  <= 3.39
+|   |   |--- 14_none  <= 0.50
+|   |   |   |--- class: 1.0|   |   |--- 14_none  >  0.50
+|   |   |   |--- 9_male single  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 9_male single  >  0.50
+|   |   |   |   |--- 19_yes  <= 0.50
+|   |   |   |   |   |--- 6_no known savings  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 6_no known savings  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 19_yes  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |--- 8  >  3.39
+|   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |--- class: 1.0

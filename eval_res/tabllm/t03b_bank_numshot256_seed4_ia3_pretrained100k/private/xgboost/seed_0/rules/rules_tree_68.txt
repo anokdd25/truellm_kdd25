@@ -1,0 +1,8 @@
+0:[23<1] yes=1,no=2,missing=2
+	1:[18<1] yes=3,no=4,missing=4
+		3:[27<1.61928058] yes=7,no=8,missing=8
+			7:[21<1] yes=11,no=12,missing=12
+				11:leaf=0.0402150042				12:leaf=-0			8:leaf=-0		4:leaf=-0	2_management :[3<1] yes=5,no=6,missing=6
+		5:[8<1] yes=9,no=10,missing=10
+			9:[28<1.7736938] yes=13,no=14,missing=14
+				13:leaf=-0.0374560393				14:leaf=-0			10:leaf=-0		6:leaf=-0

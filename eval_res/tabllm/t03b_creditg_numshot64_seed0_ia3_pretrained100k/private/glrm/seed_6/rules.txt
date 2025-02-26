@@ -1,0 +1,31 @@
+0.47475318751621226	(intercept)
+2.6918228297627445	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0
+2.3833114519945973	purpose_domestic appliance == 0.0 AND purpose_education == 0.0 AND purpose_radio/tv == 0.0 AND present employment in years_unemployed == 0.0
+-2.2285215277110013	property_no known property == 0.0 AND other installment plans_stores == 0.0
+-1.9392823033936222	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0
+1.7929138825515578	property_real estate == 1.0
+1.4572201859149274	purpose_new car == 0.0
+1.4106425666395843	status of savings accounts/bonds_no known savings == 1.0
+-1.3613200760463333	property_real estate == 0.0
+1.2121840057958244	property_life insurance == 1.0
+1.1111323165514106	existing checking account status_<0 == 0.0 AND present employment in years_unemployed == 0.0
+1.1013645733176531	status of savings accounts/bonds_<100 == 0.0
+-1.0440774730126714	purpose_other == 0.0 AND property_no known property == 0.0 AND job_unemp/unskilled non res == 0.0
+-1.0256263799465197	purpose_new car == 1.0
+-0.9790487607901989	status of savings accounts/bonds_no known savings == 0.0
+0.963861067098427	existing checking account status_no checking == 1.0
+0.8734639326635137	credit history_critical/other existing credit == 1.0
+-0.8596597372543834	purpose_other == 0.0 AND property_life insurance == 0.0
+-0.780590204476152	property_life insurance == 0.0
+0.7047291173415121	purpose_radio/tv == 0.0
+-0.6697707666934228	status of savings accounts/bonds_<100 == 1.0
+-0.6047462913737585	credit amount <= 928.39
+0.5403260609168246	purpose_other == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+-0.5322672603844926	existing checking account status_no checking == 0.0
+0.4857292171182818	purpose_new car == 0.0 AND purpose_retraining == 0.0 AND present employment in years_unemployed == 0.0
+-0.44187012849088547	credit history_critical/other existing credit == 0.0
+-0.40613381421051337	credit amount <= 1267.11
+0.35176696600535096	property_no known property == 1.0
+-0.27313531093356885	purpose_radio/tv == 1.0
+-0.2376480585751392	credit amount <= 1492.93
+0.07980366318394552	property_no known property == 0.0

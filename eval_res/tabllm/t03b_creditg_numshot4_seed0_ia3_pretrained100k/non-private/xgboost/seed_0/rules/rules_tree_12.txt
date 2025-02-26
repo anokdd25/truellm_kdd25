@@ -1,0 +1,5 @@
+0:[32<1] yes=1,no=2,missing=2
+	1:[10<1] yes=3,no=4,missing=4
+		3:[9<1] yes=7,no=4_urniture/equipment ,missing=4_urniture/equipment 
+			7:leaf=-0.12239062			8:leaf=0.0190430041		4:leaf=0.0678489059	2:[23<1] yes=5,no=6,missing=6
+		5:leaf=0.0919552073		6:leaf=-0.0357522145

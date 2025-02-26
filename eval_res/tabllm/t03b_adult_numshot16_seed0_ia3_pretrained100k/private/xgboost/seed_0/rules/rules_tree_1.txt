@@ -1,0 +1,52 @@
+0:[24<1] yes=1,no=2,missing=2
+	1:[26<1] yes=3,no=4,missing=4
+		3:[38<1] yes=7,no=8,missing=8
+			7:[32<1] yes=13,no=14,missing=14
+				13:[25<1] yes=23,no=6_ Married-spouse-absent ,missing=6_ Married-spouse-absent 
+					23:[19<1] yes=39,no=40,missing=40
+						39:[0<1] yes=59,no=60,missing=60
+							59:[1<1] yes=75,no=76,missing=76
+								72_ State-gov :[6<1] yes=87,no=88,missing=88
+									87:leaf=-0.28519249									88:leaf=-0								76:leaf=-0							60:leaf=-0						40:leaf=-0					24:leaf=-0				14:[18<1] yes=25,no=26,missing=26
+					25:[94<-1.07575536] yes=41,no=42,missing=42
+						41:leaf=-0						42:[98<1.412 70546] yes=61,no=62,missing=62
+							61:[52<1] yes=77,no=78,missing=78
+								77:leaf=-0								78:[95<-1.34496737] yes=89,no=90,missing=90
+									89:leaf=-0									90:leaf=0.305058181							62:leaf=-0					26:leaf=-0			8:[94<-0.960234642] yes=15,no=16,missing=16
+				15:leaf=-0				16:[99<1.87726784] yes=27,no=28,missing=28
+					27:[94<1.82944262] yes=43,no=44,missing=44
+						43:leaf=0.273456484						44:leaf=-0					28:leaf=-0		4:leaf=-0.354251474	2:[46<1] yes=5,no=6,missing=6
+		5:[43<1] yes=9,no=10,missing=10
+			9:[94<-1.33285034] yes=17,no=18,missing=18
+				17:[97<-0.00460993312] yes=29,no=30,missing=30
+					29:[16<1] yes=45,no=46,missing=46
+						45:[96<1.49798059] yes=63,no=64,missing=64
+							63:leaf=-0.07441663							64:leaf=-0						46:leaf=-0					30:[99<-0.2413 18176] yes=47,no=48,missing=48
+						47:leaf=-0						48:[97<0.222629905] yes=65,no=66,missing=66
+							65:leaf=-0							66:[96<0.756503046] yes=79,no=80,missing=80
+								79:leaf=0.0526074767								80:leaf=-0				18:[45<1] yes=31,no=32,missing=32
+					31:[34<1] yes=49,no=50,missing=50
+						49:[42<1] yes=67,no=68,missing=68
+							67:[12<1] yes=81,no=82,missing=82
+								81:[98<2.17083764] yes=91,no=92,missing=92
+									91:[35<1] yes=97,no=98,missing=98
+										97:leaf=0.467557877										98:leaf=-0									92:leaf=-0								82:leaf=-0							68:leaf=-0						50:leaf=-0					32:[99<0.564588666] yes=51,no=52,missing=52
+						51:[18<1] yes=69,no=70,missing=70
+							69:[95<1.83 75501] yes=83,no=84,missing=84
+								83:[8<1] yes=93,no=94,missing=94
+									93:[96<1.45767081] yes=99,no=100,missing=100
+										99:leaf=0.295409858										100:leaf=-0									94:leaf=-0								84:leaf=-0							70:leaf=-0						52:leaf=-0			10:[38<1] yes=19,no=20,missing=20
+				19:[32<1] yes=33,no=34,missing=34
+					33:[19<1] yes=53,no=54,missing=54
+						53:[96<1.49798059] yes=71,no=72,missing=72
+							71:[0<1] yes=85,no=86,missing=86
+								85:[97<1.92913806] yes=95,no=11 ,missing=11 
+									95:[16<1] yes=101,no=102,missing=102
+										101:leaf=-0.27152586										102:leaf=-0									96:leaf=-0								86:leaf=-0							72:leaf=-0						54:leaf=-0					34:[94<-1.14090216] yes=55,no=56,missing=56
+						55:leaf=-0						56:[18<1] yes=73,no=74,missing=74
+							73:leaf=0.157222047							74:leaf=-0				20:[94<-1.00788534] yes=35,no=36,missing=36
+					35:leaf=-0					36:leaf=0.356690496		6:[98<2.02695751] yes=11,no=12,missing=12
+			11:[16<1] yes=21,no=22,missing=22
+				21:[19<1] yes=37,no=38,missing=38
+					37:[6<1] yes=2_ State-gov 7,no=2_ State-gov 8,missing=2_ State-gov 8
+						57:leaf=-0.251937687						58:leaf=-0					38:leaf=-0				22:leaf=-0			12:leaf=-0

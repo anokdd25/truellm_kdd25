@@ -1,0 +1,14 @@
+2.0163881155224783	(intercept)
+-3.0959261154636817	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND property_real estate == 0.0
+-2.478620246248052	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_used car == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+1.851068365196285	purpose_education == 0.0 AND credit amount > 1492.93
+-1.8507704113381367	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_critical/other existing credit == 0.0
+1.674437336517039	purpose_education == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND duration of the credit in months <= 35.98
+-1.6435176195018535	existing checking account status_no checking == 0.0 AND personal status_male single == 0.0
+-1.6249518676867238	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+1.4219538861426673	property_life insurance == 0.0
+-1.2646865518600146	existing checking account status_no checking == 0.0 AND property_no known property == 0.0
+-1.1924310853518387	existing checking account status_no checking == 0.0 AND personal status_male mar/wid == 0.0 AND foreign worker_yes == 1.0 AND existing_credits <= 3.00
+1.0045675894448571	other installment plans_none == 1.0
+0.7183240124295346	existing checking account status_<0 == 0.0
+0.11556578158430605	existing checking account status_no checking == 0.0 AND personal status_male mar/wid == 0.0

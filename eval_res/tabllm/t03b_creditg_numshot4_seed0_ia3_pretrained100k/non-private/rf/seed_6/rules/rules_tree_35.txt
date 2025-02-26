@@ -1,0 +1,25 @@
+|--- 16  <= 2.06
+|   |--- 9_male div/sep  <= 0.50
+|   |   |--- 18  <= 0.16
+|   |   |   |--- 6_<100  <= 0.50
+|   |   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |   |--- 1_no checking  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 1_no checking  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 6_<100  >  0.50
+|   |   |   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |   |   |--- 11  <= 0.02
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 11  >  0.02
+|   |   |   |   |   |   |--- class: 1.0|   |   |--- 18  >  0.16
+|   |   |   |--- class: 1.0|   |--- 9_male div/sep  >  0.50
+|   |   |--- 3_existing paid  <= 0.50
+|   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 3_existing paid  >  0.50
+|   |   |   |--- class: 0.0|--- 16  >  2.06
+|   |--- 7_4<=X<7  <= 0.50
+|   |   |--- class: 1.0|   |--- 7_4<=X<7  >  0.50
+|   |   |--- 5  <= 1.58
+|   |   |   |--- class: 0.0|   |   |--- 5  >  1.58
+|   |   |   |--- class: 1.0

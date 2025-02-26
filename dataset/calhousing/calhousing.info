@@ -1,0 +1,11 @@
+1 continuous
+2 continuous
+3 continuous int
+4 continuous int
+5 continuous int
+6 continuous int
+7 continuous int
+8 continuous
+9 discrete 
+class discrete
+LABEL_POS -1

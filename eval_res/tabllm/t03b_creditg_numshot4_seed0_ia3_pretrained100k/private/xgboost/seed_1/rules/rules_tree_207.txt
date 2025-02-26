@@ -1,0 +1,2 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:leaf=-0.0187279508	2:leaf=0.0492724963

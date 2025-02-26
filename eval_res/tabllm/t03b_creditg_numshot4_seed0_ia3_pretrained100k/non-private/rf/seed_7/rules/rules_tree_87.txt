@@ -1,0 +1,19 @@
+|--- 14_stores  <= 0.50
+|   |--- 7_>=7  <= 0.50
+|   |   |--- class_bad  <= 0.95
+|   |   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |   |--- 10_none  <= 0.50
+|   |   |   |   |   |--- 6_<100  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 6_<100  >  0.50
+|   |   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 10_none  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- class_bad  >  0.95
+|   |   |   |--- class: 1.0|   |--- 7_>=7  >  0.50
+|   |   |--- class: 1.0|--- 14_stores  >  0.50
+|   |--- 9_male div/sep  <= 0.50
+|   |   |--- class: 1.0|   |--- 9_male div/sep  >  0.50
+|   |   |--- 8  <= 0.91
+|   |   |   |--- class: 1.0|   |   |--- 8  >  0.91
+|   |   |   |--- class: 0.0

@@ -1,0 +1,17 @@
+-0.349811521572605	(intercept)
+-6.20171837321755	oldpeak <= 0.60
+4.91065621793293	cp_ATA == 0.0 AND oldpeak > 0.60
+4.46191609923277	cp_ATA == 0.0 AND cp_NAP == 0.0 AND cp_TA == 0.0
+4.15937136904676	sex_M == 1.0 AND cp_ATA == 0.0
+-3.844702579643627	exang_Y == 0.0 AND age <= 62.00 AND maxhr > 114.91 AND oldpeak <= 1.80
+-3.6730690384502314	exang_Y == 0.0 AND chol <= 304.90 AND maxhr <= 169.91 AND oldpeak <= 1.80
+3.432712359824043	sex_M == 1.0 AND slope_Up == 0.0
+2.9419662526154786	sex_M == 1.0 AND cp_ATA == 0.0 AND oldpeak > 0.00
+-2.901280214167372	age <= 62.00 AND restingbp <= 144.99 AND chol <= 304.90 AND oldpeak <= 1.80
+2.7584643581090655	restecg_Normal == 1.0
+2.7173489761944256	cp_ATA == 0.0 AND cp_TA == 0.0 AND slope_Flat == 1.0
+-2.6765126454833337	slope_Flat == 0.0 AND oldpeak <= 1.80
+2.2909462221661956	slope_Flat == 1.0
+-2.2716915077094826	age <= 62.00 AND chol <= 304.90 AND chol > -0.28 AND oldpeak <= 1.40
+2.1374002637950964	cp_ATA == 0.0 AND restecg_Normal == 1.0 AND age > 40.02
+-0.045573170718021	cp_ATA == 0.0 AND cp_TA == 0.0 AND slope_Up == 0.0

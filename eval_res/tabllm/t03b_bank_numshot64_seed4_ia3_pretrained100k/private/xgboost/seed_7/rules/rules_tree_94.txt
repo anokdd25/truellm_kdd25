@@ -1,0 +1,10 @@
+2_entrepreneur :[1<1] yes=1,no=2,missing=2
+	1:[4<1] yes=2_retired ,no=4,missing=4
+		3:[12<1] yes=7,no=8,missing=8
+			7:[11<1] yes=13,no=14,missing=14
+				13:leaf=-0.0917784199				14:leaf=-0.00775487116			8:[24<-0.362474501] yes=15,no=16,missing=16
+				15:leaf=0.0883115977				16:leaf=-0.00146914099		4:[24<-0.767647862] yes=9,no=10,missing=10
+			9:leaf=-0.235173643			10:[29<0.707949221] yes=17,no=18,missing=18
+				17:leaf=0.195713952				18:leaf=-0.0153068071	2:[17<1] yes=5,no=6,missing=6
+		5:leaf=0.159643874		6:[11<1] yes=11,no=12,missing=12
+			11:leaf=0.0972403884			12:leaf=-0.0379273817

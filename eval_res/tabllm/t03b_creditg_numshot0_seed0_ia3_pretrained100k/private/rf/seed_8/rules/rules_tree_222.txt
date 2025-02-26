@@ -1,0 +1,5 @@
+|--- class_bad  <= -2.33
+|   |--- class: 0.0|--- class_bad  >  -2.33
+|   |--- class_bad  <= -0.88
+|   |   |--- class: 0.0|   |--- class_bad  >  -0.88
+|   |   |--- class: 0.0

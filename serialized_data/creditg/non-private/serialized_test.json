@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is no credits/all paid. The purpose is furniture/equipment. The credit amount is 2969. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 25. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 9. The credit history is existing paid. The purpose is radio/tv. The credit amount is 1082. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 27. The other installment plans is none. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 27. The credit history is no credits/all paid. The purpose is business. The credit amount is 8318. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 42. The other installment plans is none. The housing is for free. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 24. The credit history is existing paid. The purpose is new car. The credit amount is 1246. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 23. The other installment plans is stores. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 3573. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 23. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 21. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 3976. The status of savings accounts/bonds is no known savings. The present employment in years is 4<=X<7. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 35. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 9. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 1919. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 35. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 8. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1237. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 24. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 18. The credit history is no credits/all paid. The purpose is business. The credit amount is 4165. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 36. The other installment plans is stores. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 2577. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 1. The property is car. The age is 42. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is business. The credit amount is 4591. The status of savings accounts/bonds is >=1000. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 54. The other installment plans is none. The housing is own. The existing_credits is 3. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 2171. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 38. The other installment plans is bank. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is no. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 26. The credit history is existing paid. The purpose is used car. The credit amount is 7966. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 30. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 36. The credit history is delayed previously. The purpose is business. The credit amount is 4455. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 30. The other installment plans is stores. The housing is own. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 18. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 2124. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 24. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 9. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1388. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 26. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 9. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1980. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is co applicant. The present residence since in years is 2. The property is car. The age is 19. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 18. The credit history is existing paid. The purpose is new car. The credit amount is 976. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 23. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 36. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 2820. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 27. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 18. The credit history is existing paid. The purpose is used car. The credit amount is 7511. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 51. The other installment plans is none. The housing is for free. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 18. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 629. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 32. The other installment plans is bank. The housing is own. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 15. The credit history is existing paid. The purpose is radio/tv. The credit amount is 1444. The status of savings accounts/bonds is no known savings. The present employment in years is <1. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 1. The property is life insurance. The age is 23. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 60. The credit history is existing paid. The purpose is education. The credit amount is 6288. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 42. The other installment plans is none. The housing is for free. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is all paid. The purpose is furniture/equipment. The credit amount is 6872. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 2. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 1. The property is life insurance. The age is 55. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is existing paid. The purpose is new car. The credit amount is 3556. The status of savings accounts/bonds is no known savings. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is no known property. The age is 29. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is used car. The credit amount is 3868. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 41. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 836. The status of savings accounts/bonds is 100<=X<500. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 23. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 36. The credit history is critical/other existing credit. The purpose is used car. The credit amount is 10477. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 42. The other installment plans is none. The housing is for free. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 18. The credit history is existing paid. The purpose is radio/tv. The credit amount is 1882. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 25. The other installment plans is bank. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 9. The credit history is existing paid. The purpose is new car. The credit amount is 3577. The status of savings accounts/bonds is 100<=X<500. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is guarantor. The present residence since in years is 2. The property is real estate. The age is 26. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is no. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 21. The credit history is delayed previously. The purpose is used car. The credit amount is 2993. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 28. The other installment plans is stores. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 2463. The status of savings accounts/bonds is 100<=X<500. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 27. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 522. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 42. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 15. The credit history is all paid. The purpose is new car. The credit amount is 6850. The status of savings accounts/bonds is 100<=X<500. The present employment in years is unemployed. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 34. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is existing paid. The purpose is new car. The credit amount is 2303. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is co applicant. The present residence since in years is 1. The property is real estate. The age is 45. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 10. The credit history is existing paid. The purpose is new car. The credit amount is 1287. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is co applicant. The present residence since in years is 2. The property is life insurance. The age is 45. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is no. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 1258. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 22. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2397. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is >=7. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 35. The other installment plans is bank. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 36. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 9566. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 31. The other installment plans is stores. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 6. The credit history is existing paid. The purpose is education. The credit amount is 448. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 23. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 4. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1503. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 42. The other installment plans is none. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 27. The credit history is existing paid. The purpose is business. The credit amount is 3915. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 36. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 36. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 7127. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 23. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 30. The credit history is existing paid. The purpose is radio/tv. The credit amount is 1867. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 58. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 48. The credit history is all paid. The purpose is business. The credit amount is 3609. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 27. The other installment plans is stores. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 6. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2063. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 30. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is radio/tv. The credit amount is 999. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 25. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 48. The credit history is no credits/all paid. The purpose is business. The credit amount is 12204. The status of savings accounts/bonds is no known savings. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 48. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is existing paid. The purpose is new car. The credit amount is 3186. The status of savings accounts/bonds is >=1000. The present employment in years is 4<=X<7. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 20. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is no credits/all paid. The purpose is radio/tv. The credit amount is 6199. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 28. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 21. The credit history is existing paid. The purpose is used car. The credit amount is 5248. The status of savings accounts/bonds is no known savings. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 11. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1577. The status of savings accounts/bonds is >=1000. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 20. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is existing paid. The purpose is repairs. The credit amount is 660. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 4<=X<7. The installment commitment is 2. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 23. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2171. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 29. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 48. The credit history is existing paid. The purpose is new car. The credit amount is 8487. The status of savings accounts/bonds is no known savings. The present employment in years is 4<=X<7. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 24. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 18. The credit history is existing paid. The purpose is new car. The credit amount is 1216. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 23. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 24. The credit history is delayed previously. The purpose is furniture/equipment. The credit amount is 2333. The status of savings accounts/bonds is no known savings. The present employment in years is <1. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 29. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 6. The credit history is all paid. The purpose is education. The credit amount is 1198. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 35. The other installment plans is none. The housing is for free. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 7472. The status of savings accounts/bonds is no known savings. The present employment in years is unemployed. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 24. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is unemp/unskilled non res. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2073. The status of savings accounts/bonds is 100<=X<500. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is co applicant. The present residence since in years is 2. The property is real estate. The age is 28. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 691. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 35. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 24. The credit history is existing paid. The purpose is radio/tv. The credit amount is 3092. The status of savings accounts/bonds is 100<=X<500. The present employment in years is <1. The installment commitment is 3. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 22. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is repairs. The credit amount is 5507. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 44. The other installment plans is none. The housing is for free. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 60. The credit history is existing paid. The purpose is new car. The credit amount is 7408. The status of savings accounts/bonds is 100<=X<500. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 24. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 15. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 1433. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 25. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 1228. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 24. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 36. The credit history is existing paid. The purpose is other. The credit amount is 15857. The status of savings accounts/bonds is <100. The present employment in years is unemployed. The installment commitment is 2. The personal status is male div/sep. The other debtors/guarantors is co applicant. The present residence since in years is 3. The property is car. The age is 43. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 24. The credit history is existing paid. The purpose is new car. The credit amount is 1355. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 25. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is business. The credit amount is 1412. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is guarantor. The present residence since in years is 2. The property is real estate. The age is 29. The other installment plans is none. The housing is own. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 11. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1154. The status of savings accounts/bonds is 100<=X<500. The present employment in years is unemployed. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 57. The other installment plans is none. The housing is own. The existing_credits is 3. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 6. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1957. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 31. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 1295. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 1. The property is car. The age is 25. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is retraining. The credit amount is 937. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 27. The other installment plans is none. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is education. The credit amount is 2096. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 49. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 15. The credit history is critical/other existing credit. The purpose is business. The credit amount is 2326. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 27. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is education. The credit amount is 1927. The status of savings accounts/bonds is no known savings. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 33. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 27. The credit history is existing paid. The purpose is new car. The credit amount is 2570. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 21. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 18. The credit history is existing paid. The purpose is business. The credit amount is 1950. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 1. The property is car. The age is 34. The other installment plans is stores. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is >=200. The duration of the credit in months is 30. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 3017. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 47. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 2872. The status of savings accounts/bonds is 100<=X<500. The present employment in years is >=7. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 36. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 250. The status of savings accounts/bonds is >=1000. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 41. The other installment plans is bank. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 30. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2991. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 25. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 18. The credit history is existing paid. The purpose is domestic appliance. The credit amount is 1217. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 47. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 2578. The status of savings accounts/bonds is <100. The present employment in years is unemployed. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 55. The other installment plans is none. The housing is for free. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 1223. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 1. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 46. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 36. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2394. The status of savings accounts/bonds is no known savings. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 25. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is existing paid. The purpose is education. The credit amount is 1538. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is no known property. The age is 56. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1360. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 31. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is >=200. The duration of the credit in months is 12. The credit history is existing paid. The purpose is radio/tv. The credit amount is 3399. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 37. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 18. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 7374. The status of savings accounts/bonds is <100. The present employment in years is unemployed. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 40. The other installment plans is stores. The housing is own. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 30. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 3622. The status of savings accounts/bonds is >=1000. The present employment in years is >=7. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 57. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 30. The credit history is critical/other existing credit. The purpose is used car. The credit amount is 10623. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 38. The other installment plans is none. The housing is for free. The existing_credits is 3. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 20. The credit history is delayed previously. The purpose is other. The credit amount is 2629. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 29. The other installment plans is bank. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 24. The credit history is delayed previously. The purpose is furniture/equipment. The credit amount is 2064. The status of savings accounts/bonds is <100. The present employment in years is unemployed. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 34. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 36. The credit history is critical/other existing credit. The purpose is used car. The credit amount is 5800. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 34. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 2022. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 37. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 48. The credit history is no credits/all paid. The purpose is business. The credit amount is 14421. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 25. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 28. The credit history is existing paid. The purpose is new car. The credit amount is 4006. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 45. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1459. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 43. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 28. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 2743. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 29. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 48. The credit history is delayed previously. The purpose is other. The credit amount is 7582. The status of savings accounts/bonds is 100<=X<500. The present employment in years is unemployed. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 31. The other installment plans is none. The housing is for free. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is domestic appliance. The credit amount is 741. The status of savings accounts/bonds is 100<=X<500. The present employment in years is unemployed. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 22. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1382. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 1. The property is car. The age is 28. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is >=200. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 1480. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is unemployed. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 66. The other installment plans is bank. The housing is for free. The existing_credits is 3. The job is unemp/unskilled non res. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 47. The credit history is existing paid. The purpose is new car. The credit amount is 10722. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 35. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 15. The credit history is existing paid. The purpose is business. The credit amount is 806. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 22. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 2424. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 53. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 2390. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 50. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 27. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 2520. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 23. The other installment plans is none. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 36. The credit history is delayed previously. The purpose is used car. The credit amount is 8947. The status of savings accounts/bonds is no known savings. The present employment in years is 4<=X<7. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 31. The other installment plans is stores. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 7721. The status of savings accounts/bonds is no known savings. The present employment in years is <1. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 30. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is no. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2214. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 24. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is all paid. The purpose is used car. The credit amount is 3632. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is guarantor. The present residence since in years is 4. The property is car. The age is 22. The other installment plans is bank. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is no. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is existing paid. The purpose is used car. The credit amount is 1300. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 45. The other installment plans is bank. The housing is for free. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 22. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2675. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is >=7. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 40. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 48. The credit history is no credits/all paid. The purpose is other. The credit amount is 18424. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 32. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is no. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 36. The credit history is critical/other existing credit. The purpose is used car. The credit amount is 9629. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 24. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 24. The credit history is existing paid. The purpose is used car. The credit amount is 2760. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 36. The other installment plans is bank. The housing is for free. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 10. The credit history is existing paid. The purpose is new car. The credit amount is 1309. The status of savings accounts/bonds is no known savings. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is guarantor. The present residence since in years is 4. The property is life insurance. The age is 27. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 9. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1313. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 20. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 30. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 2831. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 33. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is retraining. The credit amount is 902. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 21. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1768. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 24. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 60. The credit history is existing paid. The purpose is new car. The credit amount is 14027. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is no known property. The age is 27. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 48. The credit history is existing paid. The purpose is radio/tv. The credit amount is 6758. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 31. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 18. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 1295. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 1. The property is life insurance. The age is 27. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 16. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 1175. The status of savings accounts/bonds is <100. The present employment in years is unemployed. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 68. The other installment plans is none. The housing is for free. The existing_credits is 3. The job is unemp/unskilled non res. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 3343. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is no known property. The age is 28. The other installment plans is none. The housing is for free. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 3777. The status of savings accounts/bonds is >=1000. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 50. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is other. The credit amount is 6314. The status of savings accounts/bonds is <100. The present employment in years is unemployed. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is co applicant. The present residence since in years is 2. The property is no known property. The age is 27. The other installment plans is bank. The housing is own. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 1386. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1736. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 31. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 18. The credit history is existing paid. The purpose is radio/tv. The credit amount is 1473. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 3. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 39. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 21. The credit history is critical/other existing credit. The purpose is used car. The credit amount is 3275. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 36. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2284. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 28. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2384. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 64. The other installment plans is bank. The housing is rent. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is critical/other existing credit. The purpose is education. The credit amount is 1532. The status of savings accounts/bonds is 100<=X<500. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is car. The age is 31. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 30. The credit history is existing paid. The purpose is used car. The credit amount is 4811. The status of savings accounts/bonds is no known savings. The present employment in years is 4<=X<7. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 24. The other installment plans is stores. The housing is rent. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 6078. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 32. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is existing paid. The purpose is domestic appliance. The credit amount is 1338. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 62. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is existing paid. The purpose is domestic appliance. The credit amount is 874. The status of savings accounts/bonds is no known savings. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 24. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1934. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is no known property. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is >=200. The duration of the credit in months is 6. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 1323. The status of savings accounts/bonds is 100<=X<500. The present employment in years is >=7. The installment commitment is 2. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 28. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is existing paid. The purpose is used car. The credit amount is 1236. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 50. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is existing paid. The purpose is education. The credit amount is 719. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 41. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is used car. The credit amount is 2670. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 35. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is all paid. The purpose is radio/tv. The credit amount is 626. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 24. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is existing paid. The purpose is radio/tv. The credit amount is 1213. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 47. The other installment plans is stores. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2439. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 35. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is radio/tv. The credit amount is 3235. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is >=7. The installment commitment is 3. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 21. The credit history is no credits/all paid. The purpose is new car. The credit amount is 5003. The status of savings accounts/bonds is no known savings. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 29. The other installment plans is bank. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 8. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 731. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 47. The other installment plans is none. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 362. The status of savings accounts/bonds is 100<=X<500. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 52. The other installment plans is none. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 18. The credit history is existing paid. The purpose is repairs. The credit amount is 1943. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 23. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 36. The credit history is existing paid. The purpose is used car. The credit amount is 8229. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 9. The credit history is existing paid. The purpose is radio/tv. The credit amount is 790. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 66. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 18. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1149. The status of savings accounts/bonds is >=1000. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 46. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 9. The credit history is all paid. The purpose is used car. The credit amount is 5129. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 74. The other installment plans is bank. The housing is for free. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 36. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 2337. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 36. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 10. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 2241. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 48. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is no. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 36. The credit history is existing paid. The purpose is used car. The credit amount is 6948. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 2. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 35. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is delayed previously. The purpose is business. The credit amount is 3863. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is no known property. The age is 32. The other installment plans is none. The housing is for free. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 4736. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 25. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is used car. The credit amount is 1804. The status of savings accounts/bonds is 100<=X<500. The present employment in years is <1. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 44. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 6. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 3384. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 44. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is education. The credit amount is 701. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 32. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 21. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 571. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 65. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 759. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 385. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 58. The other installment plans is none. The housing is own. The existing_credits is 4. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1291. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 35. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is all paid. The purpose is retraining. The credit amount is 3447. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 35. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 10. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 2132. The status of savings accounts/bonds is no known savings. The present employment in years is <1. The installment commitment is 2. The personal status is female div/dep/mar. The other debtors/guarantors is co applicant. The present residence since in years is 3. The property is real estate. The age is 27. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is no. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 2762. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is life insurance. The age is 25. The other installment plans is bank. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 48. The credit history is existing paid. The purpose is used car. The credit amount is 4788. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 18. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1533. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is co applicant. The present residence since in years is 1. The property is life insurance. The age is 43. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 18. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 3780. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 3. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 35. The other installment plans is none. The housing is own. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is >=200. The duration of the credit in months is 21. The credit history is critical/other existing credit. The purpose is education. The credit amount is 2319. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 2. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 1. The property is car. The age is 33. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 48. The credit history is existing paid. The purpose is business. The credit amount is 4844. The status of savings accounts/bonds is <100. The present employment in years is unemployed. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 33. The other installment plans is bank. The housing is rent. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is new car. The credit amount is 3124. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is real estate. The age is 49. The other installment plans is bank. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 4611. The status of savings accounts/bonds is <100. The present employment in years is <1. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 32. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 1007. The status of savings accounts/bonds is >=1000. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 22. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 36. The credit history is delayed previously. The purpose is business. The credit amount is 9857. The status of savings accounts/bonds is 100<=X<500. The present employment in years is 4<=X<7. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 31. The other installment plans is none. The housing is own. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is radio/tv. The credit amount is 1311. The status of savings accounts/bonds is 100<=X<500. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 3. The property is life insurance. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 20. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 2212. The status of savings accounts/bonds is no known savings. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 39. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is furniture/equipment. The credit amount is 1262. The status of savings accounts/bonds is no known savings. The present employment in years is >=7. The installment commitment is 2. The personal status is male div/sep. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 49. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 2859. The status of savings accounts/bonds is no known savings. The present employment in years is unemployed. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 38. The other installment plans is none. The housing is own. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 2611. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is co applicant. The present residence since in years is 3. The property is real estate. The age is 46. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 9. The credit history is existing paid. The purpose is new car. The credit amount is 276. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 4. The property is real estate. The age is 22. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 9. The credit history is critical/other existing credit. The purpose is education. The credit amount is 1136. The status of savings accounts/bonds is >=1000. The present employment in years is >=7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 3. The property is no known property. The age is 32. The other installment plans is none. The housing is for free. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 6. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1554. The status of savings accounts/bonds is <100. The present employment in years is 4<=X<7. The installment commitment is 1. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 24. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 9. The credit history is existing paid. The purpose is radio/tv. The credit amount is 2697. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is real estate. The age is 32. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is business. The credit amount is 1382. The status of savings accounts/bonds is 100<=X<500. The present employment in years is 4<=X<7. The installment commitment is 4. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 1. The property is real estate. The age is 26. The other installment plans is none. The housing is own. The existing_credits is 2. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 15. The credit history is existing paid. The purpose is used car. The credit amount is 4657. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 3. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 2. The property is car. The age is 30. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 24. The credit history is existing paid. The purpose is new car. The credit amount is 7393. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 1. The personal status is male single. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 43. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 2. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is 0<=X<200. The duration of the credit in months is 18. The credit history is existing paid. The purpose is used car. The credit amount is 12976. The status of savings accounts/bonds is <100. The present employment in years is unemployed. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is no known property. The age is 38. The other installment plans is none. The housing is for free. The existing_credits is 1. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is existing paid. The purpose is other. The credit amount is 1755. The status of savings accounts/bonds is <100. The present employment in years is >=7. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is guarantor. The present residence since in years is 4. The property is real estate. The age is 58. The other installment plans is none. The housing is own. The existing_credits is 1. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 12. The credit history is existing paid. The purpose is new car. The credit amount is 1893. The status of savings accounts/bonds is <100. The present employment in years is 1<=X<4. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is guarantor. The present residence since in years is 4. The property is life insurance. The age is 29. The other installment plans is none. The housing is own. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 18. The credit history is existing paid. The purpose is radio/tv. The credit amount is 1936. The status of savings accounts/bonds is no known savings. The present employment in years is 4<=X<7. The installment commitment is 2. The personal status is male mar/wid. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 23. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is unskilled resident. The Number of people being liable to provide maintenance for  is 1. The telephone is none. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is <0. The duration of the credit in months is 24. The credit history is critical/other existing credit. The purpose is radio/tv. The credit amount is 1231. The status of savings accounts/bonds is >=1000. The present employment in years is >=7. The installment commitment is 4. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is life insurance. The age is 57. The other installment plans is none. The housing is rent. The existing_credits is 2. The job is high qualif/self emp/mgmt. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The existing checking account status is no checking. The duration of the credit in months is 12. The credit history is critical/other existing credit. The purpose is furniture/equipment. The credit amount is 1402. The status of savings accounts/bonds is 500<=X<1000. The present employment in years is 4<=X<7. The installment commitment is 3. The personal status is female div/dep/mar. The other debtors/guarantors is none. The present residence since in years is 4. The property is car. The age is 37. The other installment plans is none. The housing is rent. The existing_credits is 1. The job is skilled. The Number of people being liable to provide maintenance for  is 1. The telephone is yes. The foreign worker is yes. ",
+        "output": "1"
+    }
+]

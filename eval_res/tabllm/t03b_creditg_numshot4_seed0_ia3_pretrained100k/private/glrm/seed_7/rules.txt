@@ -1,0 +1,7 @@
+2.1927007709697834	(intercept)
+4.867425116517954	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0
+2.842278357258065	credit history_delayed previously == 0.0 AND present employment in years_unemployed == 0.0 AND credit amount > 928.39
+-2.098623508860063	purpose_furniture/equipment == 0.0 AND other installment plans_none == 0.0 AND other installment plans_stores == 0.0 AND foreign worker_yes == 1.0
+-2.065581663289367	existing checking account status_no checking == 0.0 AND other installment plans_stores == 0.0 AND foreign worker_yes == 1.0
+-1.8394551582221255	other installment plans_none == 0.0 AND other installment plans_stores == 0.0
+-0.07334459805304283	existing checking account status_no checking == 0.0 AND other installment plans_stores == 0.0

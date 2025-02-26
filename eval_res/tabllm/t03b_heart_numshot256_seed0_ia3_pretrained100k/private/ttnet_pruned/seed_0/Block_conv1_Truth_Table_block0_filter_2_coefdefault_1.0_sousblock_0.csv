@@ -1,0 +1,17 @@
+,index,0,1,2,3,Filter_2_Value_1,Filter_2_dontcares_1
+0,0,0,0,0,0,True,False
+1,1,0,0,0,1,False,False
+2,2,0,0,1,0,False,False
+3,3,0,0,1,1,False,False
+4,4,0,1,0,0,True,False
+5,5,0,1,0,1,True,False
+6,6,0,1,1,0,True,False
+7,7,0,1,1,1,False,False
+8,8,1,0,0,0,True,False
+9,9,1,0,0,1,False,False
+10,10,1,0,1,0,False,False
+11,11,1,0,1,1,False,False
+12,12,1,1,0,0,True,False
+13,13,1,1,0,1,False,False
+14,14,1,1,1,0,False,False
+15,15,1,1,1,1,False,False

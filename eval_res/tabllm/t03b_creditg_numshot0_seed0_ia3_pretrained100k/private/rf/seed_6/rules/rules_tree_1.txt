@@ -1,0 +1,13 @@
+|--- 4_domestic appliance  <= 0.50
+|   |--- 7_unemployed  <= 0.50
+|   |   |--- class: 0.0|   |--- 7_unemployed  >  0.50
+|   |   |--- class_bad  <= -1.34
+|   |   |   |--- 16  <= 0.21
+|   |   |   |   |--- class: 0.0|   |   |   |--- 16  >  0.21
+|   |   |   |   |--- class: 0.0|   |   |--- class_bad  >  -1.34
+|   |   |   |--- 13  <= -1.67
+|   |   |   |   |--- class: 0.0|   |   |   |--- 13  >  -1.67
+|   |   |   |   |--- class: 0.0|--- 4_domestic appliance  >  0.50
+|   |--- class_bad  <= -0.59
+|   |   |--- class: 0.0|   |--- class_bad  >  -0.59
+|   |   |--- class: 0.0

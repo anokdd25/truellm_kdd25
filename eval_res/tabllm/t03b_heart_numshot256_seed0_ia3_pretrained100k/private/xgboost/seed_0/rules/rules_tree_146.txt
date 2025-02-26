@@ -1,0 +1,8 @@
+0:[6<1] yes=1,no=2,missing=2
+	1:[5<1] yes=3,no=7_Normal ,missing=7_Normal 
+		3:[14<-0.201485947] yes=5,no=6,missing=6
+			5:leaf=-0.0438783914			6:leaf=0.00459216395		4:[1<1] yes=7,no=8,missing=8
+			7:[2<3_NAP ] yes=9,no=3_NAP 0,missing=3_NAP 0
+				9:leaf=0.0350922793				10:[10<-1.14716701 ] yes=11,no=12,missing=12
+					11:leaf=0.0273568723					12:[14<-0.609703183] yes=10 ,no=14,missing=14
+						13:leaf=0.0160824489						14:leaf=-0.0312799402			8:leaf=-0.0252325591	2:leaf=0.0227345526

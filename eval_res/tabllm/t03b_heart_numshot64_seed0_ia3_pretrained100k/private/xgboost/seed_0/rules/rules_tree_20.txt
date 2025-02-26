@@ -1,0 +1,15 @@
+0:[2<3_NAP ] yes=3_NAP ,no=2,missing=2
+	1:[0<1] yes=3,no=4,missing=4
+		3:[7<1] yes=5,no=9_Y ,missing=9_Y 
+			5:leaf=-0.148721188			6:[1<1] yes=9,no=13_ATA ,missing=13_ATA 
+				9:[3<1] yes=13,no=14,missing=14
+					13:[10<-0.285672158] yes=11 ,no=20,missing=20
+						19:leaf=-0.0425126031						20:leaf=0.0959665105					14:leaf=-0.12740308				10:leaf=-0.126014248		4:[7<1] yes=7,no=8,missing=8
+			7:[12<-0.288205951] yes=5 ,no=12,missing=12
+				11:[4<1] yes=15,no=16,missing=16
+					15:[14<-0.171039984] yes=21,no=22,missing=22
+						21:leaf=0.201702774						22:leaf=-0.0120461117					16:[11<-0.225921214] yes=23,no=24,missing=24
+						23:leaf=0.0162797514						24:leaf=-0.0715268925				12:[1<1] yes=17,no=18,missing=18
+					17:[3<1] yes=3_TA 5,no=3_TA 6,missing=3_TA 6
+						25:leaf=0.108112633						26:leaf=-0.0176436938					18:[5<1] yes=27,no=28,missing=28
+						27:leaf=0.0211449824						28:leaf=-0.140324473			8:leaf=0.168457657	2:leaf=-0.157546028

@@ -1,0 +1,4 @@
+0:[4<1] yes=1,no=2,missing=2
+	1:[5<1] yes=3,no=3_existing paid ,missing=3_existing paid 
+		3:leaf=0.0361706503		4:leaf=-0.0135113578	2:[45<0.725322723] yes=5,no=6,missing=6
+		5:leaf=-0.0200021639		6:leaf=-0.231882796

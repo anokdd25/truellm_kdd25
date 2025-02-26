@@ -1,0 +1,2 @@
+1.7308515715418447	(intercept)
+5.861225063888378	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0

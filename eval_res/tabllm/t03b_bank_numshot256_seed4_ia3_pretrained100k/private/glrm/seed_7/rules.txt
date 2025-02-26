@@ -1,0 +1,22 @@
+0.6258865107206514	(intercept)
+-3.7611739694119897	outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 368.90
+3.181887402807814	type of job_housemaid == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND education level_unknown == 0.0 AND has credit in default_yes == 0.0 AND has housing loan_yes == 0.0 AND has personal loan_yes == 0.0
+1.7943357253641905	marketing contact communication type_unknown == 0.0
+-1.5841231437773329	last contact duration <= 278.77
+-1.5609082857086072	outcome of the previous marketing campaign_success == 0.0 AND last contact day > 9.98 AND last contact duration <= 549.17
+1.3185239612013306	type of job_housemaid == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0
+1.3158218230842984	outcome of the previous marketing campaign_unknown == 0.0
+1.2811788321322513	last contact month <= 7.01
+-1.2438077459181434	last contact duration <= 147.43
+-1.2253479887873853	marketing contact communication type_unknown == 1.0
+0.8736285547608742	has housing loan_yes == 0.0
+-0.7468340861458637	outcome of the previous marketing campaign_unknown == 1.0
+-0.6183918502602181	type of job_student == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact month > 4.99 AND last contact duration <= 549.17 AND number of days passed after the client was last contacted from a previous campaign > -0.85
+-0.5824704063202826	has housing loan_yes == 1.0 AND outcome of the previous marketing campaign_success == 0.0
+0.5732625857842761	last contact duration > 222.11
+0.5595973948683713	number of contacts performed during this campaign and for this client <= 4.00
+-0.5022716329941753	outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 222.11
+0.34134732231994563	number of contacts performed during this campaign and for this client <= 3.01
+-0.3046408512932082	has housing loan_yes == 1.0
+-0.004280941377163262	last contact duration <= 222.11
+0.00380981166593109	type of job_student == 0.0 AND has housing loan_yes == 1.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 549.17 AND number of days passed after the client was last contacted from a previous campaign > -0.85

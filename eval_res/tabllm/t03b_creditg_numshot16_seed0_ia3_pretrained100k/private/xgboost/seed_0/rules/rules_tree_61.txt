@@ -1,0 +1,22 @@
+0:[32<1] yes=1,no=2,missing=2
+	1:[33<1] yes=3,no=4,missing=4
+		3:[46<-1.13421297] yes=7,no=8,missing=8
+			7:leaf=-0			8:leaf=-0.0901231542		4:[3<1] yes=9,no=10,missing=10
+			9:[47<-0.569099188] yes=15,no=16,missing=16
+				15:leaf=-0				16:leaf=0.0567818135			10:leaf=-0	2:[45<-1.33551085] yes=5,no=6,missing=6
+		5:[12<1] yes=4_radio/tv ,no=12,missing=12
+			11:[45<-2.14576983] yes=17,no=18,missing=18
+				17:leaf=-0				18:[41<-0.490114301] yes=23,no=24,missing=24
+					23:leaf=-0					24:leaf=-0.0782729313			12:leaf=-0		6:[9<1] yes=13,no=14,missing=14
+			13:[41<-0.652521074] yes=19,no=20,missing=20
+				19:[44<-0.655975878] yes=25,no=26,missing=26
+					9_male single :[26<1] yes=31,no=32,missing=32
+						31:leaf=-0						32:leaf=0.0683936179					26:[19<1] yes=33,no=34,missing=34
+						33:leaf=-0.100345559						34:leaf=-0				20:[42<-0.311833382] yes=27,no=28,missing=28
+					27:[44<0.38242206] yes=35,no=36,missing=36
+						35:leaf=0.0166459735						36:leaf=-0.0777641162					28:[44<-0.682014644] yes=37,no=38,missing=38
+						37:leaf=-0.0127174491						38:leaf=0.068250455			14:[34<1] yes=21,no=22,missing=22
+				21:leaf=-0.00827271398				22:[42<0.604812801] yes=29,no=30,missing=30
+					29:[43<-0.00318790297] yes=39,no=40,missing=40
+						39:leaf=0.132357433						40:leaf=-0					30:[0<1] yes=41,no=42,missing=42
+						41:leaf=-0.0141767506						42:leaf=0.0129501661

@@ -1,0 +1,12 @@
+1.32280053670209	(intercept)
+4.70682001828966	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0
+4.496312761837227	credit history_delayed previously == 0.0 AND credit history_no credits/all paid == 0.0 AND purpose_other == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND present employment in years_unemployed == 0.0 AND other debtors/guarantors_guarantor == 0.0
+4.251803217841794	purpose_other == 0.0 AND purpose_used car == 0.0 AND other installment plans_none == 1.0
+-3.9654345780309135	status of savings accounts/bonds_no known savings == 0.0 AND housing_rent == 0.0 AND duration of the credit in months > 8.96 AND installment commitment <= 3.00
+-2.8725261240051374	existing checking account status_no checking == 0.0 AND housing_rent == 0.0 AND installment commitment <= 3.00 AND present residence since in years > 2.00
+-2.8478667159377995	existing checking account status_no checking == 0.0 AND property_life insurance == 0.0 AND housing_rent == 0.0 AND installment commitment <= 3.00
+-2.399833669558307	property_life insurance == 0.0 AND housing_rent == 0.0 AND duration of the credit in months > 8.96 AND installment commitment <= 3.00 AND age > 25.99
+-2.3511171431708475	present employment in years_4<=X<7 == 0.0 AND duration of the credit in months > 8.96 AND installment commitment <= 3.00 AND age > 25.99
+2.237042648356959	personal status_male div/sep == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND credit amount <= 7166.63
+2.1617861630195443	present employment in years_unemployed == 0.0
+1.5008402949055915	credit amount <= 7166.63

@@ -1,0 +1,19 @@
+0.8859213391165387	(intercept)
+3.3789607801852455	education level_unknown == 0.0 AND has credit in default_yes == 0.0 AND has housing loan_yes == 0.0 AND has personal loan_yes == 0.0
+-2.7223754261534525	type of job_student == 0.0 AND type of job_unknown == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND outcome of the previous marketing campaign_unknown == 1.0 AND last contact day > 4.99 AND last contact duration <= 368.90 AND number of contacts performed before this campaign and for this client <= 2.01
+-1.9626348665609632	outcome of the previous marketing campaign_success == 0.0 AND last contact month > 2.99 AND last contact duration <= 368.90
+-1.866361532709722	outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 278.77
+1.701480109712426	marketing contact communication type_unknown == 0.0
+1.6407895644379442	type of job_housemaid == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND marketing contact communication type_unknown == 0.0 AND average yearly balance in euros > 144.37 AND last contact month <= 10.00 AND last contact duration > 57.29
+-1.6330625079455972	has housing loan_yes == 1.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 549.17
+-1.403689614097466	last contact duration <= 147.43
+1.359137705607794	has credit in default_yes == 0.0 AND has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0 AND last contact duration > 57.29 AND number of contacts performed during this campaign and for this client <= 4.99
+-1.1952444679673557	type of job_retired == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 368.90
+-1.0416223856646656	last contact duration <= 222.11
+-1.0379543537931564	outcome of the previous marketing campaign_success == 0.0 AND last contact day > 9.98 AND last contact duration <= 549.17
+1.0186995413667455	last contact day <= 15.97
+-0.8762046823084333	type of job_student == 0.0 AND education level_tertiary == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+0.6285609544585569	has credit in default_yes == 0.0 AND marketing contact communication type_unknown == 0.0 AND last contact duration > 88.19
+-0.6003192975533042	type of job_student == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 368.90
+0.31809210568456037	outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 222.11
+-0.04881188082204257	last contact duration <= 180.90

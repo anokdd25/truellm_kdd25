@@ -1,0 +1,19 @@
+1.83994086787093	(intercept)
+-3.0134409292577953	number of months since last donation > 1.98 AND total number of donation <= 4.00
+-2.8786435972955418	total number of donation <= 12.00 AND total number of donation > 4.99
+-2.3298146910681203	total number of donation <= 2.01
+2.0702485690272034	number of months since last donation <= 10.96
+1.1501104371621929	number of months since last donation <= 21.00 AND total number of donation > 5.98 AND number of months since first donation > 4.05
+-0.8843595645835209	number of months since first donation <= 16.00
+-0.7746618057340414	total number of donation <= 5.98
+0.6441755492883445	number of months since last donation <= 21.00 AND number of months since first donation <= 73.04 AND number of months since first donation > 23.07
+-0.6412768841759663	number of months since last donation > 7.00 AND total number of donation <= 12.00
+0.6000862702359314	number of months since last donation <= 14.04
+0.5836756306228105	number of months since last donation <= 21.00 AND total number of donation > 5.98
+-0.5575983706441104	number of months since last donation <= 21.00 AND total number of donation > 2.01 AND number of months since first donation > 4.05
+0.49309460603553446	number of months since last donation <= 21.00 AND number of months since first donation > 16.00
+-0.2933656274738656	number of months since first donation <= 27.94
+0.2408199138957733	number of months since last donation > 4.00 AND total number of donation <= 12.00
+-0.21751643171170465	total number of donation <= 8.03
+-0.1862214025798575	number of months since first donation <= 23.07
+0.052632892806354435	number of months since last donation <= 21.00 AND number of months since first donation > 23.07

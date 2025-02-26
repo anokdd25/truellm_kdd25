@@ -1,0 +1,6 @@
+Accuracy: 0.8
+Train AUC: 0.916289592760181
+AUC: 0.8125
+FPR: 0.15
+TPR: 0.7
+F1-score: 0.7

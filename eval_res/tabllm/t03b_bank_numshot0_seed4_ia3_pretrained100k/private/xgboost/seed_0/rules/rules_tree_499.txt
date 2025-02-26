@@ -1,0 +1,13 @@
+0:[14<1] yes=1,no=2,missing=2
+	1:[5<1] yes=3,no=2_sel-employed ,missing=2_sel-employed 
+		3:[8<1] yes=2_technician ,no=8,missing=8
+			7:[1<1] yes=15,no=16,missing=16
+				15:leaf=-0.0142713264				16:leaf=-0			8:[27<-0.379859835] yes=17,no=18,missing=18
+				17:leaf=-0				18:leaf=0.0115838954		4:[27<0.127376601] yes=9,no=10,missing=10
+			9:leaf=0.0125968261			10:leaf=-0	2:[30<0.244853064] yes=5,no=6,missing=6
+		5:[26<-0.611541986] yes=11,no=12,missing=12
+			11:[26<-1.34244883] yes=19,no=20,missing=20
+				19:leaf=-0				20:leaf=-0.00724122068			12:[30<-0.279030144] yes=21,no=22,missing=22
+				21:leaf=-0				22:leaf=0.0481215753		6:[30<0.437187672] yes=13,no=14,missing=14
+			13:leaf=-0.0320250578			14:[29<-0.527827978] yes=23,no=24,missing=24
+				23:leaf=-0				24:leaf=0.0154538918

@@ -1,0 +1,3 @@
+0:[11 <0.1404311 29] yes=1,no=2,missing=2
+	1:leaf=-0.0188883822	2:[12_real estate <1] yes=3,no=4,missing=4
+		3:leaf=0.0431953408		4:leaf=-0.0273952577

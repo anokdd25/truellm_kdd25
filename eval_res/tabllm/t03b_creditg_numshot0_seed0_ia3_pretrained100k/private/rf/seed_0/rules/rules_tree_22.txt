@@ -1,0 +1,7 @@
+|--- 7_<1  <= 0.50
+|   |--- 4_domestic appliance  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_domestic appliance  >  0.50
+|   |   |--- class: 0.0|--- 7_<1  >  0.50
+|   |--- 20_yes  <= 0.50
+|   |   |--- class: 0.0|   |--- 20_yes  >  0.50
+|   |   |--- class: 0.0

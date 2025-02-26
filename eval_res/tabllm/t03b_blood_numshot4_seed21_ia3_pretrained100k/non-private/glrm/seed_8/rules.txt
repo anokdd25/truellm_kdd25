@@ -1,0 +1,7 @@
+5.989931843843032	(intercept)
+8.260357416095061	total number of donation > 4.00 AND number of months since first donation <= 73.04
+-6.568047877341624	number of months since last donation <= 1.98 AND number of months since first donation > 27.94
+-6.324380341976594	number of months since last donation <= 4.00 AND total number of donation > 2.01 AND number of months since first donation > 27.94
+4.953601195121259	number of months since first donation <= 73.04
+-3.2065341952211472	number of months since last donation <= 4.00 AND number of months since first donation > 73.04
+-2.9309454147135194	number of months since last donation <= 4.00 AND number of months since first donation > 27.94

@@ -1,0 +1,2 @@
+0:[3<1] yes=1,no=2_management ,missing=2_management 
+	1:leaf=-0.0094586499	2:leaf=0.0323505774

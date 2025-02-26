@@ -1,0 +1,5 @@
+0:[10<1] yes=1,no=2,missing=2
+	1:[0<1] yes=3,no=4,missing=4
+		3:[9<1] yes=5,no=6,missing=6
+			2_services :[6<1] yes=7,no=8,missing=8
+				7:leaf=0.0122263785				8:leaf=-0.00960229337			6:leaf=-0.0312188808		4:leaf=-0.0270683356	2:leaf=-0.0357987396

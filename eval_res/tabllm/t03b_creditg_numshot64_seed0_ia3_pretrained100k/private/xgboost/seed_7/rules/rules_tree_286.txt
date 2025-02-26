@@ -1,0 +1,11 @@
+0:[12<1] yes=1,no=2,missing=2
+	1:[10<1] yes=3,no=4,missing=4
+		3:[9<1] yes=7,no=4_urniture/equipment ,missing=4_urniture/equipment 
+			4_education :[8<1] yes=13,no=14,missing=14
+				13:leaf=0.0403861701				14:leaf=-0.0125649953			8:[31<1] yes=15,no=16,missing=16
+				15:leaf=-0.0217668917				16:leaf=0.0275268238		4:[2<1_no checking ] yes=9,no=1_no checking 0,missing=1_no checking 0
+			9:[19<1] yes=17,no=6_no known savings ,missing=6_no known savings 
+				17:leaf=-0.0355249718				18:leaf=-0			10:leaf=-0	2:[30<1] yes=5,no=6,missing=6
+		5:[29<1] yes=11,no=12,missing=12
+			11:[31<1] yes=19,no=20,missing=20
+				19:leaf=-0.105432652				20:leaf=-0			12:leaf=-0		6:leaf=-0

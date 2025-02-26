@@ -1,0 +1,8 @@
+0:[11<-0.406338662] yes=1,no=2,missing=2
+	1:[8<-0.69614545 5] yes=3,no=4,missing=4
+		3:[0<1] yes=7,no=8,missing=8
+			7:leaf=0.0400530919			8:leaf=-0.0516150892		4:[2<9_NEAR BAY ] yes=9,no=9_NEAR BAY 0,missing=9_NEAR BAY 0
+			9:leaf=-0.092910476			10:leaf=-0.0319179855	2:[4<0.751 521621] yes=5,no=6,missing=6
+		5:[5<1.2 1301775] yes=11,no=12,missing=12
+			11:leaf=0.0352703817			12:leaf=-0.0505474396		6:[3<1] yes=13,no=14,missing=14
+			13:leaf=-0.0447795019			14:leaf=0.0506420732

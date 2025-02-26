@@ -1,0 +1,4 @@
+0:[3<1] yes=1,no=3_critical/other existing credit ,missing=3_critical/other existing credit 
+	1_no checking :[2<1_no checking ] yes=3,no=4,missing=4
+		3:leaf=-0.0602010712		4:leaf=0.126094222	2:[41<0.918202996] yes=5,no=6,missing=6
+		5:leaf=0.130045325		6:leaf=-0.00566088222

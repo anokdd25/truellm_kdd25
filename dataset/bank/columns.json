@@ -1,0 +1,18 @@
+[
+    "age",
+    "type of job",
+    "marital status",
+    "education level",
+    "has credit in default",
+    "average yearly balance in euros",
+    "has housing loan",
+    "has personal loan",
+    "marketing contact communication type",
+    "last contact day",
+    "last contact month",
+    "last contact duration",
+    "number of contacts performed during this campaign and for this client",
+    "number of days passed after the client was last contacted from a previous campaign",
+    "number of contacts performed before this campaign and for this client",
+    "outcome of the previous marketing campaign"
+]

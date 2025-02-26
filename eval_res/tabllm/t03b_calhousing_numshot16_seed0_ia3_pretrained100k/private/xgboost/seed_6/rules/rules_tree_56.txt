@@ -1,0 +1,10 @@
+0:[3<1] yes=1,no=9_NEAR OCEAN ,missing=9_NEAR OCEAN 
+	9_NEAR BAY :[2<9_NEAR BAY ] yes=3,no=4,missing=4
+		3:[11<-0.248718798] yes=5,no=6,missing=6
+			5:[9<-1.23904526] yes=7,no=6 ,missing=6 
+				7:leaf=-0.0591949858				6 :[9<0.06 03024247] yes=11,no=12,missing=12
+					11:[11<-1.36509132] yes=15,no=16,missing=16
+						15:leaf=-0.00981222279						16:leaf=0.0485644266					12:[9<0.556 6 31632] yes=17,no=16 ,missing=16 
+						17:leaf=-0.0492657572						18:leaf=-0			6:[11<1.2099582] yes=9,no=8 ,missing=8 
+				9:[6<0.13 13 83 3 04] yes=13,no=14,missing=14
+					13:leaf=0.0497840978					14:leaf=-0.019806711				10:leaf=-0.0243054088		4:leaf=0.0286082439	2:leaf=0.0294370595

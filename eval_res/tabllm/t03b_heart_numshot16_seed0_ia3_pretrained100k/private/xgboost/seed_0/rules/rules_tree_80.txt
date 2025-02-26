@@ -1,0 +1,8 @@
+0:[3<1] yes=1,no=3_TA ,missing=3_TA 
+	1:[1<1] yes=3,no=4,missing=4
+		3:[5<1] yes=7,no=8,missing=8
+			7:[6<1] yes=11,no=12,missing=12
+				11:leaf=-0.0694895759				12:leaf=0.0281699598			8:[12<1.00216317] yes=13,no=14,missing=14
+				13:leaf=0.0722009838				14:leaf=-0		4:[11<-0.480131239] yes=9,no=4 ,missing=4 
+			9:leaf=-0			10:leaf=-0.0234772768	2:[7<1] yes=5,no=9_Y ,missing=9_Y 
+		5:leaf=-0.0568006746		6:leaf=-0

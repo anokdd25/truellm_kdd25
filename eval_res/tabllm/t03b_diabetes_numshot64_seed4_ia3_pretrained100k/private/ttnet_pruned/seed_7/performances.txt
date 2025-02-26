@@ -1,0 +1,84 @@
+
+ DNF number 1 ~x_1 | (x_2 & x_3)
+ DNF number 2 None
+ DNF number 3 (x_1 & x_2) | (x_1 & ~x_0) | (x_2 & ~x_0)
+ DNF number 4 (~x_0 & ~x_1) | (~x_1 & ~x_3) | (x_2 & ~x_0 & ~x_3)
+ DNF number 5 x_2 | ~x_1 | (x_0 & ~x_3)
+ DNF number 6 x_0 | x_2 | x_3 | ~x_1
+ DNF number 7 x_2 | (x_3 & ~x_0)
+ DNF number 8 (x_0 & x_2) | (x_2 & x_3) | (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 30
+Accuracy (%) 59.74025974025974
+ROC (%) 72.49757045675413
+FPR (%): 52.38095238095239
+TPR (%): 85.71428571428571
+F1-score (%): 57.53424657534247
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 20.0
+Before Dont Care
+
+Conditions: 51
+Rules: 11
+
+After Dont Care
+
+Conditions: 51
+Rules: 11
+
+
+ DNF number 1 ~x_1 | (x_2 & x_3)
+ DNF number 2 None
+ DNF number 3 (x_1 & x_2) | (x_1 & ~x_0) | (x_2 & ~x_0)
+ DNF number 4 (~x_0 & ~x_1) | (~x_1 & ~x_3) | (x_2 & ~x_0 & ~x_3)
+ DNF number 5 x_2 | ~x_1 | (x_0 & ~x_3)
+ DNF number 6 x_0 | x_2 | x_3 | ~x_1
+ DNF number 7 x_2 | (x_3 & ~x_0)
+ DNF number 8 (x_0 & x_2) | (x_0 & x_3) | (x_2 & x_3) | (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 32
+Accuracy (%) 61.038961038961034
+ROC (%) 73.29446064139941
+FPR (%): 48.57142857142857
+TPR (%): 81.63265306122449
+F1-score (%): 57.14285714285714
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 30.0
+Before Dont Care
+
+Conditions: 45
+Rules: 9
+
+After Dont Care
+
+Conditions: 45
+Rules: 9
+
+
+ DNF number 1 ~x_1 | (x_2 & x_3)
+ DNF number 2 None
+ DNF number 3 (x_1 & x_2) | (x_1 & ~x_0) | (x_2 & ~x_0)
+ DNF number 4 (~x_0 & ~x_1) | (~x_1 & ~x_3) | (x_2 & ~x_0 & ~x_3)
+ DNF number 5 x_2 | ~x_1 | (x_0 & ~x_3)
+ DNF number 6 x_0 | x_2 | x_3 | ~x_1
+ DNF number 7 x_2 | (x_3 & ~x_0)
+ DNF number 8 (x_0 & x_2) | (x_0 & x_3) | (x_2 & x_3) | (x_0 & ~x_1) | (x_2 & ~x_1) | (x_3 & ~x_1)
+ DNF number 9 None
+ DNF number 10 None
+ Number of gates 32
+Accuracy (%) 61.038961038961034
+ROC (%) 73.29446064139941
+FPR (%): 48.57142857142857
+TPR (%): 81.63265306122449
+F1-score (%): 57.14285714285714
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 30.0
+Before Dont Care
+
+Conditions: 45
+Rules: 9
+
+After Dont Care
+
+Conditions: 45
+Rules: 9
+

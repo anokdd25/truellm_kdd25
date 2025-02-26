@@ -1,0 +1,11 @@
+[
+    "longitude",
+    "latitude",
+    "median age of the house within a block",
+    "total rooms within a block",
+    "total bedrooms within a block",
+    "population within a block",
+    "total number of households within a block",
+    "median income for households within a block (in tens of thousands USD)",
+    "location of the house with respect to ocean/sea"
+]

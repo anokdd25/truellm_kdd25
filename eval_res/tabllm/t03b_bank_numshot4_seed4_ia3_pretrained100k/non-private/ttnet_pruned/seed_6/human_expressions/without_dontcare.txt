@@ -1,0 +1,12 @@
+Class 0:
+
+Position	Weight	Rule
+16	2.2136363983154297	3_married & 3_single | 3_married & ~2_unemployed | 3_single & ~2_unemployed
+32	0.730836033821106	3_single | ~4_secondary | ~4_tertiary
+61	-1.8288309574127197	2_unemployed & ~3_single | 2_unemployed & 2_unknown & ~3_married
+76	-2.3044440746307373	3_single & ~2_unemployed & ~2_unknown | 3_single & ~2_unemployed & ~3_married
+91	2.1027677059173584	2_unemployed & 3_single | 2_unemployed & ~3_married | 3_single & ~2_unknown | 3_single & ~3_married | ~2_unknown & ~3_married
+100	-0.8231402039527893	Last Contact Duration_256.05 & Previous_0.56 | Last Contact Duration_256.05 & ~Pdays_39.38 | Previous_0.56 & ~Campaign_2.74 | Previous_0.56 & ~Pdays_39.38 | ~Campaign_2.74 & ~Pdays_39.38
+intercept	7.350997447967529
+
+

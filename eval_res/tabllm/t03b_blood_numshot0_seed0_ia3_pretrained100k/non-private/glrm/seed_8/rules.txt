@@ -1,0 +1,13 @@
+1.970411885474111	(intercept)
+-4.61898910743488	total blood donated in cc > 254.61 AND number of months since first donation <= 73.04 AND number of months since first donation > 23.07
+-4.199172137566815	number of months since last donation <= 14.04 AND total number of donation > 1.02
+-3.8202089217632813	number of months since last donation <= 21.00 AND total number of donation <= 12.00 AND total blood donated in cc > 254.61 AND number of months since first donation > 4.05
+3.5711728911391933	total blood donated in cc <= 502.78 AND number of months since first donation <= 23.07
+-3.2935185810356478	total blood donated in cc > 254.61 AND number of months since first donation <= 73.04
+-2.517388561680969	total number of donation <= 12.00 AND total number of donation > 1.02
+-2.2691107277186666	total number of donation <= 12.00 AND total number of donation > 1.02 AND number of months since first donation > 4.05
+2.2458398001484694	total blood donated in cc <= 502.78
+2.2458398001484694	total number of donation <= 2.01
+1.4818443479374794	total blood donated in cc <= 254.61
+1.4818443479374794	total number of donation <= 1.02
+0.3428046708627657	total number of donation > 1.02 AND number of months since first donation > 4.05

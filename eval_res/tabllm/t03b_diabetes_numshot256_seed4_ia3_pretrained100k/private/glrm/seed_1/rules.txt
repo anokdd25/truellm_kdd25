@@ -1,0 +1,21 @@
+-0.9338952832981127	(intercept)
+-2.064215288220483	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 109.06
+1.8123434480179663	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND 2-hour serum insulin (mu U/ml) <= 71.73
+-1.5875640699611606	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 166.94 AND 2-hour serum insulin (mu U/ml) <= 210.03 AND 2-hour serum insulin (mu U/ml) > 0.28
+1.494352582867987	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND 2-hour serum insulin (mu U/ml) <= 30.24
+-1.2680460870250554	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 125.05
+-1.2178763940188064	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 117.06
+0.7933613445379605	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND body mass index > 30.10
+-0.6693162775436174	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 147.11
+0.6198895945940103	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND age > 29.01
+0.6121522371912278	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND 2-hour serum insulin (mu U/ml) <= 106.31
+0.6013538574429267	number of times pregnant > 1.99 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03
+0.5529690031587139	number of times pregnant > 0.00 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND diastolic blood pressure (mm Hg) <= 88.07 AND body mass index > 25.92 AND age <= 51.00
+0.5127507708978803	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND triceps skin fold thickness (mm) <= 40.00 AND body mass index > 28.21
+0.4264028590493072	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND diastolic blood pressure (mm Hg) <= 88.07
+0.41266868465392487	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND body mass index > 23.64 AND age > 25.01
+0.30101583487751116	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND age > 27.01
+-0.2581445468863806	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 166.94 AND 2-hour serum insulin (mu U/ml) > 30.24
+0.2564444082514325	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND body mass index > 25.92
+0.09123035867709586	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND body mass index > 28.21
+0.0020616349919522375	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 134.00

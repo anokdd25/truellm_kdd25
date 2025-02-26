@@ -1,0 +1,10 @@
+0:[30<0.647188485] yes=1,no=2,missing=2
+	1:[7<1] yes=3,no=4,missing=4
+		3:[9<1] yes=7,no=2_unemployed ,missing=2_unemployed 
+			7:[17<1] yes=9,no=10,missing=10
+				9:[18<1] yes=13,no=14,missing=14
+					13:leaf=0.0251656305					14:leaf=-0.017365111				3_married :[11<1] yes=15,no=16,missing=16
+					15:leaf=-6.01825195e-05					16:leaf=0.0649459288			8:[27<-1.30590141] yes=11,no=12,missing=12
+				11:leaf=0.00115820894				12:[28<-0.00451632682] yes=17,no=18,missing=18
+					17:leaf=-0.0651297048					18:leaf=0.0013629907		4:leaf=-0.0550105646	2:[25<-0.499306738] yes=5,no=6,missing=6
+		5:leaf=-0.0095659364		6:leaf=0.0507482253

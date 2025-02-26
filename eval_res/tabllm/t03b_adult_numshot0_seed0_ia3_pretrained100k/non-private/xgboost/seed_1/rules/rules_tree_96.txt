@@ -1,0 +1,4 @@
+0:[6_ Married-civ-spouse <1] yes=1,no=2,missing=2
+	1:[3 <-0.143878445] yes=3,no=4,missing=4
+		3:leaf=0.0226575807		4:[3 <0.228210688] yes=5,no=6,missing=6
+			5:leaf=-0.0643874779			6:leaf=0.00527355541	2:leaf=0.029594548

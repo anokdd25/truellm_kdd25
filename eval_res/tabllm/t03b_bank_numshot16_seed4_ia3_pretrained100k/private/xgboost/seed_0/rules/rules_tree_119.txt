@@ -1,0 +1,6 @@
+0:[20<1] yes=1,no=2,missing=2
+	1:[24<-2.03452253] yes=3,no=4,missing=4
+		3:[26<-0.0280989539] yes=5,no=6,missing=6
+			5:leaf=-0.0604558252			6:leaf=-0		4:[8<1] yes=2_technician ,no=8,missing=8
+			7:[3<1] yes=9,no=10,missing=10
+				9:leaf=-0.00350676384				10:leaf=0.0371277034			8:leaf=0.0678565428	2:leaf=-0.0647236183

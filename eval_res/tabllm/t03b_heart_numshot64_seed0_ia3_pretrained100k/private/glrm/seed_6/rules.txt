@@ -1,0 +1,8 @@
+-24.04540053053613	(intercept)
+15.570305774195827	sex_M == 1.0 AND cp_ATA == 0.0 AND cp_NAP == 0.0
+12.231167254550046	cp_NAP == 0.0 AND exang_Y == 1.0
+11.579880738809	sex_M == 1.0 AND cp_NAP == 0.0 AND slope_Flat == 1.0
+10.855973526842613	sex_M == 1.0 AND cp_ATA == 0.0 AND cp_NAP == 0.0 AND cp_TA == 0.0
+9.8337221136402	cp_NAP == 0.0 AND slope_Flat == 1.0
+9.304315140751497	cp_ATA == 0.0 AND cp_NAP == 0.0 AND cp_TA == 0.0
+8.096700717697223	sex_M == 1.0 AND cp_NAP == 0.0

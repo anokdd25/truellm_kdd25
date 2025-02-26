@@ -1,0 +1,5 @@
+7.979495644320907	(intercept)
+7.058898006421722	number of times pregnant <= 4.99 AND diabetes pedigree function <= 0.88
+-5.766486407676498	number of times pregnant <= 7.01 AND triceps skin fold thickness (mm) <= -0.04 AND body mass index <= 41.53 AND age <= 37.94
+-3.2830994318453803	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 95.00 AND triceps skin fold thickness (mm) <= -0.04 AND age <= 37.94 AND age > 23.01
+-3.271006661046689	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 95.00 AND triceps skin fold thickness (mm) <= -0.04 AND age <= 37.94

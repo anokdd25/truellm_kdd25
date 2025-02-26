@@ -1,0 +1,85 @@
+{
+    "basic_info": {
+        "row_num": 44819,
+        "col_num": 7,
+        "label_candidates": [
+            "class"
+        ],
+        "valid_feature_num": 7,
+        "num_features": [
+            "white_strength",
+            "white_file",
+            "white_rank",
+            "black_strength",
+            "black_file",
+            "black_rank"
+        ],
+        "cat_features": [
+            "class"
+        ],
+        "other_features": [],
+        "tags": [
+            "game"
+        ],
+        "source_url": ""
+    },
+    "feature_info": {
+        "white_strength": {
+            "description": "Strength of white piece",
+            "type": "numerical",
+            "decimal": 0
+        },
+        "white_file": {
+            "description": "File of white piece",
+            "type": "numerical",
+            "decimal": 0
+        },
+        "white_rank": {
+            "description": "Rank of white piece",
+            "type": "numerical",
+            "decimal": 0
+        },
+        "black_strength": {
+            "description": "Strength of black piece",
+            "type": "numerical",
+            "decimal": 0
+        },
+        "black_file": {
+            "description": "File of black piece",
+            "type": "numerical",
+            "decimal": 0
+        },
+        "black_rank": {
+            "description": "Rank of black piece",
+            "type": "numerical",
+            "decimal": 0
+        },
+        "target": {
+            "description": "White wins (0 = no, 1 = yes)",
+            "type": "categorical",
+            "value_dict": {
+                "1": "White piece wins",
+                "0": "Black piece wins"
+            }
+        }
+    },
+    "task_info": {
+        "target": {
+            "task_type": "classification",
+            "prompt": {
+                "role_prompt": "You are an expert in jungle chess.",
+                "task_prompt": "Based on the board information, please predict the winner of the game.",
+                "answer_prompt": "White piece wins[1] or Black piece wins[0]?"
+            },
+            "class_num": 2,
+            "class_value_dict": {
+                "1": "White piece wins",
+                "0": "Black piece wins"
+            },
+            "class_index_dict": {
+                "1": 1,
+                "0": 0
+            }
+        }
+    }
+}

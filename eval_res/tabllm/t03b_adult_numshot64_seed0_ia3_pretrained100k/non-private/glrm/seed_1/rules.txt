@@ -1,0 +1,19 @@
+-3.2981210212424075	(intercept)
+3.918956507849692	occupation_ Other-service == 0.0 AND relationship_ Not-in-family == 0.0 AND relationship_ Unmarried == 0.0 AND native_country_ Mexico == 0.0 AND age > 32.99
+-3.793146933780877	workclass_ Federal-gov == 0.0 AND occupation_ Craft-repair == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND capital_gain <= -30.14
+2.8884132838783114	workclass_ Private == 1.0 AND occupation_ Adm-clerical == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Other-service == 0.0 AND age > 26.03
+-2.8170572970375893	marital_status_ Married-civ-spouse == 0.0 AND capital_gain <= -30.14
+2.5096197485657967	workclass_ Self-emp-not-inc == 0.0 AND education_ 7th-8th == 0.0 AND marital_status_ Married-civ-spouse == 1.0
+2.167887189226194	marital_status_ Never-married == 0.0 AND education_num > 9.00
+-2.1302843832308422	workclass_ State-gov == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0 AND capital_gain <= -30.14
+-1.7926157687729967	occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0
+-1.7061946099053826	age <= 36.94 AND capital_gain <= -30.14
+1.559465107968373	occupation_ Other-service == 0.0 AND sex_ Male == 1.0 AND age > 26.03 AND education_num > 6.99
+-1.5285890210173407	occupation_ Prof-specialty == 0.0 AND age <= 41.04
+1.4683655754040361	workclass_ Self-emp-not-inc == 0.0 AND occupation_ Adm-clerical == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Other-service == 0.0 AND relationship_ Not-in-family == 0.0 AND age > 26.03 AND education_num > 6.99
+1.2083891706756944	marital_status_ Married-civ-spouse == 1.0 AND age > 26.03 AND education_num > 6.99
+1.2047548576732647	marital_status_ Married-civ-spouse == 1.0 AND occupation_ Farming-fishing == 0.0 AND age > 36.94
+1.092291846552944	workclass_ Private == 1.0 AND occupation_ Other-service == 0.0 AND relationship_ Unmarried == 0.0 AND age > 29.99 AND education_num > 6.99
+-0.8650449023013602	education_num <= 10.00 AND capital_gain <= -30.14 AND capital_loss <= -1.35
+0.2765707015423993	occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0 AND occupation_ Tech-support == 0.0 AND capital_gain <= -30.14
+-0.007698908913423925	age <= 41.04 AND capital_gain <= -30.14

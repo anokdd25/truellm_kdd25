@@ -1,0 +1,19 @@
+-7.825569029015171	(intercept)
+2.7455536051968523	number of months since last donation <= 4.00
+2.539553904108386	number of months since last donation <= 10.96
+2.53945768357428	number of months since last donation <= 15.98 AND total number of donation > 8.03
+-2.435108878823737	number of months since last donation > 1.98 AND total number of donation <= 12.00 AND total number of donation > 1.02
+1.9410430781460297	number of months since last donation <= 15.98 AND total number of donation > 4.00
+1.7682266915309708	number of months since last donation <= 15.98 AND number of months since first donation <= 45.01
+1.651709289057368	number of months since last donation <= 7.00
+1.4528029283086183	number of months since last donation <= 15.98 AND total number of donation > 3.00 AND number of months since first donation <= 56.95
+-1.354793081693157	number of months since last donation <= 15.98 AND total number of donation > 4.00 AND number of months since first donation <= 56.95
+1.1576422650439697	number of months since last donation <= 15.98 AND total blood donated in cc > 254.61 AND number of months since first donation <= 56.95 AND number of months since first donation > 4.05
+1.0570701698275315	number of months since last donation <= 15.98 AND total blood donated in cc > 254.61 AND number of months since first donation <= 56.95
+0.9685037333090981	number of months since last donation <= 15.98 AND total blood donated in cc > 999.12 AND number of months since first donation <= 56.95 AND number of months since first donation > 4.05
+0.908709797695436	number of months since last donation <= 14.04 AND number of months since first donation <= 45.01
+-0.7354172404201974	number of months since last donation > 1.98 AND total number of donation <= 12.00 AND total blood donated in cc <= 2999.08
+0.6457275018137006	number of months since last donation > 4.00 AND total number of donation <= 12.00
+0.5175268227749112	number of months since last donation <= 15.98 AND number of months since first donation <= 35.01
+-0.18464356374016014	number of months since last donation <= 15.98 AND total blood donated in cc > 999.12 AND number of months since first donation <= 56.95
+0.1332726727816249	number of months since last donation > 1.98 AND total number of donation <= 8.03

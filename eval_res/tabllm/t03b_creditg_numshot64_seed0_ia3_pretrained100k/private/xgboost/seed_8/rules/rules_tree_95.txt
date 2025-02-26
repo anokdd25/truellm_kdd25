@@ -1,0 +1,13 @@
+0:[16<1] yes=1,no=2,missing=2
+	1:[13<1] yes=3,no=4,missing=4
+		3:[12<1] yes=7,no=8,missing=8
+			7:[7<1] yes=15,no=14_domestic appliance ,missing=14_domestic appliance 
+				15:leaf=0.0143703865				16:leaf=-0.137998626			8:[41<-0.629784822] yes=17,no=18,missing=18
+				17:leaf=-0.0989489481				18:leaf=-0.00858497061		4:[36<1] yes=9,no=10,missing=10
+			9:leaf=-0.196929321			10:[29<1] yes=19,no=20,missing=20
+				19:leaf=0.114873849				20:leaf=-0.126557559	2:[42<-0.319002271] yes=5,no=6,missing=6
+		5:[47<0.394189328] yes=11,no=12,missing=12
+			11:[31<1] yes=21,no=22,missing=22
+				21:leaf=-0.123211555				22:leaf=0.0329238027			12:leaf=0.100092813		6:[47<-1.33965504] yes=13,no=14,missing=14
+			13:leaf=-0.0700922385			14:[46<1.31779492] yes=23,no=24,missing=24
+				23:leaf=0.187995195				24:leaf=-0.0406665951

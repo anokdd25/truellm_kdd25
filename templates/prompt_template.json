@@ -1,0 +1,92 @@
+{
+    "adult": [
+        {
+            "name": "template1",
+            "instruction": "Based on the provided income census information, does this person earn more than $50,000 in a year? Answer 1 if the person earns more than $50,000 dollars and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+            "input": "The Age is {age}. The Race is {race}. The Sex is {sex}. The Marital status is {marital_status}. The Relation to head of the household is {relationship}. The Native country is {native_country}. The Occupation is {occupation}. The Work class is {workclass}. The Capital gain last year is {capital_gain}. The Capital loss last year is {capital_loss}. The Education is {education}. The Work hours per week is {hours_per_week}."
+        },
+        {
+            "name": "template2",
+            "instruction": "You are a bank trying to guess whether a person earns $50,000 in a year. Answer 1 if the person earns more than $50,000 and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+            "input": "The Age is {age}. The Race is {race}. The Sex is {sex}. The Marital status is {marital_status}. The Relation to head of the household is {relationship}. The Native country is {native_country}. The Occupation is {occupation}. The Work class is {workclass}. The Capital gain last year is {capital_gain}. The Capital loss last year is {capital_loss}. The Education is {education}. The Work hours per week is {hours_per_week}."
+        },
+        {
+            "name": "template3",
+            "instruction": "Based on the provided income census information, does this person earn more than {} dollars in a year? Answer with Yes or No only",
+            "input": "The Age is {age}. The Capital gain last year is {capital_gain}. The Capital loss last year is {capital_loss}. The Sex is {sex}. The Occupation is {occupation}. The Work hours per week is {hours_per_week}. The Work class is {workclass}. The Education is {education}. The Native country is {native_country}. The Race is {race}. The Marital status is {marital_status}. The Relation to head of the household is {relationship}."
+        },
+        {
+            "name": "template4",
+            "instruction": "Based on the provided income census information, does this person earn more than $200,000 in a year? Answer 1 if the person earns more than $200,000 dollars and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+            "input": "The Age is {age}. The Capital gain last year is {capital_gain}. The Capital loss last year is {capital_loss}. The Sex is {sex}. The Occupation is {occupation}. The Work hours per week is {hours_per_week}. The Work class is {workclass}. The Education is {education}. The Native country is {native_country}. The Race is {race}. The Marital status is {marital_status}. The Relation to head of the household is {relationship}."
+        },
+        {
+            "name": "template5",
+            "instruction": "Describe the following data in natural language sentences.",
+            "input": "The Age is {age}. The Race is {race}. The Sex is {sex}. The Marital status is {marital_status}. The Relation to head of the household is {relationship}. The Native country is {native_country}. The Occupation is {occupation}. The Work class is {workclass}. The Capital gain last year is {capital_gain}. The Capital loss last year is {capital_loss}. The Education is {education}. The Work hours per week is {hours_per_week}."
+        }
+    ],
+
+    "heart": [
+        {
+            "name": "template1",
+            "instruction": "Does the coronary angiography of this patient show a heart disease? Answer 1 if the patient shows a heart disease and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+            "input": "The age of the {sex} patient is {age}. The patient experiences {cp} chest pain type. The patient's resting blood pressure is {restingbp} mm Hg. The patient's serum cholesterol is {chol} mm/dl. The patient's fasting blood sugar is {fbs} than 120 mg/dl. The resting electrocardiogram results is {restecg}. The patient's maximum heart rate is {maxhr}. The exercise-induced angina is {exang}. The ST depression induced by exercise relative to rest is {oldpeak}. The slope of the peak exercise ST segment is {slope}."
+        },
+        {
+            "name": "template2",
+            "instruction": "You are trying to guess whether the coronary angiography of the patient shows a heart disease. Answer 1 if the patient shows a heart disease and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+            "input": "The age of the {sex} patient is {age}. The patient experiences {cp} chest pain type. The patient's resting blood pressure is {restingbp} mm Hg. The patient's serum cholesterol is {chol} mm/dl. The patient's fasting blood sugar is {fbs} than 120 mg/dl. The resting electrocardiogram results is {restecg}. The patient's maximum heart rate is {maxhr}. The exercise-induced angina is {exang}. The ST depression induced by exercise relative to rest is {oldpeak}. The slope of the peak exercise ST segment is {slope}."
+        }
+    ],
+
+    "creditg": [
+        {
+            "name": "template1",
+            "instruction": "Is the credit risk of this person good or bad? Answer 1 if the person has good credit risk and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why."
+        },
+        {
+            "name": "template2",
+            "instruction": "Does this person receive a credit? Answer 1 if the person receives a credit and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why."
+        }
+    ],
+
+    "diabetes": [
+        {
+            "name": "template1",
+            "instruction": "Does this patient have diabetes? Answer 1 if the patient has diabetes and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why."
+        }
+    ],
+
+    "bank": [
+        {
+            "name": "template1",
+            "instruction": "The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (or not) subscribed. Overall about 30% of the clients do subscribe to a term deposit. Do you believe the following client will subscribe a term deposit? Answer 1 if you believe the client will subscribe and 0 otherwise. Do not answer other than simply 0 or 1. Do not explain why."
+        }
+    ],
+
+    "blood": [
+        {
+            "name": "template1",
+            "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why."
+        }
+    ],
+
+    "calhousing": [
+        {
+            "name": "template1",
+            "instruction": "Given the provided house information, is the house valuable? Answer 1 if the house is valuable and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why."
+        },
+        {
+            "name": "template2",
+            "instruction": "You are trying to guess whether a house is valuable. Answer 1 if the house is above the median house price and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why."
+        }
+    ],
+
+    "jungle": [
+        {
+            "name": "template1",
+            "instruction": "Does white win this game of Jungle Chess? Answer 1 if white wins and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why."
+        }
+    ]
+}

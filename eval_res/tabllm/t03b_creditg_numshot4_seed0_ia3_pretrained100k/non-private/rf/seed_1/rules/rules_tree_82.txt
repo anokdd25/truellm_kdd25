@@ -1,0 +1,29 @@
+|--- 16  <= 1.05
+|   |--- 9_male single  <= 0.50
+|   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |--- 8  <= 4.13
+|   |   |   |   |--- 14_stores  <= 0.50
+|   |   |   |   |   |--- 12_no known property  <= 0.50
+|   |   |   |   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |   |   |   |--- class_bad  <= 0.95
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- class_bad  >  0.95
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 12_no known property  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 14_stores  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 8  >  4.13
+|   |   |   |   |--- class: 0.0|   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |--- class: 1.0|   |--- 9_male single  >  0.50
+|   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |--- 1_>=200  <= 1_>=200 .51_>=200 
+|   |   |   |   |--- 14_stores  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 14_stores  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 1_>=200  >  1_>=200 .51_>=200 
+|   |   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |--- class: 1.0|--- 16  >  1.05
+|   |--- 14_stores  <= 0.50
+|   |   |--- class: 0.0|   |--- 14_stores  >  0.50
+|   |   |--- class: 1.0

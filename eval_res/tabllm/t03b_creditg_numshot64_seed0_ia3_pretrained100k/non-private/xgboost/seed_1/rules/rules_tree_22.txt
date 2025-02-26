@@ -1,0 +1,8 @@
+0:[3<1] yes=1,no=3_critical/other existing credit ,missing=3_critical/other existing credit 
+	1:[31<1] yes=3,no=4,missing=4
+		3:[17<1] yes=7,no=8,missing=8
+			7:leaf=0.0202502552			8:leaf=-0.0830017403		4:[42<-0.708623588] yes=9,no=10,missing=10
+			9:leaf=-0.0360257439			10:leaf=0.0682637617	2:[36<1] yes=5,no=6,missing=6
+		5:[43<0.918017805] yes=11,no=12,missing=12
+			11:leaf=0.0973486453			12:leaf=0.0331870727		6:[26<1] yes=13,no=14,missing=14
+			13:leaf=0.0661369041			14:leaf=-0.0368185677

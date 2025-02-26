@@ -1,0 +1,29 @@
+|--- 12_real estate  <= 0.50
+|   |--- 16  <= 1.05
+|   |   |--- 14_stores  <= 0.50
+|   |   |   |--- 12_life insurance  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 12_life insurance  >  0.50
+|   |   |   |   |--- 16  <= -0.53
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 16  >  -0.53
+|   |   |   |   |   |--- 13  <= 0.59
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 13  >  0.59
+|   |   |   |   |   |   |--- 7_unemployed  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 7_unemployed  >  0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |--- 14_stores  >  0.50
+|   |   |   |--- class: 1.0|   |--- 16  >  1.05
+|   |   |--- 14_none  <= 0.50
+|   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |--- class: 1.0|   |   |--- 14_none  >  0.50
+|   |   |   |--- class: 1.0|--- 12_real estate  >  0.50
+|   |--- 11  <= 0.47
+|   |   |--- 7_<1  <= 0.50
+|   |   |   |--- 4_repairs  <= 0.50
+|   |   |   |   |--- 11  <= -0.42
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 11  >  -0.42
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 4_repairs  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 7_<1  >  0.50
+|   |   |   |--- class: 1.0|   |--- 11  >  0.47
+|   |   |--- class: 1.0

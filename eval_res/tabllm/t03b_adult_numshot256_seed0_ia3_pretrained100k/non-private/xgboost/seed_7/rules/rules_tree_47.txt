@@ -1,0 +1,16 @@
+0:[97<0.555204988] yes=1,no=2,missing=2
+	1:[97<0.139107719] yes=3,no=4,missing=4
+		3:[40<1] yes=7,no=8,missing=8
+			7:[32<1] yes=13,no=14,missing=14
+				13:[38<1] yes=21,no=22,missing=22
+					21:leaf=-0.0248482618					22:leaf=0.0331143439				14:[24<1] yes=6_ Married-civ-spouse ,no=24,missing=24
+					23:leaf=0.0174821205					24:leaf=0.0638165995			8:[91<1] yes=15,no=16,missing=16
+				4_ Bachelors :[16<1] yes=25,no=26,missing=26
+					25:leaf=-0.0902563557					26:leaf=0.0315505564				16:[24<1] yes=27,no=28,missing=28
+					27:leaf=0.00868181605					28:leaf=0.0861772895		4:[97<0.44711 4847] yes=9,no=10,missing=10
+			9:leaf=-0.119969152			10:[18<1] yes=4_ HS-grad ,no=18,missing=18
+				17:[97<0.45202611 3] yes=29,no=30,missing=30
+					29:leaf=-0.00407047896					30:leaf=0.0793354362				18:leaf=-0.0566650927	2:[29<1] yes=5,no=6,missing=6
+		5:[43<1] yes=11,no=12,missing=12
+			11:leaf=0.0999324247			12:[95<-0.122997344] yes=19,no=20,missing=20
+				19:leaf=0.00782150403				20:leaf=0.0551842563		6:leaf=0.019615015

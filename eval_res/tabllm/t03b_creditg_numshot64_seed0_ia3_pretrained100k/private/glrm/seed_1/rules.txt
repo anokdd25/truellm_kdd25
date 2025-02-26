@@ -1,0 +1,30 @@
+0.5048158585572756	(intercept)
+2.88326699298474	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0
+2.5206080852276207	purpose_domestic appliance == 0.0 AND purpose_education == 0.0 AND purpose_radio/tv == 0.0 AND purpose_retraining == 0.0 AND present employment in years_unemployed == 0.0
+-2.379784526971708	property_no known property == 0.0 AND other installment plans_stores == 0.0
+-1.9484773224961323	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0
+1.781305844778878	property_real estate == 1.0
+-1.39156338990462	purpose_other == 0.0 AND property_life insurance == 0.0
+-1.322382337161531	property_real estate == 0.0
+1.3108837382512442	purpose_new car == 0.0
+1.0907645123045417	status of savings accounts/bonds_<100 == 0.0
+1.0893381546964074	status of savings accounts/bonds_no known savings == 1.0
+-1.0130865203402668	credit amount <= 1267.11
+0.9722485618124733	property_life insurance == 1.0
+0.9282193758268183	existing checking account status_no checking == 1.0
+0.8747078968629093	credit history_critical/other existing credit == 1.0
+-0.8519602306005281	purpose_new car == 1.0
+0.7577011475965626	purpose_new car == 0.0 AND present employment in years_unemployed == 0.0
+0.7437630882939681	purpose_radio/tv == 0.0
+0.7187226489940111	property_no known property == 1.0
+0.7166201079356808	existing checking account status_<0 == 0.0
+-0.6318410046859726	status of savings accounts/bonds_<100 == 1.0
+-0.6304146480441044	status of savings accounts/bonds_no known savings == 0.0
+-0.5133250550633616	property_life insurance == 0.0
+-0.46929586807969326	existing checking account status_no checking == 0.0
+-0.41578438924451544	credit history_critical/other existing credit == 0.0
+-0.2848395821567052	purpose_radio/tv == 1.0
+-0.25979914176173113	property_no known property == 0.0
+-0.25769660572648945	existing checking account status_<0 == 1.0
+-0.24481107312406636	credit amount <= 1492.93
+-0.14256223780470914	purpose_other == 0.0 AND status of savings accounts/bonds_no known savings == 0.0

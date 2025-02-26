@@ -1,0 +1,55 @@
+|--- 14_none  <= 0.50
+|   |--- 20_yes  <= 0.50
+|   |   |--- 4_furniture/equipment  <= 0.50
+|   |   |   |--- 1_>=200  <= 1_>=200 .51_>=200 
+|   |   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |   |--- class_bad  <= 0.95
+|   |   |   |   |   |   |--- 15_rent  <= 0.50
+|   |   |   |   |   |   |   |--- 7_>=7  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 7_>=7  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 15_rent  >  0.50
+|   |   |   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |   |   |--- 1_no checking  <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |--- 1_no checking  >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- class_bad  >  0.95
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |--- 1_>=200  >  1_>=200 .51_>=200 
+|   |   |   |   |--- class: 0.0|   |   |--- 4_furniture/equipment  >  0.50
+|   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |--- class: 1.0|   |--- 20_yes  >  0.50
+|   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |--- 12_no known property  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 12_no known property  >  0.50
+|   |   |   |   |--- 7_<1  <= 0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 7_<1  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |--- class: 1.0|--- 14_none  >  0.50
+|   |--- 3_critical/other existing credit  <= 0.50
+|   |   |--- 14_stores  <= 0.50
+|   |   |   |--- 7_unemployed  <= 0.50
+|   |   |   |   |--- 1_>=200  <= 1_>=200 .51_>=200 
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 1_>=200  >  1_>=200 .51_>=200 
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 7_unemployed  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- 14_stores  >  0.50
+|   |   |   |--- 12_life insurance  <= 0.50
+|   |   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 12_life insurance  >  0.50
+|   |   |   |   |--- 4_education  <= 0.50
+|   |   |   |   |   |--- 18  <= 0.16
+|   |   |   |   |   |   |--- 6_no known savings  <= 0.50
+|   |   |   |   |   |   |   |--- 4_repairs  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 4_repairs  >  0.50
+|   |   |   |   |   |   |   |   |--- 8  <= -0.43
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |--- 8  >  -0.43
+|   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 6_no known savings  >  0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 18  >  0.16
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 4_education  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |--- 3_critical/other existing credit  >  0.50
+|   |   |--- class: 1.0

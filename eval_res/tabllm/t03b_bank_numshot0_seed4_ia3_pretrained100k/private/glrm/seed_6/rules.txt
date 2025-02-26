@@ -1,0 +1,40 @@
+0.024703834041428462	(intercept)
+-4.2591101131364	outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND outcome of the previous marketing campaign_unknown == 0.0
+2.3196348219948795	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND number of contacts performed during this campaign and for this client > 1.00
+-2.2655578724891976	education level_tertiary == 0.0
+-1.737691744814677	number of contacts performed during this campaign and for this client <= 3.01
+-1.4269370945504518	type of job_entrepreneur == 0.0 AND type of job_self-employed == 0.0 AND has personal loan_yes == 0.0 AND marketing contact communication type_telephone == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND number of days passed after the client was last contacted from a previous campaign > -0.85
+-1.275163863880369	has housing loan_yes == 0.0 AND outcome of the previous marketing campaign_other == 0.0
+1.2382185541150936	number of contacts performed before this campaign and for this client <= 2.01
+1.225244228580829	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND has housing loan_yes == 1.0
+1.0928239624820129	type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND age <= 56.01 AND age > 34.03
+-1.0024784093090484	type of job_technician == 0.0
+-1.0000999159576391	average yearly balance in euros <= 22.58
+0.9644688709024248	marketing contact communication type_unknown == 0.0
+-0.9420108393915471	marketing contact communication type_unknown == 1.0
+0.9318897834838032	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND age <= 56.01 AND age > 29.04
+-0.902065233908718	last contact day <= 19.97
+0.899564408225988	type of job_student == 0.0 AND type of job_unemployed == 0.0 AND marketing contact communication type_unknown == 0.0
+-0.8454398547474223	has personal loan_yes == 0.0 AND outcome of the previous marketing campaign_other == 0.0
+0.834220331138737	type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND last contact duration > 57.29
+0.7756861611674349	type of job_blue-collar == 0.0 AND type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND age <= 56.01
+-0.6014901308686638	average yearly balance in euros <= 448.84
+0.5818371538004191	type of job_housemaid == 0.0 AND type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND marital status_married == 1.0 AND has credit in default_yes == 0.0 AND age <= 56.01
+-0.4994352832474131	type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND last contact duration > 88.19
+0.49125041032125094	number of contacts performed before this campaign and for this client <= 0.00
+0.4269939602395122	type of job_student == 0.0 AND type of job_unemployed == 0.0 AND marital status_married == 1.0
+0.4182616755258458	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND average yearly balance in euros > 22.58
+0.40509238168735073	type of job_unemployed == 0.0 AND last contact duration > 88.19
+0.3940516297119688	type of job_housemaid == 0.0 AND type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND age <= 56.01 AND age > 32.02
+-0.3867919609301707	last contact duration <= 368.90
+0.3679630445718309	type of job_unemployed == 0.0 AND average yearly balance in euros > 22.58
+-0.34350098008700075	has housing loan_yes == 0.0
+0.32365214031162587	type of job_unemployed == 0.0 AND average yearly balance in euros > 144.37
+0.2951598549146175	type of job_unemployed == 0.0 AND last contact duration > 147.43
+-0.2626655769873847	average yearly balance in euros <= 692.42
+0.2319232699532595	education level_tertiary == 0.0 AND outcome of the previous marketing campaign_other == 0.0
+-0.21911027731522975	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND marketing contact communication type_unknown == 0.0
+-0.21766383508694348	average yearly balance in euros <= 1849.43
+-0.216580044562382	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND has credit in default_yes == 0.0 AND age <= 56.01 AND average yearly balance in euros > -7.87 AND number of days passed after the client was last contacted from a previous campaign > -0.85
+-0.09374151518814029	average yearly balance in euros <= 1118.69
+-0.03632769941646341	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has credit in default_yes == 0.0 AND outcome of the previous marketing campaign_unknown == 1.0 AND age <= 56.01

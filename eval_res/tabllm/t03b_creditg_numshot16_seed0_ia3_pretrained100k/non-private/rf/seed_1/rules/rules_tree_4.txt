@@ -1,0 +1,29 @@
+|--- 4_furniture/equipment  <= 0.50
+|   |--- 3_critical/other existing credit  <= 0.50
+|   |   |--- 7_4<=X<7  <= 0.50
+|   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |--- 14_stores  <= 0.50
+|   |   |   |   |   |--- 15_own  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 15_own  >  0.50
+|   |   |   |   |   |   |--- 16  <= -0.22
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 16  >  -0.22
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 14_stores  >  0.50
+|   |   |   |   |   |--- 6_no known savings  <= 0.50
+|   |   |   |   |   |   |--- 6_>=1000  <= 0.50
+|   |   |   |   |   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |   |   |   |   |--- 4_other  <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |--- 4_other  >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 6_>=1000  >  0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 6_no known savings  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- 7_4<=X<7  >  0.50
+|   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |--- 4_repairs  <= 0.50
+|   |   |   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 4_repairs  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |--- 3_critical/other existing credit  >  0.50
+|   |   |--- class: 1.0|--- 4_furniture/equipment  >  0.50
+|   |--- class: 0.0

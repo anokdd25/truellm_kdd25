@@ -1,0 +1,23 @@
+3.658557520770375	(intercept)
+6.216577482769496	purpose_repairs == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND other installment plans_stores == 0.0 AND duration of the credit in months > 11.98 AND existing_credits <= 3.00
+5.716247634066362	purpose_domestic appliance == 0.0 AND purpose_repairs == 0.0 AND present employment in years_unemployed == 0.0 AND personal status_male div/sep == 0.0 AND job_unemp/unskilled non res == 0.0 AND duration of the credit in months <= 35.98 AND duration of the credit in months > 14.99
+-5.423763897029098	existing checking account status_>=200 == 0.0 AND credit history_delayed previously == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND property_life insurance == 0.0 AND credit amount > 928.39 AND installment commitment > 1.00 AND age <= 52.04 AND existing_credits <= 2.00
+-4.489459673464824	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_other == 0.0 AND credit amount <= 7166.63 AND credit amount > 928.39
+-4.406013565152055	purpose_other == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND personal status_male mar/wid == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND duration of the credit in months > 8.96 AND credit amount <= 7166.63 AND credit amount > 928.39 AND age > 25.99
+3.982472192987125	existing checking account status_<0 == 0.0 AND purpose_repairs == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND other installment plans_stores == 0.0 AND existing_credits <= 3.00
+3.849383272380965	existing checking account status_no checking == 1.0
+-3.5890880689017677	existing checking account status_no checking == 0.0 AND credit history_critical/other existing credit == 0.0 AND purpose_domestic appliance == 0.0 AND purpose_other == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND foreign worker_yes == 1.0 AND credit amount > 928.39 AND existing_credits <= 3.00
+3.3672828208489145	purpose_domestic appliance == 0.0 AND purpose_repairs == 0.0 AND other installment plans_none == 1.0 AND other installment plans_stores == 0.0 AND job_unemp/unskilled non res == 0.0 AND credit amount <= 2847.85 AND existing_credits <= 3.00
+-3.1511922357671747	purpose_furniture/equipment == 0.0 AND purpose_retraining == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND property_no known property == 0.0 AND foreign worker_yes == 1.0
+-3.1381714924180124	credit history_critical/other existing credit == 0.0 AND purpose_other == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND housing_rent == 0.0 AND foreign worker_yes == 1.0 AND installment commitment > 1.00 AND existing_credits <= 3.00
+-3.1100309948020097	purpose_retraining == 0.0 AND property_life insurance == 0.0 AND property_real estate == 0.0 AND age <= 52.04
+-2.928317581663818	purpose_other == 0.0 AND purpose_retraining == 0.0 AND duration of the credit in months <= 14.99 AND duration of the credit in months > 8.96 AND credit amount > 928.39
+-2.906308012889666	existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND purpose_other == 0.0 AND credit amount > 928.39
+2.863730302408435	credit history_delayed previously == 0.0 AND purpose_domestic appliance == 0.0 AND purpose_repairs == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND other installment plans_stores == 0.0 AND job_unemp/unskilled non res == 0.0 AND duration of the credit in months <= 35.98 AND age > 23.03 AND existing_credits <= 3.00
+-2.5197942122935975	purpose_education == 0.0 AND purpose_other == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND property_life insurance == 0.0 AND foreign worker_yes == 1.0 AND duration of the credit in months > 8.96 AND credit amount > 928.39 AND existing_credits <= 3.00
+2.2294741353383825	status of savings accounts/bonds_<100 == 0.0
+-2.213932036273814	credit history_delayed previously == 0.0 AND purpose_education == 0.0 AND property_real estate == 0.0
+1.9636894838695482	status of savings accounts/bonds_<100 == 0.0 AND present employment in years_unemployed == 0.0
+-0.5234219027163769	existing checking account status_no checking == 0.0
+0.4051172665887832	credit history_critical/other existing credit == 1.0
+0.24084901077150983	purpose_repairs == 0.0 AND job_unemp/unskilled non res == 0.0 AND installment commitment <= 3.00

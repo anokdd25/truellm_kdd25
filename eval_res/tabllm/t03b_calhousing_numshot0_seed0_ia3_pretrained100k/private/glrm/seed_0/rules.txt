@@ -1,0 +1,10 @@
+-2.584367527139072	(intercept)
+-4.6511098410897365	location of the house with respect to ocean/sea_NEAR BAY == 0.0 AND location of the house with respect to ocean/sea_NEAR OCEAN == 0.0
+-2.595636013045862	location of the house with respect to ocean/sea_NEAR OCEAN == 0.0
+1.5590420903058049	location of the house with respect to ocean/sea_INLAND == 0.0 AND total rooms within a block > 934.10 AND population within a block > 508.18 AND median income for households within a block (in tens of thousands USD) <= 6.15
+1.3746865389526444	location of the house with respect to ocean/sea_INLAND == 0.0 AND population within a block > 508.18 AND median income for households within a block (in tens of thousands USD) <= 6.15 AND median income for households within a block (in tens of thousands USD) > 3.15
+1.3576836142962072	location of the house with respect to ocean/sea_INLAND == 0.0 AND median age of the house within a block > 24.99 AND population within a block > 508.18 AND total number of households within a block > 182.21
+1.2644177856412722	location of the house with respect to ocean/sea_INLAND == 0.0 AND median age of the house within a block > 13.03 AND total bedrooms within a block > 198.26 AND population within a block > 508.18
+-1.0958984782937922	location of the house with respect to ocean/sea_INLAND == 0.0 AND location of the house with respect to ocean/sea_NEAR OCEAN == 1.0 AND population within a block > 508.18
+0.8882054189241911	location of the house with respect to ocean/sea_INLAND == 0.0 AND median age of the house within a block > 33.04
+0.8475679103091015	location of the house with respect to ocean/sea_INLAND == 0.0 AND total bedrooms within a block > 378.55 AND population within a block > 508.18

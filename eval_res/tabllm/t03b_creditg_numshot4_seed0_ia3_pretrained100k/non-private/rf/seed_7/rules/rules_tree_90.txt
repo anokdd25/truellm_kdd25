@@ -1,0 +1,21 @@
+|--- 9_male div/sep  <= 0.50
+|   |--- 14_stores  <= 0.50
+|   |   |--- class_bad  <= 0.95
+|   |   |   |--- 18  <= 0.16
+|   |   |   |   |--- class: 1.0|   |   |   |--- 18  >  0.16
+|   |   |   |   |--- 10_none  <= 0.50
+|   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 10_none  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |--- class_bad  >  0.95
+|   |   |   |--- class: 1.0|   |--- 14_stores  >  0.50
+|   |   |--- class: 1.0|--- 9_male div/sep  >  0.50
+|   |--- 12_real estate  <= 0.50
+|   |   |--- 11  <= 0.02
+|   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |--- class: 1.0|   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |--- class: 0.0|   |   |--- 11  >  0.02
+|   |   |   |--- class: 1.0|   |--- 12_real estate  >  0.50
+|   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 3_delayed previously  >  0.50
+|   |   |   |--- class: 1.0

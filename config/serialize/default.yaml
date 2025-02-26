@@ -1,0 +1,11 @@
+general:
+  dataset: heart
+  seed: 0
+  test_size: 0.2
+  generate: False #True to generate samples on dataset and do serialization on generated sample
+  serialization_method: template1
+  inflation: 1
+
+gen:
+  size: 5000
+  clean: True #True to replace generated negative continuous values with 0

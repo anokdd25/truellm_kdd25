@@ -1,0 +1,5 @@
+0:[14_ United-States <1] yes=1,no=2,missing=2
+	1:[13 <-0.359382987] yes=3,no=4,missing=4
+		3:leaf=-0.0525884256		4:leaf=0.0141736176	2:[4_ Some-college <1] yes=5,no=6,missing=6
+		5:[4_ 11th <1] yes=7,no=4_ 11th ,missing=4_ 11th 
+			7:leaf=0.063491419			8:leaf=-0.0104535315		6:leaf=-0.0251937024

@@ -1,0 +1,18 @@
+-5.693105241365397	(intercept)
+-5.076066175060878	workclass_ Federal-gov == 0.0 AND education_ Doctorate == 0.0 AND education_ Masters == 0.0 AND marital_status_ Married-spouse-absent == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Priv-house-serv == 0.0 AND occupation_ Prof-specialty == 0.0
+4.317698554192806	marital_status_ Married-civ-spouse == 1.0 AND marital_status_ Never-married == 0.0 AND relationship_ Unmarried == 0.0
+3.175091952371795	education_ 5th-6th == 0.0 AND education_ 7th-8th == 0.0 AND education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0
+2.352274912542207	education_ 7th-8th == 0.0 AND marital_status_ Never-married == 0.0 AND relationship_ Not-in-family == 0.0 AND relationship_ Unmarried == 0.0 AND age > 21.94
+-1.8439216581074807	workclass_ Local-gov == 0.0 AND workclass_ State-gov == 0.0 AND education_ Bachelors == 0.0 AND occupation_ Prof-specialty == 0.0
+1.7622803759014933	marital_status_ Never-married == 0.0 AND native_country_ Mexico == 0.0 AND age > 26.03
+1.7607769325488971	marital_status_ Never-married == 0.0 AND relationship_ Not-in-family == 0.0
+1.3334471657027118	marital_status_ Never-married == 0.0 AND relationship_ Unmarried == 0.0 AND sex_ Male == 1.0
+1.2798896514890463	marital_status_ Never-married == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND occupation_ Transport-moving == 0.0 AND age > 32.99
+1.2295636105990717	marital_status_ Never-married == 0.0 AND relationship_ Own-child == 0.0 AND relationship_ Unmarried == 0.0
+-1.216872157976704	workclass_ Self-emp-inc == 0.0 AND occupation_ Prof-specialty == 0.0 AND race_ Asian-Pac-Islander == 0.0
+-1.1696362903824873	education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0
+0.9187846944588247	workclass_ Private == 0.0 AND marital_status_ Never-married == 0.0
+0.9007682415951958	education_ 7th-8th == 0.0 AND education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0
+0.7391838589364743	marital_status_ Never-married == 0.0 AND capital_gain > -30.14
+-0.6055812531293997	education_ 5th-6th == 0.0 AND education_ 7th-8th == 0.0 AND education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0 AND relationship_ Unmarried == 0.0
+-0.4964500953718644	marital_status_ Never-married == 0.0 AND age > 26.03

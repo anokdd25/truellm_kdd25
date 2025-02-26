@@ -1,0 +1,14 @@
+2.615442185475409	(intercept)
+4.005948197798898	location of the house with respect to ocean/sea_INLAND == 0.0
+-3.408026111313995	median income for households within a block (in tens of thousands USD) <= 3.15
+-3.248384642073774	median income for households within a block (in tens of thousands USD) <= 4.44
+-3.0051746733209903	location of the house with respect to ocean/sea_INLAND == 1.0 AND longitude > -117.89 AND median income for households within a block (in tens of thousands USD) <= 5.11
+1.8466199194525155	location of the house with respect to ocean/sea_INLAND == 0.0 AND longitude > -118.13 AND median income for households within a block (in tens of thousands USD) > 2.73
+1.7307782746867244	location of the house with respect to ocean/sea_ISLAND == 0.0 AND longitude > -119.91 AND total bedrooms within a block > 198.26 AND total number of households within a block > 182.21 AND median income for households within a block (in tens of thousands USD) > 3.15
+-1.6282734837870103	location of the house with respect to ocean/sea_INLAND == 1.0
+-1.4579140971374682	median age of the house within a block <= 33.04
+1.3101096246479427	location of the house with respect to ocean/sea_INLAND == 0.0 AND longitude > -117.89 AND median age of the house within a block > 19.96
+-1.2508029120113984	median income for households within a block (in tens of thousands USD) <= 3.53
+-0.9511076053907669	median income for households within a block (in tens of thousands USD) <= 3.97
+-0.9480917976163393	total bedrooms within a block <= 437.25
+-0.3931398726708314	total bedrooms within a block <= 508.52

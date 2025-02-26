@@ -1,0 +1,10 @@
+Class 0:
+
+Position	Weight	Rule
+46	0.3720233142375946	trestbps_132.59 & ~thalach_137.15 & ~oldpeak_0.9 | trestbps_132.59 & ~thalach_137.15 & ~age_53.61
+48	0.44226476550102234	2_M & 3_TA | 2_M & ~3_NAP | 3_TA & ~3_ATA | 3_TA & ~3_NAP | ~3_ATA & ~3_NAP
+55	0.3356625735759735	trestbps_132.59 & oldpeak_0.9 | trestbps_132.59 & ~thalach_137.08 | oldpeak_0.9 & ~chol_199.96 | oldpeak_0.9 & ~thalach_137.08 | ~chol_199.96 & ~thalach_137.08
+72	-0.3796471357345581	3_NAP & ~2_M & ~3_ATA & ~3_TA
+intercept	-0.6461463570594788
+
+

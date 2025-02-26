@@ -1,0 +1,7 @@
+|--- 4_new car  <= 0.50
+|   |--- 12_real estate  <= 0.50
+|   |   |--- class: 0.0|   |--- 12_real estate  >  0.50
+|   |   |--- class: 0.0|--- 4_new car  >  0.50
+|   |--- 14_none  <= 0.50
+|   |   |--- class: 0.0|   |--- 14_none  >  0.50
+|   |   |--- class: 0.0

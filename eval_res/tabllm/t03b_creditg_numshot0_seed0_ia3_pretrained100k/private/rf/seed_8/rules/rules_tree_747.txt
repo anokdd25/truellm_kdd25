@@ -1,0 +1,7 @@
+|--- 4_domestic appliance  <= 0.50
+|   |--- 4_new car  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_new car  >  0.50
+|   |   |--- class: 0.0|--- 4_domestic appliance  >  0.50
+|   |--- 11  <= -0.74
+|   |   |--- class: 0.0|   |--- 11  >  -0.74
+|   |   |--- class: 0.0

@@ -1,0 +1,8 @@
+Number of rules: 83
+Number of conditions: 154
+Accuracy: 0.6
+Train AUC: 0.93
+AUC: 0.6614420062695925
+FPR: 0.45454545454545453
+TPR: 0.6206896551724138
+F1-score: 0.6923076923076923

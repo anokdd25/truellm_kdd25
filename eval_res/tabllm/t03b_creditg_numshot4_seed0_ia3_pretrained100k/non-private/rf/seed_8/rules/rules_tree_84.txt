@@ -1,0 +1,27 @@
+|--- 14_none  <= 0.50
+|   |--- 3_existing paid  <= 0.50
+|   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |--- 1_no checking  <= 0.50
+|   |   |   |   |--- 13  <= 0.59
+|   |   |   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |   |   |--- 5  <= 1.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 5  >  1.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |   |   |--- 5  <= 1.00
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 5  >  1.00
+|   |   |   |   |   |   |   |--- 9_male mar/wid  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 9_male mar/wid  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 13  >  0.59
+|   |   |   |   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |   |   |   |--- 18  <= 0.16
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 18  >  0.16
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |--- 1_no checking  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- 3_delayed previously  >  0.50
+|   |   |   |--- class: 1.0|   |--- 3_existing paid  >  0.50
+|   |   |--- 11  <= -0.42
+|   |   |   |--- 4_repairs  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 4_repairs  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 11  >  -0.42
+|   |   |   |--- class: 1.0|--- 14_none  >  0.50
+|   |--- class: 1.0

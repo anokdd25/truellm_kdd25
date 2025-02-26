@@ -1,0 +1,4 @@
+0:[14_ United-States <1] yes=1,no=2,missing=2
+	1:[13 <-0.359382987] yes=3,no=4,missing=4
+		3:leaf=-0.048216112		4:leaf=0.00459050434	2:[13 <-1.57421076] yes=5,no=6,missing=6
+		5:leaf=-0.0173717104		6:leaf=0.047781121

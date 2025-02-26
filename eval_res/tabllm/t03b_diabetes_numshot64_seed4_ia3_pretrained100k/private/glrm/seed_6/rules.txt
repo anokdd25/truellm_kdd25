@@ -1,0 +1,21 @@
+1.57028385728694	(intercept)
+2.119136105145437	2-hour serum insulin (mu U/ml) <= 30.24
+-1.6507623450587956	age <= 33.01
+-1.6247964706132836	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 125.05
+-1.4195972532293228	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 166.94 AND 2-hour serum insulin (mu U/ml) <= 106.31 AND 2-hour serum insulin (mu U/ml) > 0.28 AND diabetes pedigree function <= 0.88 AND age <= 51.00
+-1.3524134511307884	number of times pregnant <= 1.01
+-1.0800275181539998	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 109.06 AND age <= 51.00
+0.8484303176645922	number of times pregnant > 1.01 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 166.94 AND age > 21.95
+0.6989751367980489	number of times pregnant > 1.99 AND triceps skin fold thickness (mm) > -0.04
+-0.6351520165013756	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 117.06
+0.5588602562351491	number of times pregnant > 0.00 AND triceps skin fold thickness (mm) > -0.04 AND diabetes pedigree function > 0.16
+-0.5051855942826762	number of times pregnant <= 4.01 AND age <= 51.00
+0.48453453955586845	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 125.05 AND age <= 51.00
+-0.44224426546400897	number of times pregnant <= 4.01
+0.4017956840805792	number of times pregnant > 1.01 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03
+0.398771351565485	number of times pregnant > 1.01 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 85.09
+-0.35782251818535893	2-hour serum insulin (mu U/ml) <= 210.03 AND 2-hour serum insulin (mu U/ml) > 0.28 AND age <= 51.00
+0.2564558950544933	number of times pregnant <= 9.00 AND number of times pregnant > 1.01 AND triceps skin fold thickness (mm) > -0.04 AND age > 21.95
+-0.1627740309509066	number of times pregnant <= 3.00
+-0.13663017233739103	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 166.94 AND 2-hour serum insulin (mu U/ml) <= 210.03 AND 2-hour serum insulin (mu U/ml) > 30.24 AND age <= 51.00
+-0.06715018527693402	number of times pregnant <= 1.99

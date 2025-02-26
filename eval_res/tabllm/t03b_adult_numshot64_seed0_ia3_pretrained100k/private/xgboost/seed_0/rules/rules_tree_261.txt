@@ -1,0 +1,12 @@
+0:[43<1] yes=1,no=2,missing=2
+	1:[46<1] yes=3,no=4,missing=4
+		3:[18<1] yes=7,no=8,missing=8
+			7:[95<0.215102687] yes=15,no=16,missing=16
+				15:leaf=0.0162475314				16:leaf=-0.022044003			8:[24<1] yes=17,no=18,missing=18
+				17:leaf=-0				18:leaf=0.0490474217		4:[94<0.104394369] yes=9,no=10,missing=10
+			9:leaf=-0.0612546653			10:[99<0.348480225] yes=19,no=20,missing=20
+				19:leaf=0.00334875821				20:leaf=-0.00586721255	2:[49<1] yes=5,no=6,missing=6
+		5:[97<1.13376021] yes=11,no=12,missing=12
+			11:[22<1] yes=4_ Some-college ,no=22,missing=22
+				21:leaf=-0.0669305027				22:leaf=-0			12:leaf=-0		6:[96<0.0836772174] yes=13,no=14,missing=14
+			13:leaf=-0			14:leaf=0.0128006963

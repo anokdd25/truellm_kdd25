@@ -1,0 +1,25 @@
+|--- 8  <= 1.51
+|   |--- 4_domestic appliance  <= 0.50
+|   |   |--- 20_yes  <= 0.50
+|   |   |   |--- 9_male single  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 9_male single  >  0.50
+|   |   |   |   |--- 4_repairs  <= 0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 4_repairs  >  0.50
+|   |   |   |   |   |--- 16  <= 0.04
+|   |   |   |   |   |   |--- 1_>=200  <= 1_>=200 .51_>=200 
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 1_>=200  >  1_>=200 .51_>=200 
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 16  >  0.04
+|   |   |   |   |   |   |--- class: 0.0|   |   |--- 20_yes  >  0.50
+|   |   |   |--- class: 1.0|   |--- 4_domestic appliance  >  0.50
+|   |   |--- 8  <= -0.39
+|   |   |   |--- class: 1.0|   |   |--- 8  >  -0.39
+|   |   |   |--- class: 0.0|--- 8  >  1.51
+|   |--- 4_furniture/equipment  <= 0.50
+|   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |--- 3_delayed previously  >  0.50
+|   |   |   |--- class: 1.0|   |--- 4_furniture/equipment  >  0.50
+|   |   |--- class: 1.0

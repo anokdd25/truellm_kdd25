@@ -1,0 +1,7 @@
+|--- 4_new car  <= 0.50
+|   |--- 4_used car  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_used car  >  0.50
+|   |   |--- class: 0.0|--- 4_new car  >  0.50
+|   |--- class_bad  <= -1.03
+|   |   |--- class: 0.0|   |--- class_bad  >  -1.03
+|   |   |--- class: 0.0

@@ -1,0 +1,37 @@
+0:[18<1] yes=1,no=2,missing=2
+	1:[52<1] yes=3,no=4,missing=4
+		3:[98<-0.210417613] yes=7,no=8,missing=8
+			7:leaf=-0			8:[40<1] yes=13,no=14,missing=14
+				13:[48<1] yes=21,no=22,missing=22
+					21:[38<1] yes=31,no=32,missing=32
+						31:[31<1] yes=41,no=42,missing=42
+							41:[0<1] yes=51,no=52,missing=52
+								51:[47<1] yes=59,no=60,missing=60
+									59:[4<1] yes=67,no=68,missing=68
+										67:leaf=-0.144491792										68:leaf=-0									60:leaf=-0								52:leaf=-0							42:leaf=-0						32:leaf=-0					22:leaf=-0				14:leaf=-0		4:[95<0.0115963 33] yes=9,no=10,missing=10
+			9:[43<1] yes=15,no=16,missing=16
+				15:[46<1] yes=23,no=24,missing=24
+					23:[96<-0.0212147497] yes=33,no=34,missing=34
+						33:leaf=-0						34:[95<-0.0849780515] yes=43,no=44,missing=44
+							43:[94<0.468887657] yes=53,no=54,missing=54
+								53:[40<1] yes=61,no=62,missing=62
+									61:[35<1] yes=69,no=70,missing=70
+										69:leaf=0.132101461										70:leaf=-0									62:leaf=-0								54:leaf=-0							44:leaf=-0					24:leaf=-0				16:[96<-0.412073404] yes=25,no=26,missing=26
+					25:leaf=-0					26:[95<-0.100250095] yes=35,no=36,missing=36
+						35:[99<1.22978306] yes=45,no=46,missing=46
+							45:leaf=-0.0426121093							46:leaf=-0						36:leaf=-0			10:[44<1] yes=17,no=18,missing=18
+				17:[96<-0.585201323] yes=27,no=28,missing=28
+					27:leaf=-0					28:[94<0.990426064] yes=37,no=38,missing=38
+						37:[15<1] yes=47,no=48,missing=48
+							47:[46<1] yes=55,no=56,missing=56
+								55:[99<1.38538301] yes=63,no=64,missing=64
+									63:[42<1] yes=71,no=72,missing=72
+										71:leaf=0.164273635										72:leaf=-0									64:leaf=-0								56:leaf=-0							48:leaf=-0						38:leaf=-0				18:leaf=-0	2:[97<0.306570768] yes=5,no=6,missing=6
+		5:[1<1] yes=11,no=12,missing=12
+			11:[6<1] yes=19,no=20,missing=20
+				19:[48<1] yes=29,no=30,missing=30
+					29:[4<1] yes=2_ Sel-emp-inc 9,no=40,missing=40
+						39:[98<1.85360456] yes=49,no=50,missing=50
+							49:[47<1] yes=57,no=58,missing=58
+								57:[95<1.61372924] yes=65,no=66,missing=66
+									65:leaf=-0.14157322									66:leaf=-0								58:leaf=-0							50:leaf=-0						40:leaf=-0					30:leaf=-0				20:leaf=-0			12:leaf=-0		6:leaf=-0

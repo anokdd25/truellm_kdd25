@@ -1,0 +1,6 @@
+3.7467448717020324	(intercept)
+-3.432543727606137	number of times pregnant > 1.01 AND 2-hour serum insulin (mu U/ml) <= 0.28 AND age <= 33.01
+2.9637499733904904	triceps skin fold thickness (mm) > -0.04 AND age > 21.95
+-2.225309637768522	2-hour serum insulin (mu U/ml) <= 0.28
+2.1465029178635824	2-hour serum insulin (mu U/ml) <= 0.28 AND age <= 33.01
+-1.0734555612318422	age <= 21.95

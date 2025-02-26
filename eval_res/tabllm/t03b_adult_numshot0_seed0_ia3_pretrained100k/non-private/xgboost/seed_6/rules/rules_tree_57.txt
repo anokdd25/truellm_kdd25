@@ -1,0 +1,5 @@
+2_ Local-gov :[1<1] yes=1,no=2,missing=2
+	1:[91<1] yes=3,no=4,missing=4
+		3:[95<0.670920432] yes=5,no=6,missing=6
+			5:leaf=-0.0360416062			6:leaf=0.053140223		4:[51<1] yes=7,no=8,missing=8
+			7:leaf=-0.00870837271			8:leaf=0.0602701716	2:leaf=-0.0721131787

@@ -1,0 +1,13 @@
+4.996409109217901	(intercept)
+-11.509578144382434	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND purpose_used car == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND other installment plans_stores == 0.0 AND credit amount > 928.39 AND existing_credits <= 2.00
+7.758207156434609	purpose_furniture/equipment == 0.0 AND credit amount <= 7166.63 AND credit amount > 1267.11 AND age > 23.03
+-6.631318584813091	existing checking account status_no checking == 0.0 AND property_real estate == 0.0
+-6.148514175271718	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND property_real estate == 0.0
+3.4829473490212846	purpose_domestic appliance == 0.0 AND present employment in years_<1 == 0.0 AND present employment in years_>=7 == 0.0 AND credit amount <= 7166.63
+-3.3765320177631124	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_delayed previously == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND present employment in years_4<=X<7 == 0.0 AND existing_credits <= 3.00 AND Number of people being liable to provide maintenance for  == 1.00
+3.373002406267578	existing checking account status_<0 == 0.0
+-3.0681767606441177	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND existing_credits <= 1.00
+-3.0640293172207866	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND present residence since in years > 2.00
+-2.921618804212059	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND credit amount <= 2311.53 AND credit amount > 928.39
+2.4451330002292173	existing checking account status_no checking == 1.0
+1.6129164552273505	status of savings accounts/bonds_<100 == 0.0

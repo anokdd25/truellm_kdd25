@@ -1,0 +1,34 @@
+0:[32<1] yes=1,no=2,missing=2
+	1:[38<1] yes=3,no=4,missing=4
+		3:[19<1] yes=7,no=8,missing=8
+			7:[16<1] yes=13,no=14,missing=14
+				13:[1<1] yes=21,no=22,missing=22
+					21:[6<1] yes=31,no=32,missing=32
+						31:[17<1] yes=41,no=42,missing=42
+							41:[29<1] yes=49,no=50,missing=50
+								49:[25<1] yes=57,no=58,missing=58
+									57:[41<1] yes=63,no=64,missing=64
+										63:leaf=-0.149468243										64:leaf=-0									58:leaf=-0								50:leaf=-0							42:leaf=-0						32:leaf=-0					22:leaf=-0				14:[96<-0.296579897] yes=23,no=24,missing=24
+					23:[29<1] yes=33,no=34,missing=34
+						33:[98<1.38457346] yes=43,no=44,missing=44
+							2_ Sel-emp-not-inc 3:[5<1] yes=51,no=52,missing=52
+								51:[40<1] yes=59,no=60,missing=60
+									59:leaf=-0.053504575									60:leaf=-0								52:leaf=-0							44:leaf=-0						34:leaf=-0					24:[43<1] yes=35,no=36,missing=36
+						35:[46<1] yes=8_ Unmarried ,no=46,missing=46
+							45:[26<1] yes=53,no=54,missing=54
+								53:[94<-1.4927454] yes=61,no=62,missing=62
+									61:leaf=-0									62:[42<1] yes=65,no=66,missing=66
+										65:leaf=0.125463992										66:leaf=-0								54:leaf=-0							46:leaf=-0						36:leaf=-0			8:[99<0.224742338] yes=15,no=16,missing=16
+				15:[94<0.97132647] yes=25,no=26,missing=26
+					25:[94<-1.41558039] yes=37,no=38,missing=38
+						37:leaf=-0						38:leaf=0.110556774					26:leaf=-0				16:leaf=-0		4:[24<1] yes=9,no=10,missing=10
+			9:leaf=-0			10:[8<1] yes=14_ 11th ,no=18,missing=18
+				17:[99<-1.12895072] yes=27,no=28,missing=28
+					27:leaf=-0					28:leaf=0.159812599				18:leaf=-0	2:[97<-0.133734912] yes=5,no=6,missing=6
+		5:leaf=-0		6:[98<1.4191525] yes=11,no=12,missing=12
+			11:[95<-1.7443 231] yes=19,no=20,missing=20
+				19:leaf=-0				20:[94<-0.802066624] yes=29,no=30,missing=30
+					29:leaf=-0					30:[97<2.27506185] yes=39,no=40,missing=40
+						39:[27<1] yes=47,no=48,missing=48
+							47:[28<1] yes=55,no=56,missing=56
+								55:leaf=0.203738645								56:leaf=-0							48:leaf=-0						40:leaf=-0			12:leaf=-0

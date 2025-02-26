@@ -1,0 +1,17 @@
+-1.4556454995036532	(intercept)
+-6.439506378421395	workclass_ Federal-gov == 0.0 AND workclass_ Self-emp-inc == 0.0 AND workclass_ Self-emp-not-inc == 0.0 AND workclass_ State-gov == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0 AND capital_gain <= -30.14
+-5.074536432928107	marital_status_ Married-civ-spouse == 0.0
+-4.219154026080333	workclass_ Local-gov == 0.0 AND workclass_ State-gov == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Tech-support == 0.0
+4.0900571472041145	marital_status_ Never-married == 0.0 AND education_num > 9.00
+3.7512223433351894	marital_status_ Married-civ-spouse == 1.0
+3.0207890296121818	education_ 1st-4th == 0.0 AND education_ 7th-8th == 0.0 AND education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0 AND age > 21.94
+2.647870419825898	marital_status_ Never-married == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND sex_ Male == 1.0 AND native_country_ Mexico == 0.0
+-2.3815819652383072	marital_status_ Married-civ-spouse == 0.0 AND occupation_ Prof-specialty == 0.0
+-2.182265256340758	marital_status_ Married-civ-spouse == 1.0 AND marital_status_ Never-married == 0.0 AND occupation_ Machine-op-inspct == 0.0
+2.1444417768262283	education_ 1st-4th == 0.0 AND education_ 7th-8th == 0.0 AND marital_status_ Never-married == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND relationship_ Unmarried == 0.0 AND age > 21.94
+1.9199786315609324	workclass_ Private == 0.0 AND marital_status_ Never-married == 0.0
+1.367858982314848	marital_status_ Never-married == 0.0 AND occupation_ Machine-op-inspct == 0.0 AND age > 32.99
+-1.1877434606742219	workclass_ Local-gov == 0.0 AND education_ Bachelors == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0
+1.011862723074514	marital_status_ Never-married == 0.0 AND education_num > 10.00
+0.6811074720998126	workclass_ Private == 1.0 AND occupation_ Exec-managerial == 0.0
+-0.3015048329354212	education_ HS-grad == 0.0 AND marital_status_ Never-married == 0.0

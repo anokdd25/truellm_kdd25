@@ -1,0 +1,25 @@
+0:[24<1] yes=1,no=2,missing=2
+	1:[97<1.27853453] yes=3,no=4,missing=4
+		3:[38<1] yes=7,no=8,missing=8
+			7:[97<0.366045266] yes=15,no=16,missing=16
+				15:leaf=-0.130047575				16:[94<0.250604451] yes=29,no=30,missing=30
+					29:leaf=-0.105782166					30:leaf=-0.0141093405			8:[94<0.103981547] yes=17,no=18,missing=18
+				17:[0<1] yes=31,no=32,missing=32
+					31:leaf=-0.127099901					32:leaf=-0.0483627133				18:[3<1] yes=33,no=34,missing=34
+					33:leaf=-0.108197473					34:leaf=0.0194906462		2_ Sel-emp-not-inc :[5<1] yes=9,no=10,missing=10
+			9:[43<1] yes=19,no=20,missing=20
+				19:leaf=0.169415489				20:[26<1] yes=35,no=36,missing=36
+					35:leaf=0.0867545009					36:leaf=-0.0445454493			10:leaf=-0.0823387057	2:[94<-0.335887194] yes=5,no=6,missing=6
+		5:[96<0.357334077] yes=11,no=12,missing=12
+			11:[97<0.45202611 3] yes=21,no=22,missing=22
+				21:[38<1] yes=7_ Pro-specialty ,no=38,missing=38
+					37:leaf=-0.114313297					38:leaf=0.10561391				22:leaf=0.137146503			12:[38<1] yes=23,no=24,missing=24
+				23:[32<1] yes=39,no=40,missing=40
+					39:leaf=-0.029789228					40:leaf=0.145711109				24:leaf=0.18753022		6:[96<-0.031355 459] yes=13,no=14,missing=14
+			13:[96<-0.808746815] yes=25,no=26,missing=26
+				25:[31<1] yes=41,no=42,missing=42
+					41:leaf=-0.0958691612					42:leaf=0.0634630993				26:[5<1] yes=2_ Sel-emp-not-inc 3,no=2_ Sel-emp-not-inc 2_ Sel-emp-not-inc ,missing=2_ Sel-emp-not-inc 2_ Sel-emp-not-inc 
+					43:leaf=0.119045198					44:leaf=-0.0582847707			12_ Sel-emp-not-inc :[5<1] yes=27,no=28,missing=28
+				27:[99<-2.38409615] yes=45,no=46,missing=46
+					45:leaf=-0.0377436988					46:leaf=0.210829958				28:[33<1] yes=47,no=48,missing=48
+					47:leaf=0.113515973					48:leaf=-0.0720860213

@@ -1,0 +1,27 @@
+Class 0:
+
+Position	Weight	Rule
+12	-1.4458625316619873	2_student | 2_unemployed
+13	-0.8206164240837097	2_unknown & ~3_married | 3_single & ~2_unemployed
+15	-0.5553683638572693	5_yes & 8_yes & ~4_unknown | 5_yes & ~4_unknown & ~7_yes | 8_yes & ~4_unknown & ~7_yes
+39	-0.4526712894439697	2_unemployed
+51	-0.6728978157043457	2_housemaid
+54	-1.264474868774414	3_married
+68	-1.5169050693511963	~2_student
+78	-0.6778197288513184	~Last Contact Duration_256.9 & ~Campaign_2.75 & ~Pdays_39.7 | ~Last Contact Duration_256.9 & ~Campaign_2.75 & ~Previous_0.57 | ~Campaign_2.75 & ~Pdays_39.7 & ~Previous_0.57
+88	0.5840737223625183	16_unknown | 16_success & Age_
+99	2.310481309890747	3_single | ~2_unemployed
+101	-0.547539472579956	8_yes | ~4_unknown | 5_yes & 7_yes
+105	-0.5282918214797974	Pdays_ | ~Last Contact Month_ | Last Contact Duration_ & Campaign_
+108	-0.4786278307437897	Previous_0.57 | ~Last Contact Duration_256.9 | Campaign_2.75 & Pdays_39.7
+113	-0.7642484903335571	2_services
+114	3.6027963161468506	2_unemployed & ~3_married & ~3_single
+116	-0.5595445036888123	4_unknown & ~5_yes & ~7_yes & ~8_yes
+118	0.6601041555404663	16_other & ~Age_
+119	0.502180278301239	Age_ & ~Balance (euros)_ & ~Last Contact Day_ & ~Last Contact Month_
+126	0.5395366549491882	2_blue-collar | 2_housemaid
+129	0.8725597262382507	2_unemployed | 3_married
+132	0.5206807851791382	8_yes | 9_unknown & ~16_other
+intercept	5.303744316101074
+
+

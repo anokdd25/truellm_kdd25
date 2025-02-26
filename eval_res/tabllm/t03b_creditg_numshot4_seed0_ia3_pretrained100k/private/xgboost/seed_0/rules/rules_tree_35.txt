@@ -1,0 +1,11 @@
+0:[27<1] yes=1,no=2,missing=2
+	1:[4<1] yes=3_delayed previously ,no=4,missing=4
+		3:[29<1] yes=7,no=8,missing=8
+			7:[15<1] yes=13,no=4_used car ,missing=4_used car 
+				13:leaf=0.021652244				14:leaf=-0.0930418894			8:[34<1] yes=15,no=16,missing=16
+				15:leaf=-0				16:leaf=0.137578011		4:[31<1] yes=9,no=10,missing=10
+			9:[45<0.371406764] yes=17,no=18,missing=18
+				17:leaf=-0.219890192				18:leaf=-0			10:[43<-0.0721909776] yes=19,no=20,missing=20
+				19:leaf=-0.0149616757				20:leaf=0.0924329907	2:[9<1] yes=5,no=6,missing=6
+		5:[47<0.450099498] yes=11,no=12,missing=12
+			11:leaf=-0.195081249			12:leaf=-0		6:leaf=-0

@@ -1,0 +1,6 @@
+0:[20<1] yes=1,no=2,missing=2
+	1:[9<1] yes=3,no=4,missing=4
+		3:[11<1] yes=5,no=6,missing=6
+			5:[29<0.011326055] yes=7,no=8,missing=8
+				7:leaf=-0.0232193451				8:leaf=0.0177592747			2_student :[7<1] yes=9,no=10,missing=10
+				9:leaf=0.0382021181				10:leaf=-0.0403043479		4:leaf=-0.0183386803	2:leaf=-0.0566014759

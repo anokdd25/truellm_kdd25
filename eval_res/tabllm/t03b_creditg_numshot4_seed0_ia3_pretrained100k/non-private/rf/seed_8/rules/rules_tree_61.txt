@@ -1,0 +1,13 @@
+|--- 14_stores  <= 0.50
+|   |--- 16  <= 0.96
+|   |   |--- 12_life insurance  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 12_life insurance  >  0.50
+|   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |--- 8  <= -0.20
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 8  >  -0.20
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |--- class: 1.0|   |--- 16  >  0.96
+|   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 3_delayed previously  >  0.50
+|   |   |   |--- class: 1.0|--- 14_stores  >  0.50
+|   |--- class: 1.0

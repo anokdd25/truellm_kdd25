@@ -1,0 +1,9 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:[17<1] yes=3,no=4,missing=4
+		3:[43<0.918017805] yes=5,no=6,missing=6
+			5:[10<1] yes=4_new car ,no=10,missing=10
+				9:leaf=-0.0832943469				10:leaf=0.0494441725			6:[32<1] yes=11,no=12,missing=12
+				11:leaf=0.0775725171				12:leaf=0.0194361042		4:[42<-0.813132107] yes=7,no=8,missing=8
+			7:leaf=0.000289261661			8:[43<-0.869748116] yes=13,no=14,missing=14
+				13:leaf=-0.0059480113				14:[9<1] yes=15,no=16,missing=16
+					15:leaf=-0.0999191031					16:leaf=-0.0308383014	2:leaf=0.0929488763

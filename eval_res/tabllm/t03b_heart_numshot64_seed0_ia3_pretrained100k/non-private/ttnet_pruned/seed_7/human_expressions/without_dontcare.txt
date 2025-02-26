@@ -1,0 +1,21 @@
+Class 0:
+
+Position	Weight	Rule
+2	-0.19674208760261536	11_Flat | 11_Up | ~9_Y
+18	0.2248174101114273	9_Y & 11_Flat | 9_Y & 11_Up | 11_Flat & 11_Up | 9_Y & ~7_ST | 11_Flat & ~7_ST
+22	0.2454652190208435	oldpeak_0.92 & age_53.83 | oldpeak_0.92 & trestbps_133.02 | age_53.83 & trestbps_133.02 | oldpeak_0.92 & ~thalach_137.62 | age_53.83 & ~thalach_137.62
+24	0.304828405380249	~3_ATA | ~2_M & ~3_NAP | ~2_M & ~3_TA
+25	0.18654146790504456	~6_1 | ~3_TA & ~7_Normal | ~3_TA & ~7_ST
+27	0.23260317742824554	~age_ | ~11_Up & ~trestbps_ | ~11_Up & ~chol_
+31	0.1980675458908081	~chol_202.47 | ~trestbps_133.02 & ~thalach_137.66 | ~trestbps_133.02 & ~oldpeak_0.92
+33	-0.20413434505462646	7_Normal | ~6_1 | ~7_ST
+38	-0.21564459800720215	age_53.83 | ~oldpeak_0.92 | ~trestbps_133.02
+39	-0.2503625154495239	thalach_137.66 | ~chol_202.47 | ~oldpeak_0.92
+48	-0.2911970317363739	3_ATA | 3_NAP | 3_TA
+50	0.2095159888267517	9_Y | 11_Flat | 11_Up
+51	-0.21785491704940796	age_ | trestbps_ | chol_
+57	-0.300816148519516	3_TA & 7_Normal | 7_Normal & 7_ST | 3_TA & ~6_1 | 7_Normal & ~6_1 | 7_ST & ~6_1
+62	-0.2715897560119629	thalach_137.62 & age_53.83 | age_53.83 & trestbps_133.02 | thalach_137.62 & ~oldpeak_0.92 | age_53.83 & ~oldpeak_0.92 | trestbps_133.02 & ~oldpeak_0.92
+intercept	0.025034919381141663
+
+

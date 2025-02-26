@@ -1,0 +1,5 @@
+0:[2<3_NAP ] yes=3_NAP ,no=2,missing=2
+	1:[12<0.422368675] yes=3,no=4,missing=4
+		3:[1<1] yes=5,no=6,missing=6
+			5:leaf=0.051936157			6:leaf=-0.0273079872		4:[9<1] yes=7,no=11_Up ,missing=11_Up 
+			7:leaf=0.00457089627			8:leaf=-0.056264963	2:leaf=-0.0589633062

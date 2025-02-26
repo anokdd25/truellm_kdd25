@@ -1,0 +1,44 @@
+{
+    "heart": {
+        "sex": {
+            "M": "male",
+            "F": "female"
+        },
+        "cp": {
+            "TA": "typical angina",
+            "ATA": "atypical angina",
+            "NAP": "non-anginal pain",
+            "ASY": "asymptomatic"
+        },
+        "fbs": {
+            "1": "higher",
+            "0": "lower"
+        },
+        "restecg": {
+            "Normal": "normal",
+            "ST": "ST-T wave probability",
+            "LVH": "probable or definite left ventricular hypertrophy"
+        },
+        "exang": {
+            "Y": "yes",
+            "N": "no"
+        },
+        "slope": {
+            "Up": "upsloping",
+            "Down": "downsloping",
+            "Flat": "flat"
+        }
+    },
+
+    "adult": {},
+    "bank": {},
+    "blood": {},
+    "calhousing": {
+        "location of the house with respect to ocean/sea": {
+            "INLAND": "in land",
+            "<1H OCEAN": "less than 1 hour from ocean"
+    }},
+    "creditg": {},
+    "diabetes": {},
+    "jungle": {}
+}

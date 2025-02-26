@@ -1,0 +1,7 @@
+0:[19<1] yes=1,no=2,missing=2
+	1:[41<1] yes=3,no=4,missing=4
+		3:[97<0.444947779] yes=5,no=6,missing=6
+			5:[38<1] yes=9,no=10,missing=10
+				9:leaf=-0.0205783769				10:leaf=0.0233653206			6:[3<1] yes=11,no=12_ Private ,missing=12_ Private 
+				11:leaf=0.0495303795				12:leaf=0.00122655276		4:[95<0.0767971873] yes=7,no=8,missing=8
+			7:leaf=0.089748621			8:leaf=-0.0319174975	2:leaf=0.0330064259

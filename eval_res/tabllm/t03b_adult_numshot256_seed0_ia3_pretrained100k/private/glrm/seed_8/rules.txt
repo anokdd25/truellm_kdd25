@@ -1,0 +1,11 @@
+0.19278663899149234	(intercept)
+-2.0259601776057634	capital_gain <= -30.14
+-1.1315705833183747	education_ Bachelors == 0.0 AND education_ Doctorate == 0.0 AND education_ Masters == 0.0 AND education_ Prof-school == 0.0 AND native_country_ Iran == 0.0 AND native_country_ South == 0.0
+0.4749938593320825	marital_status_ Married-civ-spouse == 1.0
+0.4579754500955937	native_country_ Mexico == 0.0 AND age > 29.99
+0.43793546322414295	occupation_ Craft-repair == 0.0
+-0.4303979706806641	age <= 41.04
+-0.29973336753724356	marital_status_ Married-civ-spouse == 0.0
+-0.26267502571296725	occupation_ Craft-repair == 1.0
+0.25204624136482057	relationship_ Not-in-family == 0.0
+-0.07678638071012676	relationship_ Not-in-family == 1.0

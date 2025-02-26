@@ -1,0 +1,14 @@
+0:[30<1] yes=1,no=2,missing=2
+	1:[29<1] yes=3,no=4,missing=4
+		3:[31<1] yes=7,no=8,missing=8
+			7:[41<-1.27834761] yes=15,no=16,missing=16
+				15:leaf=0.100393809				16:leaf=-0.159700051			8:[35<1] yes=17,no=18,missing=18
+				17:leaf=0.108947113				18:leaf=-0.152617201		4:[47<-0.307371289] yes=9,no=10,missing=10
+			9:[46<1.41678202] yes=19,no=20,missing=20
+				19:leaf=0.275406301				20:leaf=-0			10:[47<0.0540674552] yes=21,no=22,missing=22
+				21:leaf=-0.11480879				22:leaf=0.107535265	2:[45<-0.667508125] yes=5,no=6,missing=6
+		5:[45<-1.30680192] yes=11,no=12,missing=12
+			11:leaf=0.126467124			1_no checking 2:[2<1_no checking ] yes=23,no=24,missing=24
+				23:leaf=-0.264480561				24:leaf=0.0348785557		6:[15<1] yes=13,no=4_used car ,missing=4_used car 
+			13:[44<-0.278240025] yes=25,no=26,missing=26
+				25:leaf=0.0270534512				26:leaf=0.296595126			14:leaf=-0.0249498766

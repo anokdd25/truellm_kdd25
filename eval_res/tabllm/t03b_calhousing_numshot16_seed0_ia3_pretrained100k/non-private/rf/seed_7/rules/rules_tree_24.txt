@@ -1,0 +1,11 @@
+|--- 2  <= 0.31
+|   |--- 2  <= -1.01
+|   |   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |   |--- class: 1.0|   |   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |   |--- class: 0.0|   |--- 2  >  -1.01
+|   |   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |   |--- class: 1.0|   |   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |   |--- class: 0.0|--- 2  >  0.31
+|   |--- 9_ISLAND  <= 9_ISLAND .59_ISLAND 
+|   |   |--- class: 1.0|   |--- 9_ISLAND  >  9_ISLAND .59_ISLAND 
+|   |   |--- class: 0.0

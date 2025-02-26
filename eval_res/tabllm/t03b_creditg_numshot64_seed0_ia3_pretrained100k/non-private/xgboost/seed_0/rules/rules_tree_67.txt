@@ -1,0 +1,7 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:[32<1] yes=3,no=4,missing=4
+		3:leaf=-0.0394332856		4:[42<1.5271498] yes=7,no=8,missing=8
+			7:[42<-0.120896146] yes=9,no=10,missing=10
+				9:[45<-1.01499116] yes=11,no=12,missing=12
+					11:leaf=-0.0311085824					12:leaf=0.0287330691				10:leaf=-0.0408985987			8:leaf=0.0399465375	2:[43<0.918017805] yes=5,no=6,missing=6
+		5:leaf=0.0430785604		6:leaf=0.00268635736

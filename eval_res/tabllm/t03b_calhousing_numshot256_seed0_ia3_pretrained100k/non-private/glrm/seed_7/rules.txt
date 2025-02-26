@@ -1,0 +1,16 @@
+-0.18414815380644511	(intercept)
+2.8185530755965607	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) > 2.73
+2.2302035372009894	location of the house with respect to ocean/sea_INLAND == 0.0 AND latitude <= 38.47 AND median income for households within a block (in tens of thousands USD) > 3.15
+-2.064633539709421	location of the house with respect to ocean/sea_INLAND == 1.0 AND median income for households within a block (in tens of thousands USD) <= 5.11
+-1.2277102820250232	median income for households within a block (in tens of thousands USD) <= 4.44
+-1.1352968316832215	median income for households within a block (in tens of thousands USD) <= 3.97
+1.111611694301023	location of the house with respect to ocean/sea_INLAND == 0.0 AND population within a block > 508.18 AND median income for households within a block (in tens of thousands USD) > 2.73
+0.912111664971472	median age of the house within a block > 19.96 AND median income for households within a block (in tens of thousands USD) > 2.73
+-0.8879057598026929	median income for households within a block (in tens of thousands USD) <= 3.53
+-0.8598297192195554	median age of the house within a block <= 29.02 AND median income for households within a block (in tens of thousands USD) <= 5.11
+0.8124704339993559	total rooms within a block > 2133.99 AND median income for households within a block (in tens of thousands USD) > 2.73
+-0.7804953091536345	total bedrooms within a block <= 437.25 AND median income for households within a block (in tens of thousands USD) <= 5.11
+-0.7517202153651229	total bedrooms within a block <= 508.52 AND median income for households within a block (in tens of thousands USD) <= 5.11
+-0.7494411257070603	latitude > 34.26 AND median income for households within a block (in tens of thousands USD) <= 5.11
+-0.5879237092578143	median age of the house within a block <= 33.04 AND median income for households within a block (in tens of thousands USD) <= 5.11
+0.31733455405866884	total number of households within a block <= 472.78 AND median income for households within a block (in tens of thousands USD) <= 5.11

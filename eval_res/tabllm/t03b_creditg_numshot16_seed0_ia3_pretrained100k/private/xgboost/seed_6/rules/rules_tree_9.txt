@@ -1,0 +1,4 @@
+0:[38<1] yes=1,no=2,missing=2
+	1:[6<1] yes=3,no=4,missing=4
+		3:leaf=0.0307557993		4:leaf=0.672382832	2:[2<1_no checking ] yes=5,no=6,missing=6
+		5:leaf=-0.309283316		6:leaf=0.278433323

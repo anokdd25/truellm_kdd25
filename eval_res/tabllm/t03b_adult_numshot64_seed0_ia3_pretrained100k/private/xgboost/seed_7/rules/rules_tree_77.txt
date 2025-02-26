@@ -1,0 +1,11 @@
+0:[8<1] yes=1,no=2,missing=2
+	1:[3<1] yes=3,no=4,missing=4
+		2_ Sel-emp-inc :[4<1] yes=7,no=8,missing=8
+			7:[6<1] yes=13,no=14,missing=14
+				13:leaf=-0.0862330943				14:leaf=0.0813146979			8:[99<-0.0544330068] yes=15,no=16,missing=16
+				15:leaf=0.161938787				16:leaf=-0.0101701906		4:[21<1] yes=9,no=10,missing=10
+			9:[38<1] yes=17,no=18,missing=18
+				17:leaf=-0.000199351212				18:leaf=0.0790153146			10:[46<1] yes=19,no=20,missing=20
+				19:leaf=0.242966786				20:leaf=-0.00351585285	2:[31<1] yes=5,no=6,missing=6
+		5:[52<1] yes=11,no=12,missing=12
+			11:leaf=-0.0509522445			12:leaf=-0.222282216		6:leaf=-0.0110214725

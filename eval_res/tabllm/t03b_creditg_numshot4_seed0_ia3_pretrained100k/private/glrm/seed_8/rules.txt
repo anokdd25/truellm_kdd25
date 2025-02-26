@@ -1,0 +1,8 @@
+2.2506727580764827	(intercept)
+4.156351726920806	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0
+3.1995597848067234	credit history_delayed previously == 0.0 AND present employment in years_unemployed == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND job_unemp/unskilled non res == 0.0 AND job_unskilled resident == 0.0 AND Number of people being liable to provide maintenance for  <= 2.00
+-2.93171823118609	other installment plans_none == 0.0 AND other installment plans_stores == 0.0 AND foreign worker_yes == 1.0
+2.355903181306918	present employment in years_unemployed == 0.0 AND credit amount > 928.39
+-2.127485967543496	existing checking account status_no checking == 0.0 AND purpose_furniture/equipment == 0.0 AND other installment plans_stores == 0.0 AND foreign worker_yes == 1.0
+-2.0758930312080857	other installment plans_none == 0.0 AND other installment plans_stores == 0.0
+-0.8622235746480691	existing checking account status_no checking == 0.0 AND other installment plans_stores == 0.0

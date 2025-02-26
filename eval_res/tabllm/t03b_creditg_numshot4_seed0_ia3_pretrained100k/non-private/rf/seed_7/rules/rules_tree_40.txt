@@ -1,0 +1,33 @@
+|--- 8  <= 3.94
+|   |--- 9_male single  <= 0.50
+|   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |--- 4_new car  <= 0.50
+|   |   |   |   |--- 7_<1  <= 0.50
+|   |   |   |   |   |--- 12_life insurance  <= 0.50
+|   |   |   |   |   |   |--- 4_repairs  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 4_repairs  >  0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 12_life insurance  >  0.50
+|   |   |   |   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |   |   |--- 14_stores  <= 0.50
+|   |   |   |   |   |   |   |   |   |--- 16  <= -0.53
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |   |--- 16  >  -0.53
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |   |--- 14_stores  >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |   |   |   |--- 7_unemployed  <= 0.50
+|   |   |   |   |   |   |   |   |--- 7_>=7  <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |   |--- 7_>=7  >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 7_unemployed  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 7_<1  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 4_new car  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |--- class: 1.0|   |--- 9_male single  >  0.50
+|   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |--- 18  <= 0.16
+|   |   |   |   |--- class: 1.0|   |   |   |--- 18  >  0.16
+|   |   |   |   |--- class: 0.0|   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |--- class: 1.0|--- 8  >  3.94
+|   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |--- class: 0.0|   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |--- class: 1.0

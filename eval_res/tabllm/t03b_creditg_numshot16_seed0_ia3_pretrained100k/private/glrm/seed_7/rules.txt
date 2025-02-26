@@ -1,0 +1,15 @@
+6.298823783354197	(intercept)
+-7.220644648580842	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+6.776609900169297	present employment in years_unemployed == 0.0 AND housing_own == 1.0
+4.175550417877719	present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND job_unskilled resident == 0.0
+-3.1679138105154134	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0
+-2.8517930013825064	existing checking account status_no checking == 0.0 AND personal status_male single == 0.0
+-2.7036894448772038	existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0
+-2.608038329369533	existing checking account status_no checking == 0.0 AND job_skilled == 0.0
+-2.06597808398424	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+2.0407207728880175	existing checking account status_no checking == 0.0 AND housing_own == 0.0
+-1.979550091241696	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND present employment in years_>=7 == 0.0
+-1.4326713825059862	existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND property_real estate == 0.0
+-1.2864467494287317	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_<100 == 1.0
+-1.2635898781441195	existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND purpose_furniture/equipment == 0.0
+-0.5022860160390095	existing checking account status_no checking == 0.0 AND present employment in years_>=7 == 0.0

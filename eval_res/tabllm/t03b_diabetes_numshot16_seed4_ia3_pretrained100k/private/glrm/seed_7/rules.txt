@@ -1,0 +1,2 @@
+2.636141912106784	(intercept)
+3.524251401720022	number of times pregnant > 1.01 AND triceps skin fold thickness (mm) > -0.04

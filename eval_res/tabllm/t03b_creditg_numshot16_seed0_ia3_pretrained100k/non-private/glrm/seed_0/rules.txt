@@ -1,0 +1,21 @@
+3.82679855604975	(intercept)
+-4.210877488781937	existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND present employment in years_<1 == 0.0 AND other installment plans_stores == 0.0
+3.9788349730661263	housing_own == 1.0 AND job_skilled == 1.0
+3.8288257779271224	personal status_male single == 1.0 AND credit amount <= 4710.85 AND present residence since in years > 1.00
+-3.481109775765959	existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND other installment plans_stores == 0.0 AND duration of the credit in months <= 24.04
+3.408847050194257	credit history_critical/other existing credit == 0.0 AND personal status_male mar/wid == 0.0 AND property_no known property == 0.0 AND present residence since in years > 1.00 AND age <= 38.96
+3.347313385630197	credit history_delayed previously == 0.0 AND property_no known property == 0.0 AND job_skilled == 1.0 AND present residence since in years > 1.00
+-3.001694775562327	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND installment commitment <= 3.00
+2.8597575880779984	existing checking account status_no checking == 1.0
+-2.6760680802703347	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND other installment plans_stores == 0.0 AND age <= 52.04
+-2.1807138363494065	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND property_life insurance == 0.0 AND credit amount > 928.39
+-2.1658872714575637	existing checking account status_no checking == 0.0 AND job_skilled == 0.0
+-2.095287464085168	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+-1.9867928455455484	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+-1.9405369037543747	existing checking account status_no checking == 0.0 AND personal status_male single == 0.0
+-1.781226851505101	existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_<100 == 1.0
+-1.2792661960507525	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND Number of people being liable to provide maintenance for  == 1.00
+-1.0871476184885214	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND present employment in years_>=7 == 0.0
+-1.0355413735440264	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit amount > 1492.93
+-0.8949675275976149	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0
+-0.23516280695382638	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND other debtors/guarantors_guarantor == 0.0

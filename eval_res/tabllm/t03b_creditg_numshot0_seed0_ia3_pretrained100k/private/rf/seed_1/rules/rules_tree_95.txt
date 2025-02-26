@@ -1,0 +1,57 @@
+|--- 10_guarantor  <= 0.50
+|   |--- 4_domestic appliance  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_domestic appliance  >  0.50
+|   |   |--- 16  <= 0.49
+|   |   |   |--- class: 0.0|   |   |--- 16  >  0.49
+|   |   |   |--- 5  <= 0.52
+|   |   |   |   |--- class: 0.0|   |   |   |--- 5  >  0.52
+|   |   |   |   |--- 9_male single  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 9_male single  >  0.50
+|   |   |   |   |   |--- class: 0.0|--- 10_guarantor  >  0.50
+|   |--- 4_repairs  <= 0.50
+|   |   |--- 16  <= -0.13
+|   |   |   |--- 4_new car  <= 0.50
+|   |   |   |   |--- 4_used car  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 4_used car  >  0.50
+|   |   |   |   |   |--- 12_no known property  <= 0.50
+|   |   |   |   |   |   |--- class_bad  <= 0.69
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- class_bad  >  0.69
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 12_no known property  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |--- 4_new car  >  0.50
+|   |   |   |   |--- class_bad  <= -0.99
+|   |   |   |   |   |--- 19_yes  <= 0.50
+|   |   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 19_yes  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- class_bad  >  -0.99
+|   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |--- 5  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 5  >  0.50
+|   |   |   |   |   |   |   |--- 7_unemployed  <= 0.50
+|   |   |   |   |   |   |   |   |--- 11  <= 0.55
+|   |   |   |   |   |   |   |   |   |--- class_bad  <= 0.46
+|   |   |   |   |   |   |   |   |   |   |--- 13  <= 0.30
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |   |   |--- 13  >  0.30
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |   |--- class_bad  >  0.46
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |   |--- 11  >  0.55
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 7_unemployed  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |--- 16  >  -0.13
+|   |   |   |--- 16  <= 0.54
+|   |   |   |   |--- class: 0.0|   |   |   |--- 16  >  0.54
+|   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |--- 19_yes  <= 0.50
+|   |   |   |   |   |   |--- 7_unemployed  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 7_unemployed  >  0.50
+|   |   |   |   |   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |   |   |   |   |--- 5  <= -0.25
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |--- 5  >  -0.25
+|   |   |   |   |   |   |   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 19_yes  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |--- 4_repairs  >  0.50
+|   |   |--- class: 0.0

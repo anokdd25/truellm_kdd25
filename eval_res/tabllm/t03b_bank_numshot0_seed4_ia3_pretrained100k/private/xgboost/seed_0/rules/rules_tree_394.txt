@@ -1,0 +1,10 @@
+2_entrepreneur :[1<1] yes=1,no=2,missing=2
+	1:[12<1] yes=3,no=4,missing=4
+		3:[24<-1.30760884] yes=7,no=8,missing=8
+			7:[27<1.17673811 ] yes=11,no=12,missing=12
+				11:leaf=-0.060417302				12:leaf=-0			8:[27<0.103647128] yes=13,no=14,missing=14
+				13:leaf=-0.0129480083				14:leaf=0.00631350232		4:[29<-0.455246329] yes=9,no=10,missing=10
+			9:[0<1] yes=15,no=16,missing=16
+				15:leaf=-0.0445861779				16:leaf=-0			10:[31<0.415 825055] yes=17,no=18,missing=18
+				17:leaf=0.0424527004				18:leaf=-0	2:[24<0.318469852] yes=5,no=6,missing=6
+		5:leaf=0.0552172661		6:leaf=-0

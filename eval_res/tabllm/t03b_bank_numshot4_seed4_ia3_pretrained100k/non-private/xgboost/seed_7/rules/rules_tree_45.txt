@@ -1,0 +1,5 @@
+0:[9<1] yes=1,no=2,missing=2
+	1:[4<1] yes=2_retired ,no=4,missing=4
+		3:leaf=0.0914493725		4:leaf=0.00073888927	2:[11<1] yes=5,no=6,missing=6
+		5:leaf=0.0662284344		6:[24<-0.653203309] yes=7,no=8,missing=8
+			7:leaf=-0.0753901303			8:leaf=0.00558065763

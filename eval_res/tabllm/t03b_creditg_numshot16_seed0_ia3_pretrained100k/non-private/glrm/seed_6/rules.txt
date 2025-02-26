@@ -1,0 +1,20 @@
+2.504328634050355	(intercept)
+-5.027145124634625	existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND present employment in years_<1 == 0.0 AND foreign worker_yes == 1.0
+-4.119038816970253	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND other installment plans_stores == 0.0 AND age <= 52.04
+4.035747281430497	credit history_no credits/all paid == 0.0 AND personal status_male div/sep == 0.0 AND housing_own == 1.0 AND job_unskilled resident == 0.0
+-3.7026795751513433	existing checking account status_no checking == 0.0 AND purpose_domestic appliance == 0.0 AND purpose_new car == 0.0 AND purpose_repairs == 0.0 AND purpose_retraining == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND other installment plans_stores == 0.0 AND foreign worker_yes == 1.0 AND existing_credits <= 3.00
+-3.596003027074659	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND installment commitment <= 3.00
+3.514344945322962	credit amount <= 4710.85 AND present residence since in years > 1.00 AND age > 29.97
+-3.4549419493898337	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_<100 == 1.0
+3.2765979837051757	personal status_male single == 1.0 AND credit amount <= 4710.85 AND existing_credits <= 2.00
+-3.1796822861341782	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND other installment plans_stores == 0.0 AND foreign worker_yes == 1.0
+3.1383564643260105	credit history_critical/other existing credit == 0.0 AND property_no known property == 0.0 AND job_skilled == 1.0
+3.102649561113471	purpose_used car == 0.0 AND personal status_male mar/wid == 0.0 AND present residence since in years > 1.00 AND age <= 44.99
+-2.912908514880164	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0
+2.83818950406649	existing checking account status_no checking == 1.0
+2.7537092999930266	status of savings accounts/bonds_500<=X<1000 == 0.0 AND personal status_male mar/wid == 0.0 AND property_no known property == 0.0 AND credit amount <= 4710.85 AND present residence since in years > 1.00
+-1.8088359946067651	existing checking account status_no checking == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND present employment in years_>=7 == 0.0
+-1.4721914212498564	existing checking account status_no checking == 0.0 AND personal status_male single == 0.0
+-1.3871347955916142	existing checking account status_no checking == 0.0 AND job_skilled == 0.0
+-1.1815495167309173	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0
+0.10568244819017024	existing checking account status_no checking == 0.0 AND purpose_new car == 0.0

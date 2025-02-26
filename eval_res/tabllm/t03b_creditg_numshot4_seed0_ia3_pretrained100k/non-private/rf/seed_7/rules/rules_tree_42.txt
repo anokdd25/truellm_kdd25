@@ -1,0 +1,31 @@
+|--- 14_stores  <= 0.50
+|   |--- 20_yes  <= 0.50
+|   |   |--- 13  <= -0.77
+|   |   |   |--- class: 1.0|   |   |--- 13  >  -0.77
+|   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |--- 11  <= 0.47
+|   |   |   |   |   |--- 14_none  <= 0.50
+|   |   |   |   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 14_none  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 11  >  0.47
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |--- class: 0.0|   |--- 20_yes  >  0.50
+|   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |--- 5  <= 2.74
+|   |   |   |   |--- class: 1.0|   |   |   |--- 5  >  2.74
+|   |   |   |   |--- class: 0.0|   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |--- class: 1.0|--- 14_stores  >  0.50
+|   |--- 9_male mar/wid  <= 0.50
+|   |   |--- 11  <= 0.47
+|   |   |   |--- 6_500<=X<1000  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 6_500<=X<1000  >  0.50
+|   |   |   |   |--- 20_yes  <= 0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 20_yes  >  0.50
+|   |   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |--- 11  >  0.47
+|   |   |   |--- class: 1.0|   |--- 9_male mar/wid  >  0.50
+|   |   |--- 9_male div/sep  <= 0.50
+|   |   |   |--- class: 1.0|   |   |--- 9_male div/sep  >  0.50
+|   |   |   |--- class: 0.0

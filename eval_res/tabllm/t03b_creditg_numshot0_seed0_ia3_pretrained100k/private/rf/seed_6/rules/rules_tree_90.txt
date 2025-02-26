@@ -1,0 +1,13 @@
+|--- 4_new car  <= 0.50
+|   |--- 4_radio/tv  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_radio/tv  >  0.50
+|   |   |--- class: 0.0|--- 4_new car  >  0.50
+|   |--- 10_guarantor  <= 0.50
+|   |   |--- class: 0.0|   |--- 10_guarantor  >  0.50
+|   |   |--- class_bad  <= -0.79
+|   |   |   |--- 18  <= -0.17
+|   |   |   |   |--- class: 0.0|   |   |   |--- 18  >  -0.17
+|   |   |   |   |--- class: 0.0|   |   |--- class_bad  >  -0.79
+|   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |--- class: 0.0|   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |--- class: 0.0

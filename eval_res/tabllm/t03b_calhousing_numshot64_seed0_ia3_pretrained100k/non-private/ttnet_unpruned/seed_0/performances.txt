@@ -1,0 +1,28 @@
+
+ DNF number 1 (~x_2 & ~x_3) | (x_0 & x_1 & ~x_2)
+ DNF number 2 (x_1 & x_3) | (x_3 & ~x_0)
+ DNF number 3 (x_0 & ~x_2) | (x_1 & ~x_2) | (x_1 & ~x_3) | (~x_2 & ~x_3)
+ DNF number 4 None
+ DNF number 5 x_0 & x_1 & ~x_2
+ DNF number 6 x_1 | x_3
+ DNF number 7 x_2 | ~x_3
+ DNF number 8 (x_3 & ~x_0) | (x_3 & ~x_1) | (x_3 & ~x_2) | (~x_0 & ~x_1) | (~x_0 & ~x_2)
+ DNF number 9 None
+ DNF number 10 x_1 | (x_2 & x_3) | (x_2 & ~x_0) | (x_3 & ~x_0)
+ Number of gates 33
+Accuracy (%) 76.63438256658596
+ROC (%) 85.32666056853364
+FPR (%): 7.107843137254902
+TPR (%): 60.76555023923444
+F1-score (%): 72.4679029957204
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 297
+Rules: 72
+
+After Dont Care
+
+Conditions: 233
+Rules: 70
+

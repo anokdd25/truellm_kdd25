@@ -1,0 +1,84 @@
+
+ DNF number 1 None
+ DNF number 2 x_3 | ~x_0
+ DNF number 3 x_0 | ~x_1 | ~x_2
+ DNF number 4 None
+ DNF number 5 x_0 & ~x_3
+ DNF number 6 (x_3 & ~x_0) | (x_3 & ~x_1 & ~x_2)
+ DNF number 7 x_3 | (x_0 & ~x_2)
+ DNF number 8 (~x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 9 x_0 | ~x_1 | (x_2 & x_3)
+ DNF number 10 x_2 & ~x_0 & ~x_1 & ~x_3
+ Number of gates 19
+Accuracy (%) 25.333333333333336
+ROC (%) 45.9703947368421
+FPR (%): 100.0
+TPR (%): 100.0
+F1-score (%): 40.42553191489362
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 19
+Rules: 8
+
+After Dont Care
+
+Conditions: 19
+Rules: 8
+
+
+ DNF number 1 None
+ DNF number 2 x_3 | ~x_0
+ DNF number 3 x_0 | ~x_1 | ~x_2
+ DNF number 4 None
+ DNF number 5 x_0 & ~x_3
+ DNF number 6 x_3 & ~x_0
+ DNF number 7 x_3 | (x_0 & ~x_2) | (~x_1 & ~x_2)
+ DNF number 8 (~x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 9 x_0 | ~x_1 | (x_2 & x_3)
+ DNF number 10 (x_2 & ~x_0 & ~x_1) | (x_2 & ~x_1 & ~x_3)
+ Number of gates 20
+Accuracy (%) 25.333333333333336
+ROC (%) 51.60949248120301
+FPR (%): 100.0
+TPR (%): 100.0
+F1-score (%): 40.42553191489362
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 20
+Rules: 8
+
+After Dont Care
+
+Conditions: 20
+Rules: 8
+
+
+ DNF number 1 None
+ DNF number 2 x_3 | ~x_0
+ DNF number 3 x_0 | ~x_1 | ~x_2
+ DNF number 4 None
+ DNF number 5 x_0 & ~x_3
+ DNF number 6 x_3 & ~x_0
+ DNF number 7 x_3 | (x_0 & ~x_2) | (~x_1 & ~x_2)
+ DNF number 8 (~x_0 & ~x_3) | (~x_1 & ~x_3)
+ DNF number 9 x_0 | ~x_1 | (x_2 & x_3)
+ DNF number 10 (x_2 & ~x_0 & ~x_1) | (x_2 & ~x_1 & ~x_3)
+ Number of gates 20
+Accuracy (%) 25.333333333333336
+ROC (%) 51.60949248120301
+FPR (%): 100.0
+TPR (%): 100.0
+F1-score (%): 40.42553191489362
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 20
+Rules: 8
+
+After Dont Care
+
+Conditions: 20
+Rules: 8
+

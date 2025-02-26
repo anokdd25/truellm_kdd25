@@ -1,0 +1,5 @@
+0:[12<1] yes=1,no=2,missing=2
+	1:[23<1] yes=3,no=4,missing=4
+		3:leaf=-0		4:[29<0.109038994] yes=5,no=6,missing=6
+			5:[26<-1.05089319] yes=7,no=8,missing=8
+				7:leaf=-0				8:leaf=-0.0206687618			6:leaf=-0	2:leaf=-0

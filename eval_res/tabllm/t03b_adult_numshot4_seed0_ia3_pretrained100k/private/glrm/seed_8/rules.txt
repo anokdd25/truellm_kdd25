@@ -1,0 +1,12 @@
+3.7404189957263703	(intercept)
+2.5513795750525237	education_ 7th-8th == 0.0 AND relationship_ Unmarried == 0.0 AND age > 21.94
+-1.8661480600052387	education_ HS-grad == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND age <= 57.95 AND capital_gain <= -30.14
+-1.3028965291944745	capital_gain <= -30.14 AND capital_loss > -1.35
+-1.196655697231152	occupation_ Prof-specialty == 0.0 AND age <= 57.95 AND capital_gain <= -30.14 AND hours_per_week <= 55.01
+-1.189820428031322	education_ HS-grad == 0.0 AND relationship_ Wife == 0.0 AND age <= 57.95 AND capital_gain <= -30.14
+-1.08832411615948	sex_ Male == 0.0 AND capital_gain <= -30.14
+-0.6204952907875809	education_ HS-grad == 0.0 AND occupation_ Prof-specialty == 0.0 AND capital_gain <= -30.14
+-0.4214880699822685	age <= 32.99 AND capital_gain <= -30.14
+0.2763985883951113	education_ HS-grad == 0.0 AND capital_gain <= -30.14
+0.10379452688757397	occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND age <= 57.95 AND capital_gain <= -30.14
+-0.0021951985160491693	education_ HS-grad == 0.0 AND age <= 57.95 AND capital_gain <= -30.14

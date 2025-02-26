@@ -1,0 +1,261 @@
+Class 0:
+
+Position	Weight	Rule
+14	0.44325220584869385	2_ Never-worked & 2_ Private | 2_ Never-worked & ~2_ Federal-gov | 2_ Private & ~2_ Federal-gov | ~2_ Federal-gov & ~2_ Local-gov
+15	0.20706415176391602	2_ Self-emp-not-inc & 2_ State-gov | 2_ Self-emp-not-inc & ~2_ Private | 2_ State-gov & ~2_ Private | ~2_ Private & ~2_ Self-emp-inc
+19	-0.29317325353622437	4_ Doctorate & 4_ HS-grad | 4_ Doctorate & ~4_ Assoc-voc | 4_ HS-grad & ~4_ Assoc-voc | ~4_ Assoc-voc & ~4_ Bachelors
+20	-0.5147050619125366	4_ Preschool & 4_ Prof-school | 4_ Preschool & ~4_ HS-grad | 4_ Prof-school & ~4_ HS-grad | ~4_ HS-grad & ~4_ Masters
+21	0.16001459956169128	6_ Married-AF-spouse & 6_ Married-civ-spouse | 6_ Married-AF-spouse & ~4_ Prof-school | 6_ Married-civ-spouse & ~4_ Prof-school | ~4_ Prof-school & ~4_ Some-college
+22	-0.15541242063045502	6_ Never-married & 6_ Separated | 6_ Never-married & ~6_ Married-civ-spouse | 6_ Separated & ~6_ Married-civ-spouse | ~6_ Married-civ-spouse & ~6_ Married-spouse-absent
+23	-0.6673269271850586	7_ Adm-clerical & 7_ Armed-Forces | 7_ Adm-clerical & ~6_ Separated | 7_ Armed-Forces & ~6_ Separated | ~6_ Separated & ~6_ Widowed
+24	0.19628266990184784	7_ Exec-managerial & 7_ Farming-fishing | 7_ Exec-managerial & ~7_ Armed-Forces | 7_ Farming-fishing & ~7_ Armed-Forces | ~7_ Armed-Forces & ~7_ Craft-repair
+25	0.13338887691497803	7_ Machine-op-inspct & 7_ Other-service | 7_ Machine-op-inspct & ~7_ Farming-fishing | 7_ Other-service & ~7_ Farming-fishing | ~7_ Farming-fishing & ~7_ Handlers-cleaners
+26	0.24482351541519165	7_ Prof-specialty & 7_ Protective-serv | 7_ Prof-specialty & ~7_ Other-service | 7_ Protective-serv & ~7_ Other-service | ~7_ Other-service & ~7_ Priv-house-serv
+27	0.420417845249176	7_ Tech-support & 7_ Transport-moving | 7_ Tech-support & ~7_ Protective-serv | 7_ Transport-moving & ~7_ Protective-serv | ~7_ Protective-serv & ~7_ Sales
+28	-0.1466788649559021	8_ Other-relative & 8_ Own-child | 8_ Other-relative & ~7_ Transport-moving | 8_ Own-child & ~7_ Transport-moving | ~7_ Transport-moving & ~8_ Not-in-family
+29	0.4372987151145935	8_ Wife & 9_ Asian-Pac-Islander | 8_ Wife & ~8_ Own-child | 9_ Asian-Pac-Islander & ~8_ Own-child | ~8_ Own-child & ~8_ Unmarried
+31	-0.19711832702159882	14_ Cambodia & 14_ Canada | 14_ Cambodia & ~9_ White | 14_ Canada & ~9_ White | ~9_ White & ~10_ Male
+33	0.8905590176582336	14_ Ecuador & 14_ El-Salvador | 14_ Ecuador & ~14_ Cuba | 14_ El-Salvador & ~14_ Cuba | ~14_ Cuba & ~14_ Dominican-Republic
+34	0.2944797873497009	14_ France & 14_ Germany | 14_ France & ~14_ El-Salvador | 14_ Germany & ~14_ El-Salvador | ~14_ El-Salvador & ~14_ England
+36	0.4844174385070801	14_ Honduras & 14_ Hong | 14_ Honduras & ~14_ Haiti | 14_ Hong & ~14_ Haiti | ~14_ Haiti & ~14_ Holand-Netherlands
+37	0.22867931425571442	14_ India & 14_ Iran | 14_ India & ~14_ Hong | 14_ Iran & ~14_ Hong | ~14_ Hong & ~14_ Hungary
+40	0.4033581018447876	14_ Outlying-US(Guam-USVI-etc) & 14_ Peru | 14_ Outlying-US(Guam-USVI-etc) & ~14_ Mexico | 14_ Peru & ~14_ Mexico | ~14_ Mexico & ~14_ Nicaragua
+41	0.2182214856147766	14_ Poland & 14_ Portugal | 14_ Poland & ~14_ Peru | 14_ Portugal & ~14_ Peru | ~14_ Peru & ~14_ Philippines
+42	0.4121171832084656	14_ Scotland & 14_ South | 14_ Scotland & ~14_ Portugal | 14_ South & ~14_ Portugal | ~14_ Portugal & ~14_ Puerto-Rico
+43	0.5496954917907715	14_ Thailand & 14_ Trinadad&Tobago | 14_ Thailand & ~14_ South | 14_ Trinadad&Tobago & ~14_ South | ~14_ South & ~14_ Taiwan
+44	0.3089565634727478	14_ Vietnam & 14_ Yugoslavia | 14_ Vietnam & ~14_ Trinadad&Tobago | 14_ Yugoslavia & ~14_ Trinadad&Tobago | ~14_ Trinadad&Tobago & ~14_ United-States
+45	-0.6450737118721008	fnlwgt_ & educational-num_ | fnlwgt_ & ~14_ Yugoslavia | educational-num_ & ~14_ Yugoslavia | ~14_ Yugoslavia & ~age_
+48	-0.37228280305862427	capital-loss_122.88 & hours-per-week_41.53 | capital-loss_122.88 & ~educational-num_10.31 | hours-per-week_41.53 & ~educational-num_10.31 | ~educational-num_10.31 & ~capital-gain_1729.71
+49	0.33642277121543884	fnlwgt_198695.88 & educational-num_10.3 | fnlwgt_198695.88 & ~hours-per-week_41.53 | educational-num_10.3 & ~hours-per-week_41.53 | ~hours-per-week_41.53 & ~age_39.73
+51	0.1841471791267395	~2_ Local-gov | ~2_ Never-worked | 2_ Federal-gov & ~2_ Private
+52	0.2598652243614197	~2_ Self-emp-inc | ~2_ Self-emp-not-inc | 2_ Private & ~2_ State-gov
+53	0.3084256947040558	~2_ Without-pay | ~4_ 11th | 2_ State-gov & ~4_ 12th
+55	0.34045881032943726	~4_ 9th | ~4_ Assoc-acdm | 4_ 7th-8th & ~4_ Assoc-voc
+57	-0.39757612347602844	~4_ Masters | ~4_ Preschool | 4_ HS-grad & ~4_ Prof-school
+59	0.12809741497039795	~6_ Married-spouse-absent | ~6_ Never-married | 6_ Married-civ-spouse & ~6_ Separated
+60	1.0503567457199097	~6_ Widowed | ~7_ Adm-clerical | 6_ Separated & ~7_ Armed-Forces
+62	-0.22768190503120422	~7_ Handlers-cleaners | ~7_ Machine-op-inspct | 7_ Farming-fishing & ~7_ Other-service
+64	0.19501805305480957	~7_ Sales | ~7_ Tech-support | 7_ Protective-serv & ~7_ Transport-moving
+65	0.2059088945388794	~8_ Not-in-family | ~8_ Other-relative | 7_ Transport-moving & ~8_ Own-child
+66	0.24532514810562134	~8_ Unmarried | ~8_ Wife | 8_ Own-child & ~9_ Asian-Pac-Islander
+69	-0.26324450969696045	~14_ China | ~14_ Columbia | 14_ Canada & ~14_ Cuba
+70	-0.15779975056648254	~14_ Dominican-Republic | ~14_ Ecuador | 14_ Cuba & ~14_ El-Salvador
+72	0.1857716590166092	~14_ Greece | ~14_ Guatemala | 14_ Germany & ~14_ Haiti
+74	0.15939748287200928	~14_ Hungary | ~14_ India | 14_ Hong & ~14_ Iran
+76	-0.2597057819366455	~14_ Japan | ~14_ Laos | 14_ Jamaica & ~14_ Mexico
+77	-0.6767527461051941	~14_ Nicaragua | ~14_ Outlying-US(Guam-USVI-etc) | 14_ Mexico & ~14_ Peru
+78	-0.22339516878128052	~14_ Philippines | ~14_ Poland | 14_ Peru & ~14_ Portugal
+79	-0.15407255291938782	~14_ Puerto-Rico | ~14_ Scotland | 14_ Portugal & ~14_ South
+80	-0.2321251779794693	~14_ Taiwan | ~14_ Thailand | 14_ South & ~14_ Trinadad&Tobago
+82	-0.1500813364982605	~age_ | ~fnlwgt_ | 14_ Yugoslavia & ~educational-num_
+83	-0.28105390071868896	~capital-gain_ | ~capital-loss_ | educational-num_ & ~hours-per-week_
+85	-0.40633028745651245	~capital-gain_1729.71 | ~capital-loss_122.88 | educational-num_10.31 & ~hours-per-week_41.53
+86	-0.27594348788261414	~age_39.73 | ~fnlwgt_198695.88 | hours-per-week_41.53 & ~educational-num_10.3
+87	-0.45699286460876465	~capital-gain_1701.6 | ~capital-loss_121.35 | educational-num_10.3 & ~hours-per-week_41.48
+89	0.3214356303215027	2_ Private | 2_ Self-emp-inc | 2_ State-gov | ~2_ Self-emp-not-inc
+91	-0.3738366663455963	4_ 12th | 4_ 1st-4th | 4_ 7th-8th | ~4_ 5th-6th
+93	-0.14724862575531006	4_ Assoc-voc | 4_ Bachelors | 4_ HS-grad | ~4_ Doctorate
+94	-0.44509416818618774	4_ HS-grad | 4_ Masters | 4_ Prof-school | ~4_ Preschool
+95	-0.17733725905418396	4_ Prof-school | 4_ Some-college | 6_ Married-civ-spouse | ~6_ Married-AF-spouse
+97	-0.3588758409023285	6_ Separated | 6_ Widowed | 7_ Armed-Forces | ~7_ Adm-clerical
+98	0.32058390974998474	7_ Armed-Forces | 7_ Craft-repair | 7_ Farming-fishing | ~7_ Exec-managerial
+100	-0.6918161511421204	7_ Other-service | 7_ Priv-house-serv | 7_ Protective-serv | ~7_ Prof-specialty
+103	-0.4428909122943878	8_ Own-child | 8_ Unmarried | 9_ Asian-Pac-Islander | ~8_ Wife
+104	0.43420612812042236	9_ Asian-Pac-Islander | 9_ Black | 9_ White | ~9_ Other
+105	-0.28949886560440063	9_ White | 10_ Male | 14_ Canada | ~14_ Cambodia
+107	-0.18389229476451874	14_ Cuba | 14_ Dominican-Republic | 14_ El-Salvador | ~14_ Ecuador
+108	0.2985510528087616	14_ El-Salvador | 14_ England | 14_ Germany | ~14_ France
+109	0.30146685242652893	14_ Germany | 14_ Greece | 14_ Haiti | ~14_ Guatemala
+110	-0.23888519406318665	14_ Haiti | 14_ Holand-Netherlands | 14_ Hong | ~14_ Honduras
+114	-0.5286248326301575	14_ Mexico | 14_ Nicaragua | 14_ Peru | ~14_ Outlying-US(Guam-USVI-etc)
+115	-0.21995413303375244	14_ Peru | 14_ Philippines | 14_ Portugal | ~14_ Poland
+116	0.14749041199684143	14_ Portugal | 14_ Puerto-Rico | 14_ South | ~14_ Scotland
+117	-0.18570074439048767	14_ South | 14_ Taiwan | 14_ Trinadad&Tobago | ~14_ Thailand
+118	-0.33066412806510925	14_ Trinadad&Tobago | 14_ United-States | 14_ Yugoslavia | ~14_ Vietnam
+119	0.31037771701812744	14_ Yugoslavia | age_ | educational-num_ | ~fnlwgt_
+120	0.5793006420135498	educational-num_ | capital-gain_ | hours-per-week_ | ~capital-loss_
+121	-0.25824904441833496	hours-per-week_ | age_39.79 | educational-num_10.31 | ~fnlwgt_199097.56
+122	0.2716403305530548	educational-num_10.31 | capital-gain_1729.71 | hours-per-week_41.53 | ~capital-loss_122.88
+123	0.2857763171195984	hours-per-week_41.53 | age_39.73 | educational-num_10.3 | ~fnlwgt_198695.88
+125	-0.9492077231407166	2_ Federal-gov & ~2_ Private | 2_ Federal-gov & 2_ Local-gov & ~2_ Never-worked | 2_ Local-gov & ~2_ Never-worked & ~2_ Private
+126	-0.2171497493982315	2_ Private & ~2_ State-gov | 2_ Private & 2_ Self-emp-inc & ~2_ Self-emp-not-inc | 2_ Self-emp-inc & ~2_ Self-emp-not-inc & ~2_ State-gov
+127	0.21973972022533417	2_ State-gov & ~4_ 12th | 2_ State-gov & 2_ Without-pay & ~4_ 11th | 2_ Without-pay & ~4_ 11th & ~4_ 12th
+129	-0.1886676847934723	4_ 7th-8th & ~4_ Assoc-voc | 4_ 7th-8th & 4_ 9th & ~4_ Assoc-acdm | 4_ 9th & ~4_ Assoc-acdm & ~4_ Assoc-voc
+131	0.7142757177352905	4_ HS-grad & ~4_ Prof-school | 4_ HS-grad & 4_ Masters & ~4_ Preschool | 4_ Masters & ~4_ Preschool & ~4_ Prof-school
+132	-0.20052406191825867	4_ Prof-school & ~6_ Married-civ-spouse | 4_ Prof-school & 4_ Some-college & ~6_ Married-AF-spouse | 4_ Some-college & ~6_ Married-AF-spouse & ~6_ Married-civ-spouse
+133	0.2327393889427185	6_ Married-civ-spouse & ~6_ Separated | 6_ Married-civ-spouse & 6_ Married-spouse-absent & ~6_ Never-married | 6_ Married-spouse-absent & ~6_ Never-married & ~6_ Separated
+135	-0.40530481934547424	7_ Armed-Forces & ~7_ Farming-fishing | 7_ Armed-Forces & 7_ Craft-repair & ~7_ Exec-managerial | 7_ Craft-repair & ~7_ Exec-managerial & ~7_ Farming-fishing
+136	-0.29805776476860046	7_ Farming-fishing & ~7_ Other-service | 7_ Farming-fishing & 7_ Handlers-cleaners & ~7_ Machine-op-inspct | 7_ Handlers-cleaners & ~7_ Machine-op-inspct & ~7_ Other-service
+137	-0.24156376719474792	7_ Other-service & ~7_ Protective-serv | 7_ Other-service & 7_ Priv-house-serv & ~7_ Prof-specialty | 7_ Priv-house-serv & ~7_ Prof-specialty & ~7_ Protective-serv
+139	-0.28756260871887207	7_ Transport-moving & ~8_ Own-child | 7_ Transport-moving & 8_ Not-in-family & ~8_ Other-relative | 8_ Not-in-family & ~8_ Other-relative & ~8_ Own-child
+142	0.27448463439941406	9_ White & ~14_ Canada | 9_ White & 10_ Male & ~14_ Cambodia | 10_ Male & ~14_ Cambodia & ~14_ Canada
+143	0.39725780487060547	14_ Canada & ~14_ Cuba | 14_ Canada & 14_ China & ~14_ Columbia | 14_ China & ~14_ Columbia & ~14_ Cuba
+145	-0.6453810334205627	14_ El-Salvador & ~14_ Germany | 14_ El-Salvador & 14_ England & ~14_ France | 14_ England & ~14_ France & ~14_ Germany
+146	-0.20851469039916992	14_ Germany & ~14_ Haiti | 14_ Germany & 14_ Greece & ~14_ Guatemala | 14_ Greece & ~14_ Guatemala & ~14_ Haiti
+147	-0.34626859426498413	14_ Haiti & ~14_ Hong | 14_ Haiti & 14_ Holand-Netherlands & ~14_ Honduras | 14_ Holand-Netherlands & ~14_ Honduras & ~14_ Hong
+148	0.387557715177536	14_ Hong & ~14_ Iran | 14_ Hong & 14_ Hungary & ~14_ India | 14_ Hungary & ~14_ India & ~14_ Iran
+152	-0.4901297390460968	14_ Peru & ~14_ Portugal | 14_ Peru & 14_ Philippines & ~14_ Poland | 14_ Philippines & ~14_ Poland & ~14_ Portugal
+153	-0.3197679817676544	14_ Portugal & ~14_ South | 14_ Portugal & 14_ Puerto-Rico & ~14_ Scotland | 14_ Puerto-Rico & ~14_ Scotland & ~14_ South
+154	-0.5054384469985962	14_ South & ~14_ Trinadad&Tobago | 14_ South & 14_ Taiwan & ~14_ Thailand | 14_ Taiwan & ~14_ Thailand & ~14_ Trinadad&Tobago
+155	0.2778454124927521	14_ Trinadad&Tobago & ~14_ Yugoslavia | 14_ Trinadad&Tobago & 14_ United-States & ~14_ Vietnam | 14_ United-States & ~14_ Vietnam & ~14_ Yugoslavia
+156	0.32376089692115784	14_ Yugoslavia & ~educational-num_ | 14_ Yugoslavia & age_ & ~fnlwgt_ | age_ & ~fnlwgt_ & ~educational-num_
+157	0.8196304440498352	educational-num_ & ~hours-per-week_ | educational-num_ & capital-gain_ & ~capital-loss_ | capital-gain_ & ~capital-loss_ & ~hours-per-week_
+158	-0.17356331646442413	hours-per-week_ & ~educational-num_10.31 | hours-per-week_ & age_39.79 & ~fnlwgt_199097.56 | age_39.79 & ~fnlwgt_199097.56 & ~educational-num_10.31
+160	0.16092365980148315	hours-per-week_41.53 & ~educational-num_10.3 | hours-per-week_41.53 & age_39.73 & ~fnlwgt_198695.88 | age_39.73 & ~fnlwgt_198695.88 & ~educational-num_10.3
+162	-0.45529037714004517	2_ Private & ~2_ Federal-gov & ~2_ Local-gov
+163	-0.7449952363967896	2_ State-gov & ~2_ Private & ~2_ Self-emp-inc
+164	0.35180026292800903	4_ 12th & ~2_ State-gov & ~2_ Without-pay
+166	0.20467321574687958	4_ Assoc-voc & ~4_ 7th-8th & ~4_ 9th
+167	0.34244856238365173	4_ HS-grad & ~4_ Assoc-voc & ~4_ Bachelors
+168	0.6265386343002319	4_ Prof-school & ~4_ HS-grad & ~4_ Masters
+171	0.8649601340293884	7_ Armed-Forces & ~6_ Separated & ~6_ Widowed
+173	-0.6584454774856567	7_ Other-service & ~7_ Farming-fishing & ~7_ Handlers-cleaners
+175	-0.30634284019470215	7_ Transport-moving & ~7_ Protective-serv & ~7_ Sales
+176	0.16210788488388062	8_ Own-child & ~7_ Transport-moving & ~8_ Not-in-family
+177	0.42442500591278076	9_ Asian-Pac-Islander & ~8_ Own-child & ~8_ Unmarried
+178	0.17768903076648712	9_ White & ~9_ Asian-Pac-Islander & ~9_ Black
+179	-0.6038129925727844	14_ Canada & ~9_ White & ~10_ Male
+180	0.372212290763855	14_ Cuba & ~14_ Canada & ~14_ China
+181	-0.5116827487945557	14_ El-Salvador & ~14_ Cuba & ~14_ Dominican-Republic
+182	-0.6105334758758545	14_ Germany & ~14_ El-Salvador & ~14_ England
+183	-0.5216244459152222	14_ Haiti & ~14_ Germany & ~14_ Greece
+186	-0.706659197807312	14_ Jamaica & ~14_ Iran & ~14_ Ireland
+187	-0.3415858745574951	14_ Mexico & ~14_ Jamaica & ~14_ Japan
+188	-0.4969462454319	14_ Peru & ~14_ Mexico & ~14_ Nicaragua
+189	-0.15077215433120728	14_ Portugal & ~14_ Peru & ~14_ Philippines
+190	-0.7130818367004395	14_ South & ~14_ Portugal & ~14_ Puerto-Rico
+191	-0.15438765287399292	14_ Trinadad&Tobago & ~14_ South & ~14_ Taiwan
+192	-1.048597812652588	14_ Yugoslavia & ~14_ Trinadad&Tobago & ~14_ United-States
+193	-0.27412673830986023	educational-num_ & ~14_ Yugoslavia & ~age_
+194	0.12990042567253113	hours-per-week_ & ~educational-num_ & ~capital-gain_
+195	-0.1909605711698532	educational-num_10.31 & ~hours-per-week_ & ~age_39.79
+196	-0.24766989052295685	hours-per-week_41.53 & ~educational-num_10.31 & ~capital-gain_1729.71
+197	-0.2812131941318512	educational-num_10.3 & ~hours-per-week_41.53 & ~age_39.73
+198	-0.32549139857292175	hours-per-week_41.48 & ~educational-num_10.3 & ~capital-gain_1701.6
+199	0.19132772088050842	2_ Federal-gov & 2_ Private | 2_ Federal-gov & ~2_ Never-worked | 2_ Private & ~2_ Local-gov | 2_ Private & ~2_ Never-worked | ~2_ Local-gov & ~2_ Never-worked
+200	0.5301492214202881	2_ Private & 2_ State-gov | 2_ Private & ~2_ Self-emp-not-inc | 2_ State-gov & ~2_ Self-emp-inc | 2_ State-gov & ~2_ Self-emp-not-inc | ~2_ Self-emp-inc & ~2_ Self-emp-not-inc
+201	-0.15810281038284302	2_ State-gov & 4_ 12th | 2_ State-gov & ~4_ 11th | 4_ 12th & ~2_ Without-pay | 4_ 12th & ~4_ 11th | ~2_ Without-pay & ~4_ 11th
+203	-0.6236960887908936	4_ 7th-8th & 4_ Assoc-voc | 4_ 7th-8th & ~4_ Assoc-acdm | 4_ Assoc-voc & ~4_ 9th | 4_ Assoc-voc & ~4_ Assoc-acdm | ~4_ 9th & ~4_ Assoc-acdm
+204	-0.20286953449249268	4_ Assoc-voc & 4_ HS-grad | 4_ Assoc-voc & ~4_ Doctorate | 4_ HS-grad & ~4_ Bachelors | 4_ HS-grad & ~4_ Doctorate | ~4_ Bachelors & ~4_ Doctorate
+206	0.23097184300422668	4_ Prof-school & 6_ Married-civ-spouse | 4_ Prof-school & ~6_ Married-AF-spouse | 6_ Married-civ-spouse & ~4_ Some-college | 6_ Married-civ-spouse & ~6_ Married-AF-spouse | ~4_ Some-college & ~6_ Married-AF-spouse
+207	-0.3244943618774414	6_ Married-civ-spouse & 6_ Separated | 6_ Married-civ-spouse & ~6_ Never-married | 6_ Separated & ~6_ Married-spouse-absent | 6_ Separated & ~6_ Never-married | ~6_ Married-spouse-absent & ~6_ Never-married
+208	0.6892563700675964	6_ Separated & 7_ Armed-Forces | 6_ Separated & ~7_ Adm-clerical | 7_ Armed-Forces & ~6_ Widowed | 7_ Armed-Forces & ~7_ Adm-clerical | ~6_ Widowed & ~7_ Adm-clerical
+209	0.6521338224411011	7_ Armed-Forces & 7_ Farming-fishing | 7_ Armed-Forces & ~7_ Exec-managerial | 7_ Farming-fishing & ~7_ Craft-repair | 7_ Farming-fishing & ~7_ Exec-managerial | ~7_ Craft-repair & ~7_ Exec-managerial
+210	0.5462450385093689	7_ Farming-fishing & 7_ Other-service | 7_ Farming-fishing & ~7_ Machine-op-inspct | 7_ Other-service & ~7_ Handlers-cleaners | 7_ Other-service & ~7_ Machine-op-inspct | ~7_ Handlers-cleaners & ~7_ Machine-op-inspct
+214	0.20634327828884125	8_ Own-child & 9_ Asian-Pac-Islander | 8_ Own-child & ~8_ Wife | 9_ Asian-Pac-Islander & ~8_ Unmarried | 9_ Asian-Pac-Islander & ~8_ Wife | ~8_ Unmarried & ~8_ Wife
+216	-0.17788152396678925	9_ White & 14_ Canada | 9_ White & ~14_ Cambodia | 14_ Canada & ~10_ Male | 14_ Canada & ~14_ Cambodia | ~10_ Male & ~14_ Cambodia
+217	0.1500561237335205	14_ Canada & 14_ Cuba | 14_ Canada & ~14_ Columbia | 14_ Cuba & ~14_ China | 14_ Cuba & ~14_ Columbia | ~14_ China & ~14_ Columbia
+218	0.7379022240638733	14_ Cuba & 14_ El-Salvador | 14_ Cuba & ~14_ Ecuador | 14_ El-Salvador & ~14_ Dominican-Republic | 14_ El-Salvador & ~14_ Ecuador | ~14_ Dominican-Republic & ~14_ Ecuador
+219	-0.7836350798606873	14_ El-Salvador & 14_ Germany | 14_ El-Salvador & ~14_ France | 14_ Germany & ~14_ England | 14_ Germany & ~14_ France | ~14_ England & ~14_ France
+220	0.8525468111038208	14_ Germany & 14_ Haiti | 14_ Germany & ~14_ Guatemala | 14_ Haiti & ~14_ Greece | 14_ Haiti & ~14_ Guatemala | ~14_ Greece & ~14_ Guatemala
+221	-0.15134616196155548	14_ Haiti & 14_ Hong | 14_ Haiti & ~14_ Honduras | 14_ Hong & ~14_ Holand-Netherlands | 14_ Hong & ~14_ Honduras | ~14_ Holand-Netherlands & ~14_ Honduras
+222	-0.38597506284713745	14_ Hong & 14_ Iran | 14_ Hong & ~14_ India | 14_ Iran & ~14_ Hungary | 14_ Iran & ~14_ India | ~14_ Hungary & ~14_ India
+223	1.056204080581665	14_ Iran & 14_ Jamaica | 14_ Iran & ~14_ Italy | 14_ Jamaica & ~14_ Ireland | 14_ Jamaica & ~14_ Italy | ~14_ Ireland & ~14_ Italy
+224	-0.22270047664642334	14_ Jamaica & 14_ Mexico | 14_ Jamaica & ~14_ Laos | 14_ Mexico & ~14_ Japan | 14_ Mexico & ~14_ Laos | ~14_ Japan & ~14_ Laos
+225	-0.29107239842414856	14_ Mexico & 14_ Peru | 14_ Mexico & ~14_ Outlying-US(Guam-USVI-etc) | 14_ Peru & ~14_ Nicaragua | 14_ Peru & ~14_ Outlying-US(Guam-USVI-etc) | ~14_ Nicaragua & ~14_ Outlying-US(Guam-USVI-etc)
+226	0.5867220759391785	14_ Peru & 14_ Portugal | 14_ Peru & ~14_ Poland | 14_ Portugal & ~14_ Philippines | 14_ Portugal & ~14_ Poland | ~14_ Philippines & ~14_ Poland
+227	0.16620579361915588	14_ Portugal & 14_ South | 14_ Portugal & ~14_ Scotland | 14_ South & ~14_ Puerto-Rico | 14_ South & ~14_ Scotland | ~14_ Puerto-Rico & ~14_ Scotland
+228	-1.0196572542190552	14_ South & 14_ Trinadad&Tobago | 14_ South & ~14_ Thailand | 14_ Trinadad&Tobago & ~14_ Taiwan | 14_ Trinadad&Tobago & ~14_ Thailand | ~14_ Taiwan & ~14_ Thailand
+229	0.4053032398223877	14_ Trinadad&Tobago & 14_ Yugoslavia | 14_ Trinadad&Tobago & ~14_ Vietnam | 14_ Yugoslavia & ~14_ United-States | 14_ Yugoslavia & ~14_ Vietnam | ~14_ United-States & ~14_ Vietnam
+230	-0.14112550020217896	14_ Yugoslavia & educational-num_ | 14_ Yugoslavia & ~fnlwgt_ | educational-num_ & ~age_ | educational-num_ & ~fnlwgt_ | ~age_ & ~fnlwgt_
+231	-0.182742178440094	educational-num_ & hours-per-week_ | educational-num_ & ~capital-loss_ | hours-per-week_ & ~capital-gain_ | hours-per-week_ & ~capital-loss_ | ~capital-gain_ & ~capital-loss_
+236	0.20001806318759918	~2_ Federal-gov & ~2_ Private | ~2_ Local-gov & ~2_ Private
+237	0.8033543825149536	~2_ Private & ~2_ State-gov | ~2_ Self-emp-inc & ~2_ State-gov
+238	0.6266216039657593	~2_ State-gov & ~4_ 12th | ~2_ Without-pay & ~4_ 12th
+239	0.2624499201774597	~4_ 12th & ~4_ 7th-8th | ~4_ 1st-4th & ~4_ 7th-8th
+240	-0.2812143862247467	~4_ 7th-8th & ~4_ Assoc-voc | ~4_ 9th & ~4_ Assoc-voc
+241	-0.49109113216400146	~4_ Assoc-voc & ~4_ HS-grad | ~4_ Bachelors & ~4_ HS-grad
+242	-0.35421809554100037	~4_ HS-grad & ~4_ Prof-school | ~4_ Masters & ~4_ Prof-school
+243	-0.30369630455970764	~4_ Prof-school & ~6_ Married-civ-spouse | ~4_ Some-college & ~6_ Married-civ-spouse
+244	0.13881635665893555	~6_ Married-civ-spouse & ~6_ Separated | ~6_ Married-spouse-absent & ~6_ Separated
+245	-0.3599720299243927	~6_ Separated & ~7_ Armed-Forces | ~6_ Widowed & ~7_ Armed-Forces
+246	-0.1654920130968094	~7_ Armed-Forces & ~7_ Farming-fishing | ~7_ Craft-repair & ~7_ Farming-fishing
+247	0.5018646717071533	~7_ Farming-fishing & ~7_ Other-service | ~7_ Handlers-cleaners & ~7_ Other-service
+248	0.15389221906661987	~7_ Other-service & ~7_ Protective-serv | ~7_ Priv-house-serv & ~7_ Protective-serv
+249	0.765328049659729	~7_ Protective-serv & ~7_ Transport-moving | ~7_ Sales & ~7_ Transport-moving
+250	0.15419863164424896	~7_ Transport-moving & ~8_ Own-child | ~8_ Not-in-family & ~8_ Own-child
+251	-0.25500112771987915	~8_ Own-child & ~9_ Asian-Pac-Islander | ~8_ Unmarried & ~9_ Asian-Pac-Islander
+252	0.3407554626464844	~9_ Asian-Pac-Islander & ~9_ White | ~9_ Black & ~9_ White
+253	-0.48729339241981506	~9_ White & ~14_ Canada | ~10_ Male & ~14_ Canada
+254	-0.660859227180481	~14_ Canada & ~14_ Cuba | ~14_ China & ~14_ Cuba
+255	0.8746942281723022	~14_ Cuba & ~14_ El-Salvador | ~14_ Dominican-Republic & ~14_ El-Salvador
+256	0.4810180068016052	~14_ El-Salvador & ~14_ Germany | ~14_ England & ~14_ Germany
+258	-0.17298999428749084	~14_ Haiti & ~14_ Hong | ~14_ Holand-Netherlands & ~14_ Hong
+259	-0.28803426027297974	~14_ Hong & ~14_ Iran | ~14_ Hungary & ~14_ Iran
+260	0.4140470027923584	~14_ Iran & ~14_ Jamaica | ~14_ Ireland & ~14_ Jamaica
+261	0.5237191915512085	~14_ Jamaica & ~14_ Mexico | ~14_ Japan & ~14_ Mexico
+263	0.47067102789878845	~14_ Peru & ~14_ Portugal | ~14_ Philippines & ~14_ Portugal
+264	0.5382910966873169	~14_ Portugal & ~14_ South | ~14_ Puerto-Rico & ~14_ South
+265	-0.5361716151237488	~14_ South & ~14_ Trinadad&Tobago | ~14_ Taiwan & ~14_ Trinadad&Tobago
+266	0.5595921874046326	~14_ Trinadad&Tobago & ~14_ Yugoslavia | ~14_ United-States & ~14_ Yugoslavia
+267	0.4904977083206177	~14_ Yugoslavia & ~educational-num_ | ~age_ & ~educational-num_
+268	-0.337543249130249	~educational-num_ & ~hours-per-week_ | ~capital-gain_ & ~hours-per-week_
+270	-0.45986780524253845	~educational-num_10.31 & ~hours-per-week_41.53 | ~capital-gain_1729.71 & ~hours-per-week_41.53
+272	-0.18196681141853333	~educational-num_10.3 & ~hours-per-week_41.48 | ~capital-gain_1701.6 & ~hours-per-week_41.48
+274	-0.18852843344211578	~2_ Self-emp-inc | 2_ Private & 2_ Self-emp-not-inc | 2_ Private & 2_ State-gov | 2_ Self-emp-not-inc & 2_ State-gov
+275	-0.12744899094104767	~2_ Without-pay | 2_ State-gov & 4_ 11th | 2_ State-gov & 4_ 12th | 4_ 11th & 4_ 12th
+276	0.19332784414291382	~4_ 1st-4th | 4_ 12th & 4_ 5th-6th | 4_ 12th & 4_ 7th-8th | 4_ 5th-6th & 4_ 7th-8th
+277	-0.17788726091384888	~4_ 9th | 4_ 7th-8th & 4_ Assoc-acdm | 4_ 7th-8th & 4_ Assoc-voc | 4_ Assoc-acdm & 4_ Assoc-voc
+278	-0.13035407662391663	~4_ Bachelors | 4_ Assoc-voc & 4_ Doctorate | 4_ Assoc-voc & 4_ HS-grad | 4_ Doctorate & 4_ HS-grad
+279	-0.15318477153778076	~4_ Masters | 4_ HS-grad & 4_ Preschool | 4_ HS-grad & 4_ Prof-school | 4_ Preschool & 4_ Prof-school
+280	-0.716458797454834	~4_ Some-college | 4_ Prof-school & 6_ Married-AF-spouse | 4_ Prof-school & 6_ Married-civ-spouse | 6_ Married-AF-spouse & 6_ Married-civ-spouse
+281	0.3735273778438568	~6_ Married-spouse-absent | 6_ Married-civ-spouse & 6_ Never-married | 6_ Married-civ-spouse & 6_ Separated | 6_ Never-married & 6_ Separated
+282	-0.47095948457717896	~6_ Widowed | 6_ Separated & 7_ Adm-clerical | 6_ Separated & 7_ Armed-Forces | 7_ Adm-clerical & 7_ Armed-Forces
+283	0.14457584917545319	~7_ Craft-repair | 7_ Armed-Forces & 7_ Exec-managerial | 7_ Armed-Forces & 7_ Farming-fishing | 7_ Exec-managerial & 7_ Farming-fishing
+284	0.5045927166938782	~7_ Handlers-cleaners | 7_ Farming-fishing & 7_ Machine-op-inspct | 7_ Farming-fishing & 7_ Other-service | 7_ Machine-op-inspct & 7_ Other-service
+285	-0.8415597677230835	~7_ Priv-house-serv | 7_ Other-service & 7_ Prof-specialty | 7_ Other-service & 7_ Protective-serv | 7_ Prof-specialty & 7_ Protective-serv
+287	-0.13984979689121246	~8_ Not-in-family | 7_ Transport-moving & 8_ Other-relative | 7_ Transport-moving & 8_ Own-child | 8_ Other-relative & 8_ Own-child
+288	0.9064556956291199	~8_ Unmarried | 8_ Own-child & 8_ Wife | 8_ Own-child & 9_ Asian-Pac-Islander | 8_ Wife & 9_ Asian-Pac-Islander
+289	0.23822398483753204	~9_ Black | 9_ Asian-Pac-Islander & 9_ Other | 9_ Asian-Pac-Islander & 9_ White | 9_ Other & 9_ White
+291	-0.31770312786102295	~14_ China | 14_ Canada & 14_ Columbia | 14_ Canada & 14_ Cuba | 14_ Columbia & 14_ Cuba
+292	0.7699213027954102	~14_ Dominican-Republic | 14_ Cuba & 14_ Ecuador | 14_ Cuba & 14_ El-Salvador | 14_ Ecuador & 14_ El-Salvador
+293	-1.2011867761611938	~14_ England | 14_ El-Salvador & 14_ France | 14_ El-Salvador & 14_ Germany | 14_ France & 14_ Germany
+294	1.1390894651412964	~14_ Greece | 14_ Germany & 14_ Guatemala | 14_ Germany & 14_ Haiti | 14_ Guatemala & 14_ Haiti
+297	0.7170491218566895	~14_ Ireland | 14_ Iran & 14_ Italy | 14_ Iran & 14_ Jamaica | 14_ Italy & 14_ Jamaica
+298	-0.7322795391082764	~14_ Japan | 14_ Jamaica & 14_ Laos | 14_ Jamaica & 14_ Mexico | 14_ Laos & 14_ Mexico
+299	-0.4848770797252655	~14_ Nicaragua | 14_ Mexico & 14_ Outlying-US(Guam-USVI-etc) | 14_ Mexico & 14_ Peru | 14_ Outlying-US(Guam-USVI-etc) & 14_ Peru
+300	0.2364598512649536	~14_ Philippines | 14_ Peru & 14_ Poland | 14_ Peru & 14_ Portugal | 14_ Poland & 14_ Portugal
+301	0.1338038146495819	~14_ Puerto-Rico | 14_ Portugal & 14_ Scotland | 14_ Portugal & 14_ South | 14_ Scotland & 14_ South
+302	-0.33243706822395325	~14_ Taiwan | 14_ South & 14_ Thailand | 14_ South & 14_ Trinadad&Tobago | 14_ Thailand & 14_ Trinadad&Tobago
+303	0.38400065898895264	~14_ United-States | 14_ Trinadad&Tobago & 14_ Vietnam | 14_ Trinadad&Tobago & 14_ Yugoslavia | 14_ Vietnam & 14_ Yugoslavia
+304	-0.5603644847869873	~age_ | 14_ Yugoslavia & fnlwgt_ | 14_ Yugoslavia & educational-num_ | fnlwgt_ & educational-num_
+305	-0.2496294528245926	~capital-gain_ | educational-num_ & capital-loss_ | educational-num_ & hours-per-week_ | capital-loss_ & hours-per-week_
+306	0.2755948305130005	~age_39.79 | hours-per-week_ & fnlwgt_199097.56 | hours-per-week_ & educational-num_10.31 | fnlwgt_199097.56 & educational-num_10.31
+307	-0.42245715856552124	~capital-gain_1729.71 | educational-num_10.31 & capital-loss_122.88 | educational-num_10.31 & hours-per-week_41.53 | capital-loss_122.88 & hours-per-week_41.53
+308	0.16485156118869781	~age_39.73 | hours-per-week_41.53 & fnlwgt_198695.88 | hours-per-week_41.53 & educational-num_10.3 | fnlwgt_198695.88 & educational-num_10.3
+311	-0.7754789590835571	2_ Self-emp-not-inc & ~2_ Private & ~2_ Self-emp-inc | 2_ Self-emp-not-inc & ~2_ Self-emp-inc & ~2_ State-gov
+312	-0.13916994631290436	4_ 11th & ~2_ State-gov & ~2_ Without-pay | 4_ 11th & ~2_ Without-pay & ~4_ 12th
+313	0.12872940301895142	4_ 5th-6th & ~4_ 12th & ~4_ 1st-4th | 4_ 5th-6th & ~4_ 1st-4th & ~4_ 7th-8th
+314	0.37315359711647034	4_ Assoc-acdm & ~4_ 7th-8th & ~4_ 9th | 4_ Assoc-acdm & ~4_ 9th & ~4_ Assoc-voc
+315	0.998626708984375	4_ Doctorate & ~4_ Assoc-voc & ~4_ Bachelors | 4_ Doctorate & ~4_ Bachelors & ~4_ HS-grad
+316	-0.36107903718948364	4_ Preschool & ~4_ HS-grad & ~4_ Masters | 4_ Preschool & ~4_ Masters & ~4_ Prof-school
+317	-0.23972781002521515	6_ Married-AF-spouse & ~4_ Prof-school & ~4_ Some-college | 6_ Married-AF-spouse & ~4_ Some-college & ~6_ Married-civ-spouse
+318	0.3075832426548004	6_ Never-married & ~6_ Married-civ-spouse & ~6_ Married-spouse-absent | 6_ Never-married & ~6_ Married-spouse-absent & ~6_ Separated
+319	-0.3308197855949402	7_ Adm-clerical & ~6_ Separated & ~6_ Widowed | 7_ Adm-clerical & ~6_ Widowed & ~7_ Armed-Forces
+320	0.3727758228778839	7_ Exec-managerial & ~7_ Armed-Forces & ~7_ Craft-repair | 7_ Exec-managerial & ~7_ Craft-repair & ~7_ Farming-fishing
+321	0.35338595509529114	7_ Machine-op-inspct & ~7_ Farming-fishing & ~7_ Handlers-cleaners | 7_ Machine-op-inspct & ~7_ Handlers-cleaners & ~7_ Other-service
+322	0.4174758791923523	7_ Prof-specialty & ~7_ Other-service & ~7_ Priv-house-serv | 7_ Prof-specialty & ~7_ Priv-house-serv & ~7_ Protective-serv
+323	-0.25736483931541443	7_ Tech-support & ~7_ Protective-serv & ~7_ Sales | 7_ Tech-support & ~7_ Sales & ~7_ Transport-moving
+324	0.1413624882698059	8_ Other-relative & ~7_ Transport-moving & ~8_ Not-in-family | 8_ Other-relative & ~8_ Not-in-family & ~8_ Own-child
+325	0.29054689407348633	8_ Wife & ~8_ Own-child & ~8_ Unmarried | 8_ Wife & ~8_ Unmarried & ~9_ Asian-Pac-Islander
+326	0.262728750705719	9_ Other & ~9_ Asian-Pac-Islander & ~9_ Black | 9_ Other & ~9_ Black & ~9_ White
+327	0.2440035492181778	14_ Cambodia & ~9_ White & ~10_ Male | 14_ Cambodia & ~10_ Male & ~14_ Canada
+328	-0.7182163596153259	14_ Columbia & ~14_ Canada & ~14_ China | 14_ Columbia & ~14_ China & ~14_ Cuba
+329	-0.22856450080871582	14_ Ecuador & ~14_ Cuba & ~14_ Dominican-Republic | 14_ Ecuador & ~14_ Dominican-Republic & ~14_ El-Salvador
+330	0.39479225873947144	14_ France & ~14_ El-Salvador & ~14_ England | 14_ France & ~14_ England & ~14_ Germany
+331	-0.4148261249065399	14_ Guatemala & ~14_ Germany & ~14_ Greece | 14_ Guatemala & ~14_ Greece & ~14_ Haiti
+332	-0.3443860411643982	14_ Honduras & ~14_ Haiti & ~14_ Holand-Netherlands | 14_ Honduras & ~14_ Holand-Netherlands & ~14_ Hong
+334	-0.6641908884048462	14_ Italy & ~14_ Iran & ~14_ Ireland | 14_ Italy & ~14_ Ireland & ~14_ Jamaica
+335	-0.7607444524765015	14_ Laos & ~14_ Jamaica & ~14_ Japan | 14_ Laos & ~14_ Japan & ~14_ Mexico
+336	-1.3441506624221802	14_ Outlying-US(Guam-USVI-etc) & ~14_ Mexico & ~14_ Nicaragua | 14_ Outlying-US(Guam-USVI-etc) & ~14_ Nicaragua & ~14_ Peru
+337	-0.29791340231895447	14_ Poland & ~14_ Peru & ~14_ Philippines | 14_ Poland & ~14_ Philippines & ~14_ Portugal
+338	0.2984321415424347	14_ Scotland & ~14_ Portugal & ~14_ Puerto-Rico | 14_ Scotland & ~14_ Puerto-Rico & ~14_ South
+339	0.5459179282188416	14_ Thailand & ~14_ South & ~14_ Taiwan | 14_ Thailand & ~14_ Taiwan & ~14_ Trinadad&Tobago
+340	-0.19265836477279663	14_ Vietnam & ~14_ Trinadad&Tobago & ~14_ United-States | 14_ Vietnam & ~14_ United-States & ~14_ Yugoslavia
+342	-0.621010959148407	capital-loss_ & ~educational-num_ & ~capital-gain_ | capital-loss_ & ~capital-gain_ & ~hours-per-week_
+344	-0.3369427025318146	capital-loss_122.88 & ~educational-num_10.31 & ~capital-gain_1729.71 | capital-loss_122.88 & ~capital-gain_1729.71 & ~hours-per-week_41.53
+345	0.16872885823249817	fnlwgt_198695.88 & ~hours-per-week_41.53 & ~age_39.73 | fnlwgt_198695.88 & ~age_39.73 & ~educational-num_10.3
+346	-0.22769415378570557	capital-loss_121.35 & ~educational-num_10.3 & ~capital-gain_1701.6 | capital-loss_121.35 & ~capital-gain_1701.6 & ~hours-per-week_41.48
+intercept	-2.0243983268737793
+
+

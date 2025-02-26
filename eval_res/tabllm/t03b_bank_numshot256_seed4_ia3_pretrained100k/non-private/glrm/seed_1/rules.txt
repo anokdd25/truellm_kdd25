@@ -1,0 +1,24 @@
+1.8289843140185298	(intercept)
+-3.430524042334394	outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 368.90
+3.296539084470041	education level_unknown == 0.0 AND has credit in default_yes == 0.0 AND has housing loan_yes == 0.0 AND has personal loan_yes == 0.0
+2.399060361204896	has housing loan_yes == 0.0
+-1.7801280886059891	type of job_unknown == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND outcome of the previous marketing campaign_unknown == 1.0 AND last contact month > 2.99 AND last contact duration <= 549.17
+-1.7689521981898686	outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 278.77
+1.7553185144250385	marketing contact communication type_unknown == 0.0
+-1.550262511014792	outcome of the previous marketing campaign_success == 0.0 AND last contact month > 4.99
+-1.5347788937017501	outcome of the previous marketing campaign_success == 0.0 AND last contact day > 9.98 AND last contact duration <= 549.17
+1.5234854290085769	type of job_unknown == 0.0 AND has housing loan_yes == 1.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 549.17
+1.4294705678650048	has credit in default_yes == 0.0 AND has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0 AND last contact duration > 57.29 AND number of contacts performed during this campaign and for this client <= 4.99
+-1.3525636397511513	last contact duration <= 147.43
+-1.172562690864164	type of job_student == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 368.90
+0.9879462940970004	has credit in default_yes == 0.0 AND marketing contact communication type_unknown == 0.0 AND last contact month <= 10.00 AND last contact duration > 57.29
+-0.9521309762350313	type of job_retired == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact duration <= 368.90
+-0.9155619799505647	type of job_student == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact day > 4.99 AND last contact month > 2.99 AND last contact duration <= 549.17
+-0.8544834549043052	last contact duration <= 222.11
+-0.8448863471418683	education level_tertiary == 0.0 AND outcome of the previous marketing campaign_success == 0.0
+0.7781136217032073	last contact day <= 17.97
+-0.7363473852365134	has housing loan_yes == 1.0
+-0.6306835893823656	average yearly balance in euros <= 266.16
+0.5104585672014141	type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND outcome of the previous marketing campaign_other == 0.0 AND outcome of the previous marketing campaign_success == 0.0 AND last contact month > 2.99 AND last contact duration <= 368.90 AND number of contacts performed before this campaign and for this client <= 2.01
+0.48705350935319625	has credit in default_yes == 0.0 AND marketing contact communication type_unknown == 0.0 AND last contact duration > 88.19
+0.3039955509251769	last contact day <= 15.97

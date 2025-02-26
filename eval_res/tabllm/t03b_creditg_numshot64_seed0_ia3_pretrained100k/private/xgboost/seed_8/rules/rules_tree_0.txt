@@ -1,0 +1,16 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:[17<1] yes=3,no=4,missing=4
+		3:[23<1] yes=7,no=8,missing=8
+			7:[32<1] yes=15,no=16,missing=16
+				15:leaf=-0.208146468				16:leaf=0.191422984			8:[38<1] yes=17,no=18,missing=18
+				17:leaf=-0.609023809				18:leaf=-0.152344376		4:[10<1] yes=4_new car ,no=10,missing=10
+			9:[0<1] yes=19,no=20,missing=20
+				19:leaf=-0.0750959888				20:leaf=-0.417088002			11_>=200 :[1<1] yes=21,no=22,missing=22
+				21:leaf=-0.693435311				22:leaf=-0.207152978	2:[12<1] yes=5,no=6,missing=6
+		5:[23<1] yes=11,no=12,missing=12
+			11:[32<1] yes=23,no=24,missing=24
+				23:leaf=0.208645448				24:leaf=0.429651231			12:[9<1] yes=25,no=26,missing=26
+				25:leaf=-0.273942113				26:leaf=0.113300294		6:[31<1] yes=13,no=14,missing=14
+			13:[29<1] yes=27,no=12_lie insurance ,missing=12_lie insurance 
+				27:leaf=-0.30870378				28:leaf=0.316241622			14:[23<1] yes=29,no=30,missing=30
+				29:leaf=0.421771228				30:leaf=0.0362702981

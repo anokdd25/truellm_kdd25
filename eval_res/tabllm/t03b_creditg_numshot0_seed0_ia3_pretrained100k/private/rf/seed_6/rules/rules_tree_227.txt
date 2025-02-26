@@ -1,0 +1,11 @@
+|--- 4_domestic appliance  <= 0.50
+|   |--- 4_radio/tv  <= 0.50
+|   |   |--- 7_<1  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 7_<1  >  0.50
+|   |   |   |--- 4_new car  <= 0.50
+|   |   |   |   |--- class: 0.0|   |   |   |--- 4_new car  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- 4_radio/tv  >  0.50
+|   |   |--- class: 0.0|--- 4_domestic appliance  >  0.50
+|   |--- class_bad  <= -0.59
+|   |   |--- class: 0.0|   |--- class_bad  >  -0.59
+|   |   |--- class: 0.0

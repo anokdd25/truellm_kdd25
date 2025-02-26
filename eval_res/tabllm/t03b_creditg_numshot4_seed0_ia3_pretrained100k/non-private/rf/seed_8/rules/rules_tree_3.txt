@@ -1,0 +1,23 @@
+|--- 14_stores  <= 0.50
+|   |--- 8  <= -0.66
+|   |   |--- 14_none  <= 0.50
+|   |   |   |--- class: 1.0|   |   |--- 14_none  >  0.50
+|   |   |   |--- 7_unemployed  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 7_unemployed  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- 8  >  -0.66
+|   |   |--- 4_other  <= 0.50
+|   |   |   |--- 15_rent  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 15_rent  >  0.50
+|   |   |   |   |--- class: 0.0|   |   |--- 4_other  >  0.50
+|   |   |   |--- class: 1.0|--- 14_stores  >  0.50
+|   |--- 13  <= 0.59
+|   |   |--- class: 1.0|   |--- 13  >  0.59
+|   |   |--- 9_male div/sep  <= 0.50
+|   |   |   |--- class: 1.0|   |   |--- 9_male div/sep  >  0.50
+|   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |--- class: 1.0|   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |--- class: 1.0

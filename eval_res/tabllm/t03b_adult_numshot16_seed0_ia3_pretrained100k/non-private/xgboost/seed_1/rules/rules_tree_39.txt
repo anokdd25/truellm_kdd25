@@ -1,0 +1,15 @@
+0:[26<1] yes=1,no=2,missing=2
+	1:[38<1] yes=3,no=4,missing=4
+		3:[32<1] yes=7,no=8,missing=8
+			7:[5<1] yes=13,no=12_ Sel-emp-not-inc ,missing=12_ Sel-emp-not-inc 
+				13:[39<1] yes=19,no=20,missing=20
+					19:leaf=-0.0228778236					20:leaf=0.105096951				14:[43<1] yes=21,no=22,missing=22
+					21:leaf=0.0590388849					22:leaf=-0.0407474302			8:[24<1] yes=15,no=16,missing=16
+				15:[94<1.35027635] yes=23,no=24,missing=24
+					23:leaf=0.0310598202					24:leaf=-0.0696182176				16:leaf=0.0923912451		4:[24<1] yes=9,no=10,missing=10
+			9:[94<0.690473199] yes=17,no=18,missing=18
+				17:[27<1] yes=25,no=6_ Separated ,missing=6_ Separated 
+					25:leaf=0.0827901587					26:leaf=0.0295421481				18:[95<-0.805820763] yes=27,no=28,missing=28
+					27:leaf=-0.0596306697					28:leaf=0.0402248316			10:leaf=0.101681434	2:[48<1] yes=5,no=6,missing=6
+		5:leaf=-0.0943129286		6:[3<1] yes=11,no=12_ Private ,missing=12_ Private 
+			11:leaf=0.024227161			12:leaf=-0.0523933433

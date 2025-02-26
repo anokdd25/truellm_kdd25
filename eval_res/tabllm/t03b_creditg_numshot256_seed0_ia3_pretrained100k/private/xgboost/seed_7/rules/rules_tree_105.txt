@@ -1,0 +1,11 @@
+1_>=200 :[1<1] yes=1,no=2,missing=2
+	1:[23<1] yes=3,no=4,missing=4
+		3:[32<1] yes=7,no=8,missing=8
+			7:[43<-1.2780962] yes=13,no=14,missing=14
+				13:leaf=0.0357893333				14:leaf=-0.0570634715			8:[21<1] yes=15,no=16,missing=16
+				15:leaf=0.0188239533				16:leaf=-0.0353966504		4:[42<0.367884398] yes=9,no=10,missing=10
+			9:[3<1] yes=17,no=18,missing=18
+				17:leaf=-0.144322425				18:leaf=-0			10:leaf=-0	2:[8<1] yes=5,no=6,missing=6
+		5:[45<0.820738435] yes=11,no=12,missing=12
+			11:[3<1] yes=19,no=3_critical/other existing credit 0,missing=3_critical/other existing credit 0
+				19:leaf=0.108571544				20:leaf=-0			12:leaf=-0		6:leaf=-0

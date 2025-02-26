@@ -1,0 +1,17 @@
+-3.1002541043686223	(intercept)
+-4.238273452760457	workclass_ Federal-gov == 0.0 AND occupation_ Craft-repair == 0.0 AND occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND capital_gain <= -30.14
+3.185192971077551	workclass_ Private == 1.0 AND marital_status_ Married-civ-spouse == 1.0 AND native_country_ Mexico == 0.0
+3.150779505230235	workclass_ Self-emp-not-inc == 0.0 AND occupation_ Adm-clerical == 0.0 AND occupation_ Handlers-cleaners == 0.0 AND occupation_ Other-service == 0.0 AND relationship_ Not-in-family == 0.0 AND age > 26.03 AND education_num > 6.99 AND hours_per_week > 24.02
+2.5256177643880706	marital_status_ Married-civ-spouse == 1.0 AND age > 36.94
+2.4825606629527237	occupation_ Other-service == 0.0 AND relationship_ Not-in-family == 0.0 AND age > 32.99
+2.3913701577001563	marital_status_ Married-civ-spouse == 1.0 AND education_num > 9.00
+2.2876271008504347	workclass_ Self-emp-not-inc == 0.0 AND occupation_ Other-service == 0.0 AND relationship_ Unmarried == 0.0 AND age > 29.99 AND education_num > 6.99
+-1.8496311489640689	marital_status_ Married-civ-spouse == 0.0 AND capital_gain <= -30.14
+-1.673611173546778	occupation_ Exec-managerial == 0.0 AND occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0
+-1.4900952886319594	occupation_ Protective-serv == 0.0 AND education_num <= 11.01 AND capital_gain <= -30.14
+1.4670909628503048	marital_status_ Never-married == 0.0 AND sex_ Male == 1.0 AND education_num > 6.99
+-1.3134634993346253	occupation_ Prof-specialty == 0.0 AND occupation_ Protective-serv == 0.0 AND capital_gain <= -30.14
+-1.1170942011537959	age <= 41.04 AND capital_gain <= -30.14
+-1.1088280995128081	occupation_ Prof-specialty == 0.0 AND age <= 41.04
+0.6730825280144674	education_num <= 11.01 AND capital_gain <= -30.14
+-0.21621767064908484	marital_status_ Married-civ-spouse == 1.0 AND marital_status_ Never-married == 0.0 AND age > 26.03 AND education_num > 6.99

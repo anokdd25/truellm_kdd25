@@ -1,0 +1,12 @@
+-5.585913874853247	(intercept)
+8.981844884425886	sex_M == 1.0 AND cp_ATA == 0.0 AND cp_NAP == 0.0
+7.88909121307046	sex_M == 1.0 AND cp_ATA == 0.0 AND cp_NAP == 0.0 AND cp_TA == 0.0
+-4.936759196756852	chol > 134.26 AND maxhr <= 151.07 AND maxhr > 102.95
+-4.6862593263959305	exang_Y == 0.0
+4.388899844006471	sex_M == 1.0 AND cp_NAP == 0.0 AND slope_Up == 0.0
+3.7249729475205853	cp_ATA == 0.0 AND cp_NAP == 0.0 AND age <= 62.00 AND age > 40.02 AND chol <= 276.46
+2.0910691108142188	sex_M == 1.0 AND cp_NAP == 0.0 AND age <= 62.00
+1.8465653970959173	cp_NAP == 0.0 AND exang_Y == 1.0 AND chol <= 276.46
+1.8353683613320324	cp_NAP == 0.0 AND slope_Flat == 1.0
+1.3676403710453935	cp_NAP == 0.0 AND restingbp > 109.99 AND chol <= 256.77
+1.0479524180268807	cp_NAP == 0.0 AND exang_Y == 1.0

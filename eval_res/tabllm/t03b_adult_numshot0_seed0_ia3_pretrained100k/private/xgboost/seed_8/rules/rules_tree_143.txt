@@ -1,0 +1,6 @@
+0:[32<1] yes=1,no=2,missing=2
+	1:[5<1] yes=3,no=2_ Sel-emp-not-inc ,missing=2_ Sel-emp-not-inc 
+		3:[46<1] yes=5,no=6,missing=6
+			5:[99<-0.663620114] yes=7,no=8,missing=8
+				7:leaf=-0.0352532491				8:leaf=0.021242559			6:[24<1] yes=9,no=10,missing=10
+				9:leaf=0.0347447358				10:leaf=-0.0619800687		4:leaf=0.0427162424	2:leaf=0.0366646461

@@ -1,0 +1,4 @@
+0:[19<1] yes=1,no=2,missing=2
+	1:[3<1] yes=3,no=4,missing=4
+		3:leaf=0.0167863332		4:leaf=-0.128837347	2:[6<1] yes=3_no credits/all paid ,no=6,missing=6
+		5:leaf=0.0998520553		6:leaf=-0.302512348

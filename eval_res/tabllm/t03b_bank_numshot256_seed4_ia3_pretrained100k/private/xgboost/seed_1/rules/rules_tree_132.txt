@@ -1,0 +1,4 @@
+0:[3<1] yes=1,no=2_management ,missing=2_management 
+	1:[29<0.561720848] yes=3,no=4,missing=4
+		3:leaf=-0		4:leaf=-0.0241464339	2:[28<0.86436522] yes=5,no=6,missing=6
+		5:leaf=0.028638633		6:leaf=-0

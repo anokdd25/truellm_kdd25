@@ -1,0 +1,4 @@
+0:[14<-0.0819110051] yes=1,no=2,missing=2
+	1:[5<1] yes=3,no=7_Normal ,missing=7_Normal 
+		3:leaf=-0.0326095596		4:leaf=-0.00485459529	2:[0<1] yes=5,no=6,missing=6
+		5:leaf=-0.00649251929		6:leaf=0.0459748246

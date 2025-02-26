@@ -1,0 +1,44 @@
+
+------------------------------------------------------------
+ttnet_pruned
+
+Mean Train AUC: nan
+STD Train AUC: nan
+Mean AUC: 0.5176093294460642
+STD AUC: 0.10502467626329026
+Mean Acc: 0.6818181818181818
+STD Acc: 0.0
+Mean TPR: 0.0
+STD TPR: 0.0
+Mean FPR: 0.0
+STD FPR: 0.0
+Mean F1: 0.0
+STD F1: 0.0
+Mean rules: 4.2
+STD rules: 3.4292856398964493
+Mean conditions: 15.4
+STD conditions: 13.245376551838758
+
+
+Train AUCS:{'ttnet_pruned': [nan, nan, nan, nan, nan]}
+
+
+AUCS:{'ttnet_pruned': [0.5980563654033042, 0.41360544217687073, 0.5, 0.6736637512147716, 0.40272108843537413]}
+
+
+ACC:{'ttnet_pruned': [0.6818181818181818, 0.6818181818181818, 0.6818181818181818, 0.6818181818181818, 0.6818181818181818]}
+
+
+TPR:{'ttnet_pruned': [0.0, 0.0, 0.0, 0.0, 0.0]}
+
+
+FPR:{'ttnet_pruned': [0.0, 0.0, 0.0, 0.0, 0.0]}
+
+
+F1:{'ttnet_pruned': [0.0, 0.0, 0.0, 0.0, 0.0]}
+
+
+Rules:{'ttnet_pruned': [4, 9, 0, 7, 1]}
+
+
+Conditions:{'ttnet_pruned': [13, 34, 0, 27, 3]}

@@ -1,0 +1,14 @@
+Class 0:
+
+Position	Weight	Rule
+35	-2.4041755199432373	9_INLAND & ~9_NEAR BAY | 9_INLAND & ~9_NEAR OCEAN
+43	-2.070902109146118	total_bedrooms_2592.9 & ~households_2373.53 | total_bedrooms_2592.9 & ~median_income_13.18
+45	-1.266372561454773	housing_median_age_ & ~9_NEAR OCEAN & ~longitude_ | housing_median_age_ & ~9_NEAR OCEAN & ~latitude_
+49	1.1329203844070435	households_2342.57 & ~total_rooms_13152.27 & ~total_bedrooms_2558.95 | households_2342.57 & ~total_rooms_13152.27 & ~population_6884.53
+58	-1.0185530185699463	total_rooms_13152.27 & households_2342.57 | total_rooms_13152.27 & ~population_6884.53 | households_2342.57 & ~total_bedrooms_2558.95 | households_2342.57 & ~population_6884.53 | ~total_bedrooms_2558.95 & ~population_6884.53
+69	-0.8507096767425537	~latitude_46.1 & ~total_bedrooms_2592.9
+79	0.9948552846908569	total_bedrooms_2592.9 | ~population_6976.23 | households_2373.53 & median_income_13.18
+87	0.9675709009170532	total_rooms_13328.93 & ~latitude_46.1 & ~housing_median_age_90.33 & ~total_bedrooms_2592.9
+intercept	0.18924908339977264
+
+

@@ -1,0 +1,10 @@
+-7.0529203079279315	(intercept)
+3.7510681107854342	type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND marketing contact communication type_unknown == 0.0
+3.3320997851411747	type of job_retired == 0.0 AND type of job_student == 0.0 AND type of job_unemployed == 0.0 AND type of job_unknown == 0.0 AND has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0
+3.069027551570273	marketing contact communication type_unknown == 0.0 AND average yearly balance in euros > -7.87
+1.9063870796356288	type of job_unemployed == 0.0 AND education level_unknown == 0.0 AND marketing contact communication type_unknown == 0.0
+1.8845214520495333	marketing contact communication type_unknown == 0.0 AND age > 29.04
+1.441853675359279	type of job_retired == 0.0 AND type of job_unemployed == 0.0 AND marketing contact communication type_unknown == 0.0
+1.1621063159902163	marketing contact communication type_unknown == 0.0 AND number of contacts performed during this campaign and for this client > 1.00
+0.7509136009289118	has personal loan_yes == 0.0 AND marketing contact communication type_unknown == 0.0
+0.3185707166779942	type of job_student == 0.0 AND type of job_unemployed == 0.0 AND marketing contact communication type_unknown == 0.0 AND average yearly balance in euros > -7.87

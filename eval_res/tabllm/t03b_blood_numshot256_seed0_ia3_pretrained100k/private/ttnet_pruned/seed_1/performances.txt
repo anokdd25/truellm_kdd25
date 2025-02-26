@@ -1,0 +1,84 @@
+
+ DNF number 1 None
+ DNF number 2 (x_1 & ~x_0) | (x_2 & x_3 & ~x_0)
+ DNF number 3 None
+ DNF number 4 (x_0 & x_3) | (x_0 & ~x_1) | (x_0 & ~x_2) | (~x_1 & ~x_2)
+ DNF number 5 x_0 | x_3
+ DNF number 6 ~x_0 & ~x_3
+ DNF number 7 (x_2 & x_3) | (x_2 & ~x_0)
+ DNF number 8 ~x_0 | (x_1 & x_2) | (x_1 & x_3)
+ DNF number 9 x_0 & ~x_1 & ~x_2 & ~x_3
+ DNF number 10 x_0 | (x_2 & ~x_1 & ~x_3)
+ Number of gates 26
+Accuracy (%) 74.66666666666667
+ROC (%) 78.08975563909775
+FPR (%): 19.642857142857142
+TPR (%): 57.89473684210527
+F1-score (%): 53.65853658536586
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 40.0
+Before Dont Care
+
+Conditions: 17
+Rules: 5
+
+After Dont Care
+
+Conditions: 17
+Rules: 5
+
+
+ DNF number 1 None
+ DNF number 2 x_1 & ~x_0
+ DNF number 3 None
+ DNF number 4 (x_0 & x_3) | (x_0 & ~x_1) | (x_0 & ~x_2) | (~x_1 & ~x_2)
+ DNF number 5 x_3 | (x_0 & x_2) | (x_0 & ~x_1)
+ DNF number 6 (~x_0 & ~x_3) | (x_2 & ~x_1 & ~x_3)
+ DNF number 7 (x_2 & x_3) | (x_2 & ~x_0) | (x_1 & x_3 & ~x_0)
+ DNF number 8 ~x_0 | (x_1 & x_2) | (x_1 & x_3) | (x_2 & x_3)
+ DNF number 9 x_0 & ~x_1 & ~x_2 & ~x_3
+ DNF number 10 x_0 | (x_2 & ~x_1 & ~x_3)
+ Number of gates 34
+Accuracy (%) 77.33333333333333
+ROC (%) 81.12077067669173
+FPR (%): 18.75
+TPR (%): 65.78947368421053
+F1-score (%): 59.523809523809526
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 34
+Rules: 8
+
+After Dont Care
+
+Conditions: 34
+Rules: 8
+
+
+ DNF number 1 None
+ DNF number 2 x_1 & ~x_0
+ DNF number 3 None
+ DNF number 4 (x_0 & x_3) | (x_0 & ~x_1) | (x_0 & ~x_2) | (~x_1 & ~x_2)
+ DNF number 5 x_3 | (x_0 & x_2) | (x_0 & ~x_1)
+ DNF number 6 (~x_0 & ~x_3) | (x_2 & ~x_1 & ~x_3)
+ DNF number 7 (x_2 & x_3) | (x_2 & ~x_0) | (x_1 & x_3 & ~x_0)
+ DNF number 8 ~x_0 | (x_1 & x_2) | (x_1 & x_3) | (x_2 & x_3)
+ DNF number 9 x_0 & ~x_1 & ~x_2 & ~x_3
+ DNF number 10 x_0 | (x_2 & ~x_1 & ~x_3)
+ Number of gates 34
+Accuracy (%) 77.33333333333333
+ROC (%) 81.12077067669173
+FPR (%): 18.75
+TPR (%): 65.78947368421053
+F1-score (%): 59.523809523809526
+Sparsity for first layer : 0.0Sparsity for second layer : 0.0Sparsity equivalent layer : 0.0sparsity after pruning (%): 0.0
+Before Dont Care
+
+Conditions: 34
+Rules: 8
+
+After Dont Care
+
+Conditions: 34
+Rules: 8
+

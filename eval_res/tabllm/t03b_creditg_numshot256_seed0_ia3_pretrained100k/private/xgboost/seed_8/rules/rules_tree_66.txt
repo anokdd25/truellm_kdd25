@@ -1,0 +1,15 @@
+0:[3<1] yes=1,no=3_critical/other existing credit ,missing=3_critical/other existing credit 
+	1:[45<0.550003648] yes=3,no=4,missing=4
+		3:[41<-0.0521839485] yes=7,no=8,missing=8
+			7:[41<-0.863067865] yes=15,no=16,missing=16
+				15:leaf=0.0380653404				16:leaf=-0.0934703574			8:[41<0.000150771157] yes=17,no=18,missing=18
+				17:leaf=0.265960872				18:leaf=0.0212545469		4:[41<0.645820916] yes=9,no=10,missing=10
+			9:[45<0.703791738] yes=19,no=20,missing=20
+				19:leaf=-0.139501721				20:leaf=0.0224044807			10:[41<1.34479892] yes=21,no=22,missing=22
+				21:leaf=-0.21414201				22:leaf=-0.037608657	2:[20<1] yes=5,no=6,missing=6
+		5:[42<-0.457378596] yes=11,no=12,missing=12
+			11:[46<0.716100633] yes=23,no=24,missing=24
+				23:leaf=-0.0418647677				24:leaf=0.0751049966			12:[43<-0.973268867] yes=25,no=26,missing=26
+				25:leaf=-0.0716146901				26:leaf=0.119655184		6:[15<1] yes=13,no=4_used car ,missing=4_used car 
+			13:[42<-0.90032185 ] yes=27,no=28,missing=28
+				27:leaf=0.0892548338				28:leaf=-0.143371895			14:leaf=0.111508198

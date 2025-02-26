@@ -1,0 +1,22 @@
+0:[94<-0.409198672] yes=1,no=2,missing=2
+	1:[94<-0.995690346] yes=3,no=4,missing=4
+		3:[96<-1.97482765] yes=7,no=8,missing=8
+			7:leaf=-0.0251456629			8:leaf=-0.0956931636		4:[39<1] yes=9,no=10,missing=10
+			9:[32<1] yes=15,no=16,missing=16
+				15:[1<1] yes=25,no=26,missing=26
+					25:leaf=-0.0548440032					26:leaf=0.0473900996				16:[24<1] yes=27,no=28,missing=28
+					27:leaf=-0.00715327961					28:leaf=0.0793380663			10:leaf=0.117455974	2:[94<1.35027635] yes=5,no=6,missing=6
+		5:[18<1] yes=11,no=12,missing=12
+			11:[52<1] yes=17,no=18,missing=18
+				17:[3<1] yes=2_ Private 9,no=30,missing=30
+					29:leaf=0.0427624285					30:leaf=-0.027823234				18:[96<-1.97482765] yes=31,no=32,missing=32
+					31:leaf=-0.0118415169					32:leaf=0.0854942501			12_ Private :[3<1] yes=19,no=2_ Private 0,missing=2_ Private 0
+				19:[24<1] yes=33,no=34,missing=34
+					33:leaf=-0.0442641191					34:leaf=0.0719041899				20:[97<0.315945685] yes=35,no=36,missing=36
+					35:leaf=-0.0682266727					36:leaf=0.0722310245		6:[96<-1.58613408] yes=13,no=14,missing=14
+			13:[33<1] yes=21,no=22,missing=22
+				21:[95<-0.90350914] yes=37,no=38,missing=38
+					37:leaf=-0.0343918018					38:leaf=-0.113085404				22:leaf=-0.0119181192			14:[24<1] yes=6_ Married-civ-spouse ,no=24,missing=24
+				23:[1<1] yes=39,no=42_ Local-gov ,missing=42_ Local-gov 
+					39:leaf=-0.0887877345					40:leaf=0.0256673601				22_ Sel-emp-not-inc :[5<1] yes=2_ Sel-emp-not-inc 1,no=2_ Sel-emp-not-inc 2,missing=2_ Sel-emp-not-inc 2
+					41:leaf=-0.00211781473					42:leaf=0.0901256427

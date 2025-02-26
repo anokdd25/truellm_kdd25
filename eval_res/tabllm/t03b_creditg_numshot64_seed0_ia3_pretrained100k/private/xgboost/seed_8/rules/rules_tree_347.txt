@@ -1,0 +1,12 @@
+0:[2<1_no checking ] yes=1_no checking ,no=2,missing=2
+	1:[32<1] yes=3,no=4,missing=4
+		3:[45<0.0749255121] yes=7,no=8,missing=8
+			7:[42<0.451484203] yes=13,no=14,missing=14
+				13:leaf=-0.0339067616				14:leaf=0.0502925515			8:[46<0.102573752] yes=15,no=16,missing=16
+				15:leaf=-0.087808542				16:leaf=0.00234174239		3_existing paid :[5<1] yes=9,no=10,missing=10
+			9:[9<1] yes=17,no=14_urniture/equipment ,missing=14_urniture/equipment 
+				17:leaf=0.0276413765				18:leaf=-0.0286021419			10:[46<1.21868658] yes=19,no=20,missing=20
+				19:leaf=-0.0221447013				20:leaf=0.0416757129	2:[8<1] yes=5,no=6,missing=6
+		5:[22<1] yes=11,no=12,missing=12
+			11:[46<-0.51221329] yes=21,no=22,missing=22
+				21:leaf=0.0349156111				22:leaf=-0.00459392788			12:leaf=0.0520844683		6:leaf=-0.0166012496

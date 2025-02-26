@@ -1,0 +1,31 @@
+|--- 8  <= 1.64
+|   |--- 7_<1  <= 0.50
+|   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |--- 3_delayed previously  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 3_delayed previously  >  0.50
+|   |   |   |   |--- 6_<100  <= 0.50
+|   |   |   |   |   |--- 16  <= -0.44
+|   |   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |   |--- 4_other  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 4_other  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 16  >  -0.44
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 6_<100  >  0.50
+|   |   |   |   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |--- 4_new car  <= 0.50
+|   |   |   |   |--- class: 1.0|   |   |   |--- 4_new car  >  0.50
+|   |   |   |   |--- class: 0.0|   |--- 7_<1  >  0.50
+|   |   |--- class: 1.0|--- 8  >  1.64
+|   |--- 13  <= -0.31
+|   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |--- class: 1.0|   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |--- class: 0.0|   |--- 13  >  -0.31
+|   |   |--- 1_>=200  <= 1_>=200 .51_>=200 
+|   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |   |   |--- class: 0.0|   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 1_>=200  >  1_>=200 .51_>=200 
+|   |   |   |--- class: 0.0

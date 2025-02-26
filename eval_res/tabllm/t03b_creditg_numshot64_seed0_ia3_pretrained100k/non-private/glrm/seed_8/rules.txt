@@ -1,0 +1,22 @@
+2.0755900706429204	(intercept)
+-7.873333915188136	duration of the credit in months <= 14.99 AND duration of the credit in months > 8.96 AND credit amount > 928.39
+-7.692189047641619	credit history_critical/other existing credit == 0.0 AND purpose_other == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND property_real estate == 0.0 AND housing_rent == 0.0 AND foreign worker_yes == 1.0
+-6.8896262596472635	purpose_other == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND property_life insurance == 0.0 AND foreign worker_yes == 1.0 AND credit amount <= 7166.63 AND credit amount > 928.39
+-6.013457908332421	purpose_repairs == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND property_life insurance == 0.0 AND property_no known property == 0.0 AND foreign worker_yes == 1.0 AND credit amount > 928.39
+-5.666876448896847	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND purpose_other == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND foreign worker_yes == 1.0 AND credit amount > 928.39 AND installment commitment > 1.00 AND existing_credits <= 2.00
+4.745845265509149	existing checking account status_no checking == 1.0
+4.71618017164652	credit history_delayed previously == 0.0 AND purpose_domestic appliance == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND other installment plans_stores == 0.0 AND job_unemp/unskilled non res == 0.0 AND age > 23.03 AND existing_credits <= 3.00
+-4.621996550759736	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_other == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND job_unemp/unskilled non res == 0.0 AND foreign worker_yes == 1.0 AND credit amount <= 7166.63 AND existing_credits <= 3.00
+4.2854210221039715	property_real estate == 1.0
+-4.260890799583281	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_delayed previously == 0.0 AND purpose_retraining == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND other debtors/guarantors_guarantor == 0.0 AND foreign worker_yes == 1.0
+3.5235353464974097	credit history_critical/other existing credit == 1.0
+3.4178264138830103	status of savings accounts/bonds_<100 == 0.0
+3.2091218624465365	present employment in years_unemployed == 0.0 AND other installment plans_stores == 0.0 AND duration of the credit in months > 11.98
+3.1769297838855874	credit history_no credits/all paid == 0.0 AND purpose_domestic appliance == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND other installment plans_stores == 0.0 AND duration of the credit in months <= 35.98 AND existing_credits <= 3.00
+-2.8589452127200223	existing checking account status_no checking == 0.0
+2.496694814928119	credit history_no credits/all paid == 0.0 AND purpose_domestic appliance == 0.0 AND present employment in years_<1 == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_stores == 0.0 AND duration of the credit in months <= 35.98 AND existing_credits <= 3.00
+2.3957652614992186	present employment in years_unemployed == 0.0 AND personal status_male single == 0.0 AND other installment plans_stores == 0.0
+1.972108227078151	purpose_new car == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_stores == 0.0
+1.9666855773073817	age <= 25.99
+1.3210521467713843	status of savings accounts/bonds_<100 == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_stores == 0.0
+0.9417490492984523	existing checking account status_<0 == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_stores == 0.0

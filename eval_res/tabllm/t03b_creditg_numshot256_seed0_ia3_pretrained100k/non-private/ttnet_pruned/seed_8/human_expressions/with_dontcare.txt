@@ -1,0 +1,140 @@
+Class 0:
+
+Position	Weight	Rule
+10	0.23383279144763947	1_no checking | ~3_critical/other existing credit
+11	0.08289897441864014	~3_no credits/all paid
+13	-0.05865447595715523	~4_radio/tv
+14	-0.23220527172088623	~4_used car
+15	-0.14704681932926178	~6_>=1000
+16	0.08710600435733795	~7_<1
+17	0.09435584396123886	7_unemployed | ~9_male div/sep
+18	-0.04665987566113472	9_male single | ~10_guarantor
+19	0.0872860699892044	~12_no known property
+20	-0.181996688246727	~14_stores
+22	-0.1277468353509903	17_unskilled resident | ~19_yes
+23	0.23383469879627228	duration_ | ~credit_amount_
+24	-0.0961986631155014	residence_since_ | ~age_
+26	-0.13938860595226288	installment_commitment_2.96 | ~residence_since_2.84
+27	-0.09425824880599976	existing_credits_1.4 | ~num_dependents_1.15
+30	-0.20962804555892944	~1_>=200
+31	0.32367995381355286	~3_delayed previously
+32	0.10234180092811584	~4_domestic appliance
+34	-0.10615833103656769	~4_repairs
+35	0.12133161723613739	~6_500<=X<1000
+36	-0.19757339358329773	7_4<=X<7 | ~6_no known savings
+37	0.21426719427108765	~7_>=7
+38	0.15061236917972565	~9_male mar/wid
+39	-0.24320265650749207	12_life insurance | ~10_none
+41	-0.17097754776477814	~15_own | 14_stores & 17_skilled
+42	0.07334102690219879	~17_unemp/unskilled non res
+43	0.0550876185297966	duration_ | ~20_yes | 19_yes & credit_amount_
+45	-0.14438782632350922	num_dependents_ | ~existing_credits_ | age_ & duration_20.81
+46	0.09695882350206375	installment_commitment_2.96 | ~credit_amount_3250.5 | duration_20.81 & residence_since_2.84
+47	0.05280610918998718	existing_credits_1.4 | ~age_35.46 | residence_since_2.84 & num_dependents_1.15
+49	-0.05937580019235611	age_35.47 | ~residence_since_2.84 | installment_commitment_2.97 & existing_credits_1.4
+50	-0.06729438900947571	3_critical/other existing credit & ~1_<0 & ~1_>=200 & ~1_no checking
+51	-0.1258377730846405	3_no credits/all paid
+52	0.15773628652095795	4_furniture/equipment & ~3_no credits/all paid
+54	0.06867671757936478	4_used car
+56	-0.1335107982158661	7_<1 & ~6_>=1000 & ~6_no known savings
+57	-0.17991995811462402	9_male div/sep & ~7_<1 & ~7_>=7 & ~7_unemployed
+58	-0.060005299746990204	10_guarantor & ~9_male div/sep & ~9_male mar/wid & ~9_male single
+59	-0.19953157007694244	12_no known property & ~10_guarantor & ~10_none
+60	-0.12126874923706055	14_stores & ~12_no known property & ~12_real estate
+61	-0.15544652938842773	17_skilled & ~14_stores & ~15_own & ~15_rent
+62	0.07683403789997101	19_yes & ~17_skilled & ~17_unemp/unskilled non res & ~17_unskilled resident
+64	0.09630633145570755	age_ & ~credit_amount_ & ~installment_commitment_ & ~residence_since_
+65	-0.0468965619802475	duration_20.81 & ~age_ & ~existing_credits_ & ~num_dependents_
+67	0.12253761291503906	num_dependents_1.15 & ~residence_since_2.84 & ~age_35.46 & ~existing_credits_1.4
+68	0.1285422444343567	installment_commitment_2.97 & ~num_dependents_1.15 & ~duration_20.82 & ~credit_amount_3252.44
+69	0.1608150601387024	existing_credits_1.4 & ~installment_commitment_2.97 & ~residence_since_2.84 & ~age_35.47
+70	-0.10107752680778503	1_<0 | ~1_>=200 & ~3_critical/other existing credit
+71	0.1245296373963356	~3_delayed previously & ~3_no credits/all paid
+73	-0.06419448554515839	~4_new car & ~4_radio/tv
+74	-0.19597524404525757	~4_repairs & ~4_used car
+75	-0.138933926820755	4_used car | ~6_500<=X<1000 & ~6_>=1000
+76	-0.18958312273025513	6_>=1000 | ~6_no known savings & ~7_<1
+77	0.2864396572113037	7_<1 | ~7_>=7 & ~9_male div/sep
+78	0.10321806371212006	9_male div/sep | ~9_male mar/wid & ~10_guarantor
+79	-0.2504231631755829	10_guarantor | ~10_none & ~12_no known property
+80	-0.18543589115142822	12_no known property | ~12_real estate & ~14_stores
+81	-0.13420337438583374	14_stores & ~15_own | 14_stores & ~17_skilled | ~15_own & ~17_skilled
+83	-0.04738207533955574	19_yes & ~20_yes | 19_yes & ~credit_amount_ | ~20_yes & ~credit_amount_
+84	-0.14220397174358368	credit_amount_ & ~installment_commitment_ | credit_amount_ & ~age_ | ~installment_commitment_ & ~age_
+85	-0.12246584892272949	age_ & ~existing_credits_ | age_ & ~duration_20.81 | ~existing_credits_ & ~duration_20.81
+86	-0.08431334048509598	duration_20.81 & ~credit_amount_3250.5 | duration_20.81 & ~residence_since_2.84 | ~credit_amount_3250.5 & ~residence_since_2.84
+87	-0.10858973860740662	residence_since_2.84 & ~age_35.46 | residence_since_2.84 & ~num_dependents_1.15 | ~age_35.46 & ~num_dependents_1.15
+89	-0.15007175505161285	installment_commitment_2.97 & ~residence_since_2.84 | installment_commitment_2.97 & ~existing_credits_1.4 | ~residence_since_2.84 & ~existing_credits_1.4
+91	0.08194762468338013	~3_no credits/all paid | ~4_education
+93	-0.10800173878669739	~6_>=1000 | ~7_4<=X<7
+94	0.07225920259952545	~10_guarantor | ~12_life insurance
+95	0.1639493852853775	~12_no known property | ~14_none
+96	-0.04917929321527481	~14_stores | ~15_rent
+97	-0.18536362051963806	~19_yes | ~duration_
+99	-0.15348297357559204	~age_ | ~num_dependents_
+100	0.054716795682907104	~duration_20.81 | ~installment_commitment_2.96
+101	-0.08054876327514648	~residence_since_2.84 | ~existing_credits_1.4
+102	-0.07078846544027328	~num_dependents_1.15 | ~credit_amount_3252.44
+103	0.0546596422791481	~installment_commitment_2.97 | ~age_35.47
+104	-0.2977476418018341	1_<0
+105	0.08985643833875656	3_critical/other existing credit
+106	-0.09757663309574127	3_no credits/all paid & ~4_domestic appliance
+108	0.061974748969078064	4_radio/tv
+109	0.17888730764389038	4_used car & ~6_500<=X<1000
+110	0.11045852303504944	6_>=1000
+111	-0.11704450100660324	7_<1
+112	-0.07262054085731506	9_male div/sep
+113	-0.08258146047592163	10_guarantor
+114	-0.13288256525993347	12_no known property
+118	0.1641816943883896	credit_amount_ & ~installment_commitment_
+120	-0.06854094564914703	duration_20.81 & ~credit_amount_3250.5
+121	-0.12072032690048218	residence_since_2.84 & ~age_35.46
+122	0.22465646266937256	num_dependents_1.15 & ~duration_20.82
+123	0.061908069998025894	installment_commitment_2.97 & ~residence_since_2.84
+124	-0.3002144694328308	~1_no checking
+126	0.2538960874080658	~4_education
+127	0.27768170833587646	~4_other
+128	-0.19458793103694916	~4_retraining
+129	0.09591864794492722	~6_<100
+130	-0.13629262149333954	~7_4<=X<7
+131	0.1443985402584076	~7_unemployed
+133	0.15706515312194824	~12_life insurance
+134	-0.14069154858589172	~14_none
+135	0.14704717695713043	~15_rent
+137	0.09667707234621048	~duration_
+138	-0.07865242660045624	~residence_since_
+139	-0.12098515778779984	~num_dependents_
+141	-0.1935867816209793	~existing_credits_1.4
+143	-0.1114329844713211	~age_35.47
+144	-0.2662471532821655	3_critical/other existing credit & ~1_<0 & ~1_no checking
+146	0.13196611404418945	4_furniture/equipment & ~3_no credits/all paid
+147	0.15927499532699585	4_radio/tv
+148	0.1076219454407692	4_used car
+151	-0.12854932248592377	9_male div/sep & ~7_<1 & ~7_unemployed
+153	-0.12838944792747498	12_no known property & ~10_guarantor
+154	0.07971866428852081	14_stores & ~12_no known property
+155	-0.0914592295885086	17_skilled & ~14_stores & ~15_rent
+157	-0.1228393018245697	credit_amount_ & ~19_yes & ~duration_
+158	0.09422532469034195	age_ & ~credit_amount_ & ~residence_since_
+159	-0.1363866925239563	duration_20.81 & ~age_ & ~num_dependents_
+160	-0.0721789225935936	residence_since_2.84 & ~duration_20.81 & ~installment_commitment_2.96
+162	0.10535749793052673	installment_commitment_2.97 & ~num_dependents_1.15 & ~credit_amount_3252.44
+164	-0.14788049459457397	~1_no checking
+166	0.20550325512886047	~4_education
+167	0.2738437354564667	~4_other
+168	-0.22351017594337463	~4_retraining
+169	0.24967101216316223	~6_<100
+170	-0.09767163544893265	~7_4<=X<7
+171	0.19395987689495087	~7_unemployed
+172	-0.05479760468006134	~9_male single
+173	0.15315698087215424	~12_life insurance
+174	-0.1855982393026352	~14_none
+175	0.16664037108421326	~15_rent
+178	-0.13691873848438263	~residence_since_
+179	-0.07658440619707108	~num_dependents_
+181	-0.04895884543657303	~existing_credits_1.4
+182	0.12395124137401581	~credit_amount_3252.44
+183	-0.0853315219283104	~age_35.47
+intercept	0.016958855092525482
+
+

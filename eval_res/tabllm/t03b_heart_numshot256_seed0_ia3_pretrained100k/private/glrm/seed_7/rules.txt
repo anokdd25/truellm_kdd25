@@ -1,0 +1,22 @@
+0.4125701538122889	(intercept)
+4.347377191274908	cp_ATA == 0.0 AND cp_NAP == 0.0 AND cp_TA == 0.0
+-3.7479107357224013	oldpeak <= 0.60
+2.9547885888522214	sex_M == 1.0 AND slope_Up == 0.0 AND chol > -0.28
+-2.140103729522086	restecg_ST == 0.0 AND oldpeak <= 1.00
+1.5939217333117666	cp_ATA == 0.0 AND restecg_Normal == 1.0
+1.3925387791643251	cp_ATA == 0.0 AND slope_Flat == 1.0
+-1.0453004106119397	cp_TA == 0.0 AND slope_Flat == 0.0 AND chol > -0.28
+1.0282208776656085	sex_M == 1.0
+-0.9312870336103011	cp_TA == 0.0 AND slope_Flat == 0.0 AND chol > -0.28 AND oldpeak <= 2.30
+-0.7523632778868242	exang_Y == 0.0 AND chol > -0.28
+0.7460562553056772	exang_Y == 1.0
+-0.6932069120455032	oldpeak <= 1.00
+-0.6531571009514728	sex_M == 0.0
+0.6120294662837751	slope_Up == 0.0
+0.5888164489824693	slope_Flat == 1.0
+0.5555634035705501	cp_ATA == 0.0 AND cp_NAP == 0.0 AND chol > -0.28
+0.4739862097112933	cp_ATA == 0.0 AND cp_TA == 0.0 AND oldpeak > 0.00
+-0.37099248515048117	exang_Y == 0.0
+-0.23696569004737145	slope_Up == 1.0
+-0.21375271583602776	slope_Flat == 0.0
+-0.10203139372757296	cp_ATA == 0.0 AND restingbp <= 159.98 AND oldpeak > 0.60

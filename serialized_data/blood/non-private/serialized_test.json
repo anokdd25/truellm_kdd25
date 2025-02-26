@@ -1,0 +1,752 @@
+[
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 73. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 9. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 13. The total blood donated in cc is 3250. The number of months since first donation is 53. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 31. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 16. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 26. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 17. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 58. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 14. The total blood donated in cc is 3500. The number of months since first donation is 48. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 19. The total blood donated in cc is 4750. The number of months since first donation is 69. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 11. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 1. The total number of donation is 14. The total blood donated in cc is 3500. The number of months since first donation is 58. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 11. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 16. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 11. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 5. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 26. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 16. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 43. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 21. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 38. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 81. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 3. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 29. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 23. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 22. The total blood donated in cc is 5500. The number of months since first donation is 98. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 28. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 8. The total blood donated in cc is 2000. The number of months since first donation is 38. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 3. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 21. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 16. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 40. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 58. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 26. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 16. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 21. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 52. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 12. The total blood donated in cc is 3000. The number of months since first donation is 88. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 8. The total number of donation is 9. The total blood donated in cc is 2250. The number of months since first donation is 64. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 52. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 3. The total number of donation is 21. The total blood donated in cc is 5250. The number of months since first donation is 42. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 34. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 14. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 71. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 11. The total blood donated in cc is 2750. The number of months since first donation is 41. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 14. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 41. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 16. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 30. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 5. The total blood donated in cc is 1250. The number of months since first donation is 11. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 28. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 13. The total blood donated in cc is 3250. The number of months since first donation is 76. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 3. The total number of donation is 17. The total blood donated in cc is 4250. The number of months since first donation is 86. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 2. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 11. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 75. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 8. The total blood donated in cc is 2000. The number of months since first donation is 76. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 14. The total blood donated in cc is 3500. The number of months since first donation is 93. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 9. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 34. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 35. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 16. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 10. The total blood donated in cc is 2500. The number of months since first donation is 49. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 11. The total blood donated in cc is 2750. The number of months since first donation is 46. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 39. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 39. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 4. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 8. The total blood donated in cc is 2000. The number of months since first donation is 28. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 5. The total blood donated in cc is 1250. The number of months since first donation is 28. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 29. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 34. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 5. The total blood donated in cc is 1250. The number of months since first donation is 14. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 1. The total number of donation is 10. The total blood donated in cc is 2500. The number of months since first donation is 43. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 11. The total blood donated in cc is 2750. The number of months since first donation is 23. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 0. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 70. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 9. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 28. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 30. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 12. The total number of donation is 13. The total blood donated in cc is 3250. The number of months since first donation is 59. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 72. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 75. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 6. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 11. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 9. The total blood donated in cc is 2250. The number of months since first donation is 55. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 21. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 26. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 12. The total number of donation is 9. The total blood donated in cc is 2250. The number of months since first donation is 60. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 9. The total blood donated in cc is 2250. The number of months since first donation is 26. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 5. The total number of donation is 14. The total blood donated in cc is 3500. The number of months since first donation is 86. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 22. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 12. The total blood donated in cc is 3000. The number of months since first donation is 98. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 16. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 6. The total blood donated in cc is 1500. The number of months since first donation is 41. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 87. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 4. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 21. The total blood donated in cc is 5250. The number of months since first donation is 52. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 1. The total number of donation is 16. The total blood donated in cc is 4000. The number of months since first donation is 35. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 5. The total number of donation is 46. The total blood donated in cc is 11500. The number of months since first donation is 98. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 9. The total number of donation is 9. The total blood donated in cc is 2250. The number of months since first donation is 45. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 5. The total blood donated in cc is 1250. The number of months since first donation is 26. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 5. The total blood donated in cc is 1250. The number of months since first donation is 35. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 10. The total number of donation is 8. The total blood donated in cc is 2000. The number of months since first donation is 39. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 17. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 23. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 5. The total blood donated in cc is 1250. The number of months since first donation is 16. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 20. The total number of donation is 14. The total blood donated in cc is 3500. The number of months since first donation is 69. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 11. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 40. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 19. The total blood donated in cc is 4750. The number of months since first donation is 62. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 23. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 23. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 21. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 26. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 3. The total number of donation is 10. The total blood donated in cc is 2500. The number of months since first donation is 33. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 16. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 11. The total blood donated in cc is 2750. The number of months since first donation is 61. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 52. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 9. The total blood donated in cc is 2250. The number of months since first donation is 72. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 8. The total blood donated in cc is 2000. The number of months since first donation is 41. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 21. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 21. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 13. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 14. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 27. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 46. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 46. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 14. The total blood donated in cc is 3500. The number of months since first donation is 86. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 87. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 3. The total number of donation is 14. The total blood donated in cc is 3500. The number of months since first donation is 35. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 2. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 82. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 10. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 16. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 5. The total blood donated in cc is 1250. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 5. The total number of donation is 11. The total blood donated in cc is 2750. The number of months since first donation is 75. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 14. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 7. The total blood donated in cc is 1750. The number of months since first donation is 64. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 26. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 21. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 21. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 21. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 4. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 52. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 2. The total blood donated in cc is 500. The number of months since first donation is 9. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 11. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 11. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 21. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 21. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 14. The total number of donation is 4. The total blood donated in cc is 1000. The number of months since first donation is 28. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 16. The total number of donation is 3. The total blood donated in cc is 750. The number of months since first donation is 50. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 4. The total number of donation is 5. The total blood donated in cc is 1250. The number of months since first donation is 33. ",
+        "output": "1"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 2. The total number of donation is 9. The total blood donated in cc is 2250. The number of months since first donation is 36. ",
+        "output": "0"
+    },
+    {
+        "instruction": "Does the person donate blood? Answer 1 if the person donates and 0 otherwise. Do not answer other than simply 1 or 0. Do not explain why.",
+        "input": "The number of months since last donation is 21. The total number of donation is 1. The total blood donated in cc is 250. The number of months since first donation is 21. ",
+        "output": "0"
+    }
+]

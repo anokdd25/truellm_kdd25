@@ -1,0 +1,9 @@
+|--- 4_domestic appliance  <= 0.50
+|   |--- 2  <= 0.50
+|   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |--- class: 0.0|   |--- 2  >  0.50
+|   |   |--- class: 0.0|--- 4_domestic appliance  >  0.50
+|   |--- class_bad  <= -0.45
+|   |   |--- class: 0.0|   |--- class_bad  >  -0.45
+|   |   |--- class: 0.0

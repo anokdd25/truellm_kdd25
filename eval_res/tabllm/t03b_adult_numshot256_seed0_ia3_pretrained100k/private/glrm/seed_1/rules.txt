@@ -1,0 +1,12 @@
+0.12251137825557726	(intercept)
+-2.127438926839747	education_ Doctorate == 0.0 AND education_ Prof-school == 0.0 AND capital_gain <= -30.14
+-0.8926944305811835	education_ Bachelors == 0.0 AND education_ Doctorate == 0.0 AND education_ Masters == 0.0
+0.750039222612516	occupation_ Craft-repair == 0.0 AND occupation_ Farming-fishing == 0.0
+0.45391620264541255	workclass_ Private == 1.0 AND occupation_ Farming-fishing == 0.0 AND native_country_ England == 0.0 AND native_country_ Italy == 0.0
+0.4409631012546413	marital_status_ Married-civ-spouse == 1.0
+-0.34588838779395636	capital_gain <= -30.14
+0.3400320301588142	occupation_ Farming-fishing == 0.0 AND hours_per_week > 35.00
+-0.329589147499057	marital_status_ Married-civ-spouse == 0.0
+-0.31040838294802336	age <= 29.99
+-0.2663212467696503	age <= 41.04
+-0.2121765127595252	age <= 36.94

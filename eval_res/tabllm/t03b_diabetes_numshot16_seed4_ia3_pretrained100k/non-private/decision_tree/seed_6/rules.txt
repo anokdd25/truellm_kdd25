@@ -1,0 +1,1 @@
+|--- feature_2 <= -2.80|   |--- class: 0|--- feature_2 >  -2.80|   |--- feature_1 <= -1.83|   |   |--- class: 0|   |--- feature_1 >  -1.83|   |   |--- feature_0 <= -0.99|   |   |   |--- feature_7 <= 0.87|   |   |   |   |--- class: 1|   |   |   |--- feature_7 >  0.87|   |   |   |   |--- class: 0|   |   |--- feature_0 >  -0.99|   |   |   |--- class: 1

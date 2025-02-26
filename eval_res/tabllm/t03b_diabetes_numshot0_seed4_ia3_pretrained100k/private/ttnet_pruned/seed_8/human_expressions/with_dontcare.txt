@@ -1,0 +1,7 @@
+Class 0:
+
+Position	Weight	Rule
+7	0.17637702822685242	7 & ~4 & ~5 & ~6
+intercept	-3.966958999633789
+
+

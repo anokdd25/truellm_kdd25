@@ -1,0 +1,11 @@
+0:[39<1] yes=1,no=2,missing=2
+	1:[43<1] yes=3,no=4,missing=4
+		3:[42<1] yes=7,no=8,missing=8
+			7:[14<1] yes=4_ Assoc-acdm ,no=14,missing=14
+				13:leaf=-0.0020364793				14:leaf=0.079746455			8:[96<0.885654867] yes=15,no=16,missing=16
+				15:leaf=0.109011173				16:leaf=-0		4:[97<1.37804484] yes=9,no=10,missing=10
+			9:[49<1] yes=17,no=18,missing=18
+				17:leaf=-0.0676276535				18:leaf=0.0136263417			10:[96<-0.215908632] yes=19,no=20,missing=20
+				19:leaf=-0.00409185607				20:leaf=0.0439734012	2:[99<-0.572746992] yes=5,no=6,missing=6
+		5:leaf=-0		6:[99<0.508363903] yes=11,no=12,missing=12
+			11:leaf=0.145606473			12:leaf=-0

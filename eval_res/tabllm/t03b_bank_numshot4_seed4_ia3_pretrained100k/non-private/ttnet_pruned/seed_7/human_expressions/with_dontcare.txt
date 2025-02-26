@@ -1,0 +1,39 @@
+Class 0:
+
+Position	Weight	Rule
+0	1.0466059446334839	~2_entrepreneur
+3	0.46780925989151	3_married | ~2_unknown
+4	-0.5556378960609436	3_single | ~4_secondary
+8	-0.42303675413131714	Age_ | Last Contact Day_ | ~Balance (euros)_
+14	0.5084006786346436	Last Contact Day_15.62 | Last Contact Duration_252.51 | ~Last Contact Month_6.09
+26	0.40147215127944946	2_entrepreneur | 2_housemaid
+27	-0.7210069298744202	2_retired | 2_self-employed
+28	0.6980187892913818	2_student | 2_technician
+29	1.635935664176941	2_unknown | 3_married & ~2_unemployed
+30	-0.8627065420150757	4_secondary & ~3_single | 4_tertiary & ~3_single
+31	0.509544312953949	5_yes & 7_yes | 5_yes & ~4_unknown | 7_yes & ~4_unknown
+36	-0.4001011848449707	Previous_ & Age_40.63 | Previous_ & ~Pdays_ | Age_40.63 & ~Pdays_
+42	2.6046864986419678	~3_married | ~2_unemployed & ~2_unknown
+43	-1.18355131149292	~3_single | ~4_secondary & ~4_tertiary
+45	0.43778711557388306	~8_yes | ~9_telephone & ~9_unknown
+53	0.5078621506690979	~Last Contact Day_15.62 & ~Last Contact Month_6.09 | ~Last Contact Day_15.62 & ~Last Contact Duration_252.51 | ~Last Contact Month_6.09 & ~Last Contact Duration_252.51
+56	1.2170405387878418	~2_unknown | ~3_single
+60	-0.7167640328407288	~16_success | ~Age_
+64	-0.6116148233413696	~Last Contact Day_15.57 | ~Last Contact Duration_250.84 | Balance (euros)_1275.7 & Last Contact Month_6.08
+70	0.6379558444023132	~2_student
+72	-0.47014060616493225	3_single | ~4_secondary
+73	1.2200162410736084	4_unknown | 7_yes | 8_yes | ~5_yes
+74	0.4234607517719269	8_yes | 16_other | ~9_telephone
+75	0.405897855758667	Age_ | ~16_success
+76	-0.7459933757781982	Age_ | Last Contact Day_ | Last Contact Month_ | ~Balance (euros)_
+80	-0.566292405128479	Last Contact Duration_250.84 | Pdays_37.35 | Previous_0.51 | ~Campaign_2.68
+85	-0.5052952170372009	2_services | 2_technician | 2_unemployed
+86	-1.4825114011764526	2_unemployed | 3_married | 3_single
+88	0.41660845279693604	4_unknown | 7_yes | 8_yes
+92	0.5389975309371948	Last Contact Month_ | Campaign_ | Pdays_
+95	0.549575924873352	Last Contact Duration_250.84 | Pdays_37.35 | Previous_0.51
+100	-0.4527764320373535	2_services | 2_technician | 2_unemployed
+102	1.099980354309082	4_tertiary | 4_unknown | 3_single & ~4_secondary
+intercept	2.3030288219451904
+
+

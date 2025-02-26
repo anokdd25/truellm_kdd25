@@ -1,0 +1,12 @@
+1.703291195480802	(intercept)
+11.69812183214102	credit history_delayed previously == 0.0 AND purpose_furniture/equipment == 0.0 AND purpose_other == 0.0 AND purpose_retraining == 0.0 AND present employment in years_unemployed == 0.0 AND other installment plans_none == 1.0 AND age > 23.03
+-8.305236216047835	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND other installment plans_stores == 0.0 AND credit amount > 928.39 AND existing_credits <= 2.00
+-6.754013895951506	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_repairs == 0.0 AND purpose_used car == 0.0 AND job_unemp/unskilled non res == 0.0 AND duration of the credit in months > 8.96 AND credit amount > 928.39 AND existing_credits <= 2.00
+-5.148464241719316	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND purpose_used car == 0.0 AND status of savings accounts/bonds_500<=X<1000 == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND job_unemp/unskilled non res == 0.0
+-4.9336881584734815	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND property_real estate == 0.0
+-3.9830303446063646	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND credit history_no credits/all paid == 0.0 AND purpose_domestic appliance == 0.0 AND status of savings accounts/bonds_>=1000 == 0.0 AND status of savings accounts/bonds_no known savings == 0.0 AND present employment in years_4<=X<7 == 0.0 AND other installment plans_stores == 0.0 AND existing_credits <= 3.00 AND Number of people being liable to provide maintenance for  == 1.00
+-3.969992402183256	existing checking account status_>=200 == 0.0 AND existing checking account status_no checking == 0.0 AND installment commitment <= 3.00 AND existing_credits <= 2.00
+3.8823274361791507	property_real estate == 1.0
+3.557462671183297	purpose_education == 0.0 AND purpose_other == 0.0 AND purpose_retraining == 0.0 AND present employment in years_unemployed == 0.0 AND age > 29.97
+3.1529376619318725	existing checking account status_<0 == 0.0
+3.013453286395743	existing checking account status_no checking == 1.0

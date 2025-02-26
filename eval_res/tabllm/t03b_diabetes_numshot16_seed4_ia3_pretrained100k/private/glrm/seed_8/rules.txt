@@ -1,0 +1,2 @@
+2.8959044775790184	(intercept)
+5.077041825879403	2-hour serum insulin (mu U/ml) > 0.28 AND age > 21.95

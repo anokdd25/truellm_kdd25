@@ -1,0 +1,15 @@
+|--- 1_>=200  <= 1_>=200 .51_>=200 
+|   |--- 8  <= 3.39
+|   |   |--- 3_no credits/all paid  <= 0.3_no credits/all paid 0
+|   |   |   |--- 8  <= -0.38
+|   |   |   |   |--- class: 1.0|   |   |   |--- 8  >  -0.38
+|   |   |   |   |--- 4_domestic appliance  <= 0.50
+|   |   |   |   |   |--- 8  <= -0.32
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 8  >  -0.32
+|   |   |   |   |   |   |--- class: 1.0|   |   |   |   |--- 4_domestic appliance  >  0.50
+|   |   |   |   |   |--- class: 0.0|   |   |--- 3_no credits/all paid  >  0.3_no credits/all paid 0
+|   |   |   |--- class: 1.0|   |--- 8  >  3.39
+|   |   |--- 10_guarantor  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 10_guarantor  >  0.50
+|   |   |   |--- class: 1.0|--- 1_>=200  >  1_>=200 .51_>=200 
+|   |--- class: 1.0

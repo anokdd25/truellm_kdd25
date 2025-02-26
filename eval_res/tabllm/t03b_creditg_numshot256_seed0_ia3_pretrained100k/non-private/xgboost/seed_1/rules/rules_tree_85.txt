@@ -1,0 +1,3 @@
+0:[2 <-0.655371249] yes=1,no=2,missing=2
+	1:leaf=-0.0204283614	2:[3_existing paid <1] yes=3,no=4,missing=4
+		3:leaf=-0.0258725509		4:leaf=0.0505628772

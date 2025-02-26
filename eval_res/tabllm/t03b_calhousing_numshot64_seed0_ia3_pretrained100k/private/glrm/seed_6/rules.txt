@@ -1,0 +1,10 @@
+-4.1123520280049	(intercept)
+-6.617844956775921	location of the house with respect to ocean/sea_INLAND == 1.0
+6.040681691848454	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) > 3.97
+3.0107326411863906	location of the house with respect to ocean/sea_NEAR BAY == 0.0 AND median income for households within a block (in tens of thousands USD) <= 3.97
+2.879343119500693	location of the house with respect to ocean/sea_INLAND == 0.0
+-2.6595344265796186	location of the house with respect to ocean/sea_NEAR BAY == 0.0 AND median income for households within a block (in tens of thousands USD) <= 4.44
+-2.580361312769235	location of the house with respect to ocean/sea_NEAR BAY == 0.0 AND median income for households within a block (in tens of thousands USD) <= 4.44 AND median income for households within a block (in tens of thousands USD) > 1.89
+2.328819886391688	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) > 3.53
+2.184761570980994	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) > 3.15
+-0.5865156743461208	location of the house with respect to ocean/sea_NEAR BAY == 0.0 AND location of the house with respect to ocean/sea_NEAR OCEAN == 0.0

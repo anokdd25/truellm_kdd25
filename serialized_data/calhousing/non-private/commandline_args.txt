@@ -1,0 +1,10 @@
+{
+  "dataset": "calhousing",
+  "seed": 0,
+  "test_size": 0.2,
+  "private": false,
+  "serialization_method": "template1",
+  "inflation": 1,
+  "size": 5000,
+  "clean": true
+}

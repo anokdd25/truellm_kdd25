@@ -1,0 +1,6 @@
+-3.896514991173661	(intercept)
+-8.569687236347969	location of the house with respect to ocean/sea_INLAND == 1.0
+5.027400881267925	location of the house with respect to ocean/sea_INLAND == 0.0
+2.430161784443787	location of the house with respect to ocean/sea_INLAND == 0.0 AND population within a block > 508.18
+2.337848804947048	location of the house with respect to ocean/sea_INLAND == 0.0 AND median income for households within a block (in tens of thousands USD) > 2.35
+2.1206007707676724	location of the house with respect to ocean/sea_INLAND == 0.0 AND total rooms within a block > 934.10

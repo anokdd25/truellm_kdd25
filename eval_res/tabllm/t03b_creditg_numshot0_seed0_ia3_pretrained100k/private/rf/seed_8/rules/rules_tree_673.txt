@@ -1,0 +1,5 @@
+|--- 13  <= -2.25
+|   |--- class: 0.0|--- 13  >  -2.25
+|   |--- 4_domestic appliance  <= 0.50
+|   |   |--- class: 0.0|   |--- 4_domestic appliance  >  0.50
+|   |   |--- class: 0.0

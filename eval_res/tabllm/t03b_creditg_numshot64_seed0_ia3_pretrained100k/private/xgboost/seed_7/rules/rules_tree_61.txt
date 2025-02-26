@@ -1,0 +1,15 @@
+0:[31<1] yes=1,no=2,missing=2
+	1:[30<1] yes=3,no=4,missing=4
+		3:[12<1] yes=7,no=8,missing=8
+			4_education :[8<1] yes=15,no=16,missing=16
+				15:leaf=0.0176767688				16:leaf=-0.160836786			8:[29<1] yes=17,no=18,missing=18
+				17:leaf=-0.218492731				18:leaf=0.0116283633		4:[10<1] yes=4_new car ,no=10,missing=10
+			9:[46<1.69323623] yes=19,no=20,missing=20
+				19:leaf=0.0959303081				20:leaf=-0.0833248049			10:[43<0.853610098] yes=21,no=22,missing=22
+				21:leaf=-0.0970483944				22:leaf=0.0262315609	2:[15<1] yes=5,no=6,missing=6
+		5:[10<1] yes=11,no=12,missing=12
+			11:[44<-0.61666584] yes=23,no=24,missing=24
+				23:leaf=-0				24:leaf=0.115562387			12:[26<1] yes=9_male single ,no=26,missing=26
+				25:leaf=-0.126266316				26:leaf=0.0293491278		6:[42<0.296794802] yes=13,no=14,missing=14
+			13:[39<1] yes=27,no=28,missing=28
+				27:leaf=0.119498275				28:leaf=-0.078148067			14:leaf=-0.21532011

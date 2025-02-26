@@ -1,0 +1,8 @@
+0:[23<1] yes=1,no=2,missing=2
+	1:[4<1] yes=3_delayed previously ,no=4,missing=4
+		3:[8<1] yes=5,no=6,missing=6
+			5:[41<0.915082395] yes=9,no=10,missing=10
+				9:leaf=0.0132193435				10:leaf=-0.0062943697			6:[31<1] yes=11,no=12,missing=12
+				11:leaf=-0.040390946				12:leaf=-0		4:[46<0.253741086] yes=7,no=8,missing=8
+			7:[42<0.435557842] yes=13,no=14,missing=14
+				13:leaf=-0.0485600382				14:leaf=-0			8:leaf=-0	2:leaf=-0.0204774626

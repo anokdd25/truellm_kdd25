@@ -1,0 +1,24 @@
+-0.058425706599553824	(intercept)
+7.13751675106104	number of times pregnant > 0.00 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 95.00 AND body mass index > 23.64 AND age > 27.01
+-5.943058777282166	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 166.94 AND diastolic blood pressure (mm Hg) <= 88.07 AND triceps skin fold thickness (mm) <= 40.00 AND 2-hour serum insulin (mu U/ml) > 71.73 AND diabetes pedigree function <= 0.88
+5.082461788624229	number of times pregnant > 0.00 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND body mass index > 23.64 AND diabetes pedigree function <= 0.56 AND age <= 51.00 AND age > 27.01
+-4.073181979833374	triceps skin fold thickness (mm) <= 31.06 AND diabetes pedigree function <= 0.88
+3.7972632306594623	number of times pregnant > 0.00 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 134.00 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 95.00 AND diastolic blood pressure (mm Hg) <= 82.07 AND diabetes pedigree function > 0.16
+3.4169235746661686	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND diastolic blood pressure (mm Hg) <= 78.01 AND diastolic blood pressure (mm Hg) > 54.01 AND diabetes pedigree function > 0.16
+-3.2629143275652153	2-hour serum insulin (mu U/ml) <= 210.03 AND diabetes pedigree function <= 0.69 AND age > 37.94
+2.9267175745233245	number of times pregnant > 0.00 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 95.00 AND diastolic blood pressure (mm Hg) > 54.01 AND diabetes pedigree function > 0.16 AND age <= 37.94
+-2.837250981731165	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 117.06 AND triceps skin fold thickness (mm) <= 40.00 AND diabetes pedigree function <= 0.88
+-2.6974135581356706	2-hour serum insulin (mu U/ml) <= 210.03 AND 2-hour serum insulin (mu U/ml) > 0.28 AND age > 21.95
+-2.634222868958428	diastolic blood pressure (mm Hg) > 54.01 AND triceps skin fold thickness (mm) <= 40.00 AND triceps skin fold thickness (mm) > -0.04 AND 2-hour serum insulin (mu U/ml) <= 210.03 AND body mass index <= 41.53 AND diabetes pedigree function <= 0.88
+-2.5174118291773184	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 117.06 AND diabetes pedigree function <= 0.88
+-2.419884915687209	number of times pregnant > 0.00 AND 2-hour serum insulin (mu U/ml) <= 210.03 AND body mass index <= 41.53 AND diabetes pedigree function <= 0.88 AND diabetes pedigree function > 0.22
+2.411450920924177	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND diastolic blood pressure (mm Hg) > 54.01 AND body mass index > 37.83 AND diabetes pedigree function > 0.16
+-2.3686631814696213	triceps skin fold thickness (mm) <= 35.05 AND 2-hour serum insulin (mu U/ml) <= 210.03 AND 2-hour serum insulin (mu U/ml) > 0.28
+2.1803518450878836	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 102.03 AND body mass index > 28.21
+1.8541464530548515	number of times pregnant > 0.00 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test > 95.00 AND diastolic blood pressure (mm Hg) <= 88.07 AND diastolic blood pressure (mm Hg) > 54.01 AND diabetes pedigree function > 0.16
+-1.7672356144130295	2-hour serum insulin (mu U/ml) <= 210.03 AND body mass index <= 41.53 AND diabetes pedigree function <= 0.88 AND diabetes pedigree function > 0.56
+-1.742183200634538	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 125.05 AND diabetes pedigree function <= 0.69
+-1.6796206841692258	number of times pregnant > 0.00 AND 2-hour serum insulin (mu U/ml) <= 210.03 AND diabetes pedigree function <= 0.88 AND diabetes pedigree function > 0.22
+1.2890853128172894	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 95.00 AND diabetes pedigree function <= 0.56 AND diabetes pedigree function > 0.16
+-1.16951404788092	diastolic blood pressure (mm Hg) <= 72.01 AND 2-hour serum insulin (mu U/ml) <= 210.03 AND age > 23.01
+-1.1673306778783414	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 125.05 AND 2-hour serum insulin (mu U/ml) <= 210.03 AND diabetes pedigree function <= 0.88

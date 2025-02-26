@@ -1,0 +1,39 @@
+|--- 12_life insurance  <= 0.50
+|   |--- 11  <= -1.32
+|   |   |--- class: 1.0|   |--- 11  >  -1.32
+|   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |--- class: 1.0|--- 12_life insurance  >  0.50
+|   |--- 3_existing paid  <= 0.50
+|   |   |--- 17_unemp/unskilled non res  <= 0.50
+|   |   |   |--- 4_used car  <= 0.50
+|   |   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |--- 8  <= -0.56
+|   |   |   |   |   |   |   |--- 1_no checking  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |--- 1_no checking  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |--- 8  >  -0.56
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 4_used car  >  0.50
+|   |   |   |   |--- class: 1.0|   |   |--- 17_unemp/unskilled non res  >  0.50
+|   |   |   |--- 3_critical/other existing credit  <= 0.50
+|   |   |   |   |--- 7_<1  <= 0.50
+|   |   |   |   |   |--- 13  <= 0.59
+|   |   |   |   |   |   |--- 14_stores  <= 0.50
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 14_stores  >  0.50
+|   |   |   |   |   |   |   |--- 8  <= -0.62
+|   |   |   |   |   |   |   |   |--- 10_guarantor  <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |   |   |--- 10_guarantor  >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 8  >  -0.62
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |--- 13  >  0.59
+|   |   |   |   |   |   |--- 8  <= -0.59
+|   |   |   |   |   |   |   |--- 4_new car  <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0|   |   |   |   |   |   |   |--- 4_new car  >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |   |   |--- 8  >  -0.59
+|   |   |   |   |   |   |   |--- class: 0.0|   |   |   |   |--- 7_<1  >  0.50
+|   |   |   |   |   |--- class: 1.0|   |   |   |--- 3_critical/other existing credit  >  0.50
+|   |   |   |   |--- class: 1.0|   |--- 3_existing paid  >  0.50
+|   |   |--- 6_500<=X<1000  <= 0.50
+|   |   |   |--- class: 0.0|   |   |--- 6_500<=X<1000  >  0.50
+|   |   |   |--- class: 1.0

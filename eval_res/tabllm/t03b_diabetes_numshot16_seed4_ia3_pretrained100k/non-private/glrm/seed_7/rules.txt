@@ -1,0 +1,7 @@
+8.000834294568502	(intercept)
+-8.542885856981657	number of times pregnant <= 7.01 AND plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 109.06 AND 2-hour serum insulin (mu U/ml) <= 30.24 AND body mass index <= 30.10
+8.431642543900258	plasma glucose concentration at 2 hours in an oral glucose tolerance test > 85.09 AND diastolic blood pressure (mm Hg) <= 82.07 AND diastolic blood pressure (mm Hg) > 54.01
+-5.324998249960811	plasma glucose concentration at 2 hours in an oral glucose tolerance test <= 109.06 AND triceps skin fold thickness (mm) <= -0.04 AND body mass index <= 30.10
+-4.3537089826248865	body mass index <= 28.21
+-0.9986150774421213	triceps skin fold thickness (mm) <= -0.04
+0.24962117357132677	body mass index <= 30.10

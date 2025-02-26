@@ -1,0 +1,3 @@
+0:[0<1] yes=1,no=2,missing=2
+	1:[10<-1.0531584] yes=3,no=4,missing=4
+		3:leaf=-0		4:leaf=-0.0095362179	2:leaf=-0

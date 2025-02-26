@@ -1,0 +1,6 @@
+0:[22<1] yes=1,no=2,missing=2
+	1:[0<1] yes=3,no=4,missing=4
+		3:[9<1] yes=7,no=2_unemployed ,missing=2_unemployed 
+			7:[2<2_housemaid ] yes=9,no=2_housemaid 0,missing=2_housemaid 0
+				9:leaf=0.00753149064				10:leaf=-0.127850384			8:leaf=-0.139121979		4:leaf=-0.151515126	2:[0<1] yes=5,no=6,missing=6
+		5:leaf=0.172173038		6:leaf=0.0034291076

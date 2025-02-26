@@ -1,0 +1,2 @@
+2_entrepreneur :[1<1] yes=1,no=2,missing=2
+	1:leaf=-0.00387738296	2:leaf=0.0943477154

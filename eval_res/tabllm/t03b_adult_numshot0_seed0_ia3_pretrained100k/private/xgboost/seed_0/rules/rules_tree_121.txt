@@ -1,0 +1,10 @@
+0:[91<1] yes=1,no=2,missing=2
+	1:[95<0.05406273 9] yes=3,no=4,missing=4
+		3:leaf=-0		4:[99<0.213363413 ] yes=7,no=8,missing=8
+			7:leaf=-0.0426571146			8:leaf=-0	2:[46<1] yes=5,no=6,missing=6
+		5:[1<1] yes=9,no=12_ Local-gov ,missing=12_ Local-gov 
+			9:[95<-0.285219938] yes=13,no=14,missing=14
+				13:leaf=-0				14:leaf=0.0547655411			10:[94<-1.02448392] yes=15,no=16,missing=16
+				15:leaf=-0				16:leaf=-0.0290551111		6:[24<1] yes=11,no=12,missing=12
+			11:leaf=0.0129324477			12:[94<-0.817413568] yes=17,no=18,missing=18
+				17:leaf=-0.072568655				18:leaf=-0

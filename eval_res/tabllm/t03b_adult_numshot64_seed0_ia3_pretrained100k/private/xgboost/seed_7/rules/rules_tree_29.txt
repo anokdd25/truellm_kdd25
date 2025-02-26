@@ -1,0 +1,16 @@
+0:[24<1] yes=1,no=2,missing=2
+	1:[51<1] yes=3,no=4,missing=4
+		3:[95<0.864312112] yes=7,no=8,missing=8
+			7:[16<1] yes=4_ Bachelors ,no=16,missing=16
+				15:leaf=-0.0733070597				16:leaf=0.251788169			8:[94<1.0964824] yes=17,no=18,missing=18
+				17:leaf=0.404337496				18:leaf=-0.146810949		4:[14<1] yes=9,no=10,missing=10
+			9:[25<1] yes=19,no=20,missing=20
+				19:leaf=-0.091157034				20:leaf=0.223692149			10:[99<0.42042113 8] yes=21,no=22,missing=22
+				21:leaf=-0.106824771				22:leaf=0.43433696	2:[38<1] yes=5,no=6,missing=6
+		5:[42<1] yes=11,no=12,missing=12
+			11:[31<1] yes=23,no=24,missing=24
+				23:leaf=-0.0245323312				24:leaf=0.153177544			12:[43<1] yes=25,no=26,missing=26
+				25:leaf=0.268849909				26:leaf=-0.00901867449		6:[91<1] yes=13,no=14,missing=14
+			13:[51<1] yes=27,no=28,missing=28
+				27:leaf=0.228488341				28:leaf=-0.167930812			12_ Sel-emp-not-inc :[5<1] yes=29,no=30,missing=30
+				29:leaf=0.211732849				30:leaf=-0.0378636122
